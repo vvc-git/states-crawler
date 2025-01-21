@@ -1,0 +1,922 @@
+[
+{
+    "name": "Angra dos Reis",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "157",
+    "total_population": "179120 hab.",
+    "total_area": "813,420km²",
+    "density": "220,2hab./km²",
+    "hdi": "0,724",
+    "url": "https://pt.wikipedia.org/wiki/Angra_dos_Reis"
+},
+{
+    "name": "Volta Redonda",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "127",
+    "total_population": "261584 hab.",
+    "total_area": "182,105km²",
+    "density": "1436,4hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/Volta_Redonda"
+},
+{
+    "name": "Vassouras",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "111",
+    "total_population": "33976 hab.",
+    "total_area": "536,073km²",
+    "density": "63,4hab./km²",
+    "hdi": "0,714",
+    "url": "https://pt.wikipedia.org/wiki/Vassouras"
+},
+{
+    "name": "Varre-Sai",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "363",
+    "total_population": "11208 hab.",
+    "total_area": "201,938km²",
+    "density": "55,5hab./km²",
+    "hdi": "0,659",
+    "url": "https://pt.wikipedia.org/wiki/Varre-Sai"
+},
+{
+    "name": "Valença",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "148",
+    "total_population": "68088 hab.",
+    "total_area": "1300,767km²",
+    "density": "52,3hab./km²",
+    "hdi": "0,738",
+    "url": "https://pt.wikipedia.org/wiki/Valen%C3%A7a_(Rio_de_Janeiro)"
+},
+{
+    "name": "Três Rios",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "125",
+    "total_population": "82468 hab.",
+    "total_area": "322,843km²",
+    "density": "255,4hab./km²",
+    "hdi": "0,725",
+    "url": "https://pt.wikipedia.org/wiki/Tr%C3%AAs_Rios"
+},
+{
+    "name": "Trajano de Moraes",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "222",
+    "total_population": "10,302 hab.",
+    "total_area": "591,151km²",
+    "density": "0hab./km²",
+    "hdi": "0,667",
+    "url": "https://pt.wikipedia.org/wiki/Trajano_de_Moraes"
+},
+{
+    "name": "Teresópolis",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "94",
+    "total_population": "165123 hab.",
+    "total_area": "770,601km²",
+    "density": "214,3hab./km²",
+    "hdi": "0,730",
+    "url": "https://pt.wikipedia.org/wiki/Teres%C3%B3polis"
+},
+{
+    "name": "Tanguá",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "65",
+    "total_population": "31086 hab.",
+    "total_area": "143,007km²",
+    "density": "217,4hab./km²",
+    "hdi": "0,654",
+    "url": "https://pt.wikipedia.org/wiki/Tangu%C3%A1"
+},
+{
+    "name": "Sumidouro",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "174",
+    "total_population": "15206 hab.",
+    "total_area": "413,407km²",
+    "density": "36,8hab./km²",
+    "hdi": "0,611",
+    "url": "https://pt.wikipedia.org/wiki/Sumidouro_(Rio_de_Janeiro)"
+},
+{
+    "name": "Silva Jardim",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "121",
+    "total_population": "21352 hab.",
+    "total_area": "937,755km²",
+    "density": "22,8hab./km²",
+    "hdi": "0,731",
+    "url": "https://pt.wikipedia.org/wiki/Silva_Jardim"
+},
+{
+    "name": "Seropédica",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "75",
+    "total_population": "80596 hab.",
+    "total_area": "283,634km²",
+    "density": "284,2hab./km²",
+    "hdi": "0,722",
+    "url": "https://pt.wikipedia.org/wiki/Serop%C3%A9dica"
+},
+{
+    "name": "Saquarema",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "96",
+    "total_population": "89559 hab.",
+    "total_area": "352,130km²",
+    "density": "254,3hab./km²",
+    "hdi": "0,709",
+    "url": "https://pt.wikipedia.org/wiki/Saquarema"
+},
+{
+    "name": "Sapucaia",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "150",
+    "total_population": "17,729 hab.",
+    "total_area": "540,673km²",
+    "density": "0hab./km²",
+    "hdi": "0,675",
+    "url": "https://pt.wikipedia.org/wiki/Sapucaia_(Rio_de_Janeiro)"
+},
+{
+    "name": "São Sebastião do Alto",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "232",
+    "total_population": "8906 hab.",
+    "total_area": "397,180km²",
+    "density": "22,4hab./km²",
+    "hdi": "0,646",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_do_Alto"
+},
+{
+    "name": "São Pedro da Aldeia",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "135",
+    "total_population": "107556 hab.",
+    "total_area": "332,922km²",
+    "density": "323,1hab./km²",
+    "hdi": "0,712",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro_da_Aldeia"
+},
+{
+    "name": "São José do Vale do Rio Preto",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "129",
+    "total_population": "22080 hab.",
+    "total_area": "220,187km²",
+    "density": "100,3hab./km²",
+    "hdi": "0,660",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Vale_do_Rio_Preto"
+},
+{
+    "name": "São José de Ubá",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "293",
+    "total_population": "7175 hab.",
+    "total_area": "250,596km²",
+    "density": "28,6hab./km²",
+    "hdi": "0,718",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_de_Ub%C3%A1"
+},
+{
+    "name": "São João de Meriti",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "25",
+    "total_population": "473385 hab.",
+    "total_area": "35,216km²",
+    "density": "13442,3hab./km²",
+    "hdi": "0,719",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_de_Meriti"
+},
+{
+    "name": "São João da Barra",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "334",
+    "total_population": "36731 hab.",
+    "total_area": "458,611km²",
+    "density": "80,1hab./km²",
+    "hdi": "0,671",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_da_Barra"
+},
+{
+    "name": "São Gonçalo",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "25",
+    "total_population": "960652 hab.",
+    "total_area": "248,160km²",
+    "density": "3871,1hab./km²",
+    "hdi": "0,739",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Gon%C3%A7alo_(Rio_de_Janeiro)"
+},
+{
+    "name": "São Francisco de Itabapoana",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "327",
+    "total_population": "45059 hab.",
+    "total_area": "1118,037km²",
+    "density": "40,3hab./km²",
+    "hdi": "0,639",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_de_Itabapoana"
+},
+{
+    "name": "São Fidélis",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "326",
+    "total_population": "39989 hab.",
+    "total_area": "1028,095km²",
+    "density": "38,9hab./km²",
+    "hdi": "0,691",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Fid%C3%A9lis"
+},
+{
+    "name": "Santo Antônio de Pádua",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "257",
+    "total_population": "43686 hab.",
+    "total_area": "603,633km²",
+    "density": "72,4hab./km²",
+    "hdi": "0,718",
+    "url": "https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_de_P%C3%A1dua_(Rio_de_Janeiro)"
+},
+{
+    "name": "Quissamã",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "234",
+    "total_population": "25535 hab.",
+    "total_area": "715,877km²",
+    "density": "35,7hab./km²",
+    "hdi": "0,704",
+    "url": "https://pt.wikipedia.org/wiki/Quissam%C3%A3"
+},
+{
+    "name": "Rio das Ostras",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "156",
+    "total_population": "156491 hab.",
+    "total_area": "228044km²",
+    "density": "0,7hab./km²",
+    "hdi": "0,773",
+    "url": "https://pt.wikipedia.org/wiki/Rio_das_Ostras"
+},
+{
+    "name": "Santa Maria Madalena",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "219",
+    "total_population": "10282 hab.",
+    "total_area": "815,591km²",
+    "density": "12,6hab./km²",
+    "hdi": "0,669",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Maria_Madalena_(Rio_de_Janeiro)"
+},
+{
+    "name": "Resende",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "146",
+    "total_population": "133244 hab.",
+    "total_area": "1099,336km²",
+    "density": "121,2hab./km²",
+    "hdi": "0,768",
+    "url": "https://pt.wikipedia.org/wiki/Resende_(Rio_de_Janeiro)"
+},
+{
+    "name": "Rio das Flores",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "164",
+    "total_population": "8954 hab.",
+    "total_area": "477,662km²",
+    "density": "18,7hab./km²",
+    "hdi": "0,739",
+    "url": "https://pt.wikipedia.org/wiki/Rio_das_Flores"
+},
+{
+    "name": "Rio Claro",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "128",
+    "total_population": "18529 hab.",
+    "total_area": "841,390km²",
+    "density": "22hab./km²",
+    "hdi": "0,737",
+    "url": "https://pt.wikipedia.org/wiki/Rio_Claro_(Rio_de_Janeiro)"
+},
+{
+    "name": "Rio Bonito",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "84",
+    "total_population": "60930 hab.",
+    "total_area": "459,458km²",
+    "density": "132,6hab./km²",
+    "hdi": "0,772",
+    "url": "https://pt.wikipedia.org/wiki/Rio_Bonito"
+},
+{
+    "name": "Rio de Janeiro",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "1148",
+    "total_population": "6211223 hab.",
+    "total_area": "1200,329km²",
+    "density": "5174,6hab./km²",
+    "hdi": "0,799",
+    "url": "https://pt.wikipedia.org/wiki/Rio_de_Janeiro"
+},
+{
+    "name": "Quatis",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "145",
+    "total_population": "14435 hab.",
+    "total_area": "286,244km²",
+    "density": "50,4hab./km²",
+    "hdi": "0,690",
+    "url": "https://pt.wikipedia.org/wiki/Quatis"
+},
+{
+    "name": "Porciúncula",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "348",
+    "total_population": "19068 hab.",
+    "total_area": "302,201km²",
+    "density": "63,1hab./km²",
+    "hdi": "0,73",
+    "url": "https://pt.wikipedia.org/wiki/Porci%C3%BAncula"
+},
+{
+    "name": "Piraí",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "89",
+    "total_population": "27474 hab.",
+    "total_area": "490,255km²",
+    "density": "56hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Pira%C3%AD"
+},
+{
+    "name": "Pinheiral",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "121",
+    "total_population": "25563 hab.",
+    "total_area": "82,254km²",
+    "density": "310,8hab./km²",
+    "hdi": "0,715",
+    "url": "https://pt.wikipedia.org/wiki/Pinheiral"
+},
+{
+    "name": "Petrópolis",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "68",
+    "total_population": "278881 hab.",
+    "total_area": "795,798km²",
+    "density": "350,4hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/Petr%C3%B3polis"
+},
+{
+    "name": "Queimados",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "45",
+    "total_population": "152311 hab.",
+    "total_area": "75,927km²",
+    "density": "2006hab./km²",
+    "hdi": "0,680",
+    "url": "https://pt.wikipedia.org/wiki/Queimados"
+},
+{
+    "name": "Porto Real",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "123",
+    "total_population": "19974 hab.",
+    "total_area": "50,587km²",
+    "density": "394,8hab./km²",
+    "hdi": "0,713",
+    "url": "https://pt.wikipedia.org/wiki/Porto_Real"
+},
+{
+    "name": "Paty do Alferes",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "119",
+    "total_population": "29619 hab.",
+    "total_area": "314,341km²",
+    "density": "94,2hab./km²",
+    "hdi": "0,671",
+    "url": "https://pt.wikipedia.org/wiki/Paty_do_Alferes"
+},
+{
+    "name": "Paraíba do Sul",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "138",
+    "total_population": "42063 hab.",
+    "total_area": "571,118km²",
+    "density": "73,7hab./km²",
+    "hdi": "0,702",
+    "url": "https://pt.wikipedia.org/wiki/Para%C3%ADba_do_Sul"
+},
+{
+    "name": "Paraty",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "258",
+    "total_population": "45243 hab.",
+    "total_area": "924,296km²",
+    "density": "48,9hab./km²",
+    "hdi": "0,693",
+    "url": "https://pt.wikipedia.org/wiki/Paraty"
+},
+{
+    "name": "Paracambi",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "81",
+    "total_population": "41375 hab.",
+    "total_area": "190,949km²",
+    "density": "216,7hab./km²",
+    "hdi": "0,720",
+    "url": "https://pt.wikipedia.org/wiki/Paracambi"
+},
+{
+    "name": "Nilópolis",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "37,8",
+    "total_population": "162893 hab.",
+    "total_area": "19,393km²",
+    "density": "8399,6hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/Nil%C3%B3polis"
+},
+{
+    "name": "Nova Iguaçu",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "40",
+    "total_population": "843046 hab.",
+    "total_area": "520,581km²",
+    "density": "1619,4hab./km²",
+    "hdi": "0,713",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Igua%C3%A7u"
+},
+{
+    "name": "Nova Friburgo",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "136",
+    "total_population": "189939 hab.",
+    "total_area": "935,429km²",
+    "density": "203,1hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Friburgo"
+},
+{
+    "name": "Niterói",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "15",
+    "total_population": "481749 hab.",
+    "total_area": "133,757km²",
+    "density": "3601,7hab./km²",
+    "hdi": "0,837",
+    "url": "https://pt.wikipedia.org/wiki/Niter%C3%B3i"
+},
+{
+    "name": "Miguel Pereira",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "120",
+    "total_population": "25522 hab.",
+    "total_area": "287,933km²",
+    "density": "88,6hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/Miguel_Pereira"
+},
+{
+    "name": "Mesquita",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "24",
+    "total_population": "177016 hab.",
+    "total_area": "41,490km²",
+    "density": "4266,5hab./km²",
+    "hdi": "0,737",
+    "url": "https://pt.wikipedia.org/wiki/Mesquita_(Rio_de_Janeiro)"
+},
+{
+    "name": "Mendes",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "92",
+    "total_population": "17,502 hab.",
+    "total_area": "95,324km²",
+    "density": "0,2hab./km²",
+    "hdi": "0,736",
+    "url": "https://pt.wikipedia.org/wiki/Mendes"
+},
+{
+    "name": "Natividade",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "333",
+    "total_population": "15082 hab.",
+    "total_area": "387,026km²",
+    "density": "39hab./km²",
+    "hdi": "0,730",
+    "url": "https://pt.wikipedia.org/wiki/Natividade_(Rio_de_Janeiro)"
+},
+{
+    "name": "Miracema",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "271",
+    "total_population": "26829 hab.",
+    "total_area": "303,353km²",
+    "density": "88,4hab./km²",
+    "hdi": "0,733",
+    "url": "https://pt.wikipedia.org/wiki/Miracema"
+},
+{
+    "name": "Mangaratiba",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "85",
+    "total_population": "41220 hab.",
+    "total_area": "356,408km²",
+    "density": "115,7hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/Mangaratiba"
+},
+{
+    "name": "Maricá",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "60",
+    "total_population": "197277 hab.",
+    "total_area": "361572km²",
+    "density": "0,5hab./km²",
+    "hdi": "0,765",
+    "url": "https://pt.wikipedia.org/wiki/Maric%C3%A1"
+},
+{
+    "name": "Magé",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "50",
+    "total_population": "228127 hab.",
+    "total_area": "390,775km²",
+    "density": "583,8hab./km²",
+    "hdi": "0,709",
+    "url": "https://pt.wikipedia.org/wiki/Mag%C3%A9"
+},
+{
+    "name": "Macuco",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "210",
+    "total_population": "5415 hab.",
+    "total_area": "78,364km²",
+    "density": "69,1hab./km²",
+    "hdi": "0,703",
+    "url": "https://pt.wikipedia.org/wiki/Macuco_(Rio_de_Janeiro)"
+},
+{
+    "name": "Itatiaia",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "174",
+    "total_population": "29996 hab.",
+    "total_area": "224,957km²",
+    "density": "133,3hab./km²",
+    "hdi": "0,737",
+    "url": "https://pt.wikipedia.org/wiki/Itatiaia"
+},
+{
+    "name": "Japeri",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "70",
+    "total_population": "96289 hab.",
+    "total_area": "82,832km²",
+    "density": "1162,5hab./km²",
+    "hdi": "0,659",
+    "url": "https://pt.wikipedia.org/wiki/Japeri"
+},
+{
+    "name": "Laje do Muriaé",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "300",
+    "total_population": "7491 hab.",
+    "total_area": "250,518km²",
+    "density": "29,9hab./km²",
+    "hdi": "0,668",
+    "url": "https://pt.wikipedia.org/wiki/Laje_do_Muria%C3%A9"
+},
+{
+    "name": "Macaé",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "190",
+    "total_population": "264138 hab.",
+    "total_area": "1216,989km²",
+    "density": "217hab./km²",
+    "hdi": "0,764",
+    "url": "https://pt.wikipedia.org/wiki/Maca%C3%A9"
+},
+{
+    "name": "Itaperuna",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "300",
+    "total_population": "101041 hab.",
+    "total_area": "1106,694km²",
+    "density": "91,3hab./km²",
+    "hdi": "0,730",
+    "url": "https://pt.wikipedia.org/wiki/Itaperuna"
+},
+{
+    "name": "Itaocara",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "247",
+    "total_population": "22919 hab.",
+    "total_area": "433,182km²",
+    "density": "52,9hab./km²",
+    "hdi": "0,713",
+    "url": "https://pt.wikipedia.org/wiki/Itaocara"
+},
+{
+    "name": "Italva",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "345",
+    "total_population": "14063 hab.",
+    "total_area": "296,174km²",
+    "density": "47,5hab./km²",
+    "hdi": "0,724",
+    "url": "https://pt.wikipedia.org/wiki/Italva"
+},
+{
+    "name": "Itaguaí",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "73",
+    "total_population": "133019 hab.",
+    "total_area": "275,870km²",
+    "density": "482,2hab./km²",
+    "hdi": "0,715",
+    "url": "https://pt.wikipedia.org/wiki/Itagua%C3%AD"
+},
+{
+    "name": "Itaboraí",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "45",
+    "total_population": "224267 hab.",
+    "total_area": "429,961km²",
+    "density": "521,6hab./km²",
+    "hdi": "0,704",
+    "url": "https://pt.wikipedia.org/wiki/Itabora%C3%AD"
+},
+{
+    "name": "Iguaba Grande",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "123",
+    "total_population": "29344 hab.",
+    "total_area": "53,601km²",
+    "density": "547,5hab./km²",
+    "hdi": "0,761",
+    "url": "https://pt.wikipedia.org/wiki/Iguaba_Grande"
+},
+{
+    "name": "Guapimirim",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "50",
+    "total_population": "51696 hab.",
+    "total_area": "358,443km²",
+    "density": "144,2hab./km²",
+    "hdi": "0,698",
+    "url": "https://pt.wikipedia.org/wiki/Guapimirim"
+},
+{
+    "name": "Engenheiro Paulo de Frontin",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "85",
+    "total_population": "13929 hab.",
+    "total_area": "139,816km²",
+    "density": "99,6hab./km²",
+    "hdi": "0,722",
+    "url": "https://pt.wikipedia.org/wiki/Engenheiro_Paulo_de_Frontin"
+},
+{
+    "name": "Duque de Caxias",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "16",
+    "total_population": "808161 hab.",
+    "total_area": "467,271km²",
+    "density": "1729,5hab./km²",
+    "hdi": "0,711",
+    "url": "https://pt.wikipedia.org/wiki/Duque_de_Caxias_(Rio_de_Janeiro)"
+},
+{
+    "name": "Conceição de Macabu",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "227",
+    "total_population": "21,769 hab.",
+    "total_area": "338,260km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,712",
+    "url": "https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_de_Macabu"
+},
+{
+    "name": "Comendador Levy Gasparian",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "160",
+    "total_population": "8544 hab.",
+    "total_area": "108,639km²",
+    "density": "78,6hab./km²",
+    "hdi": "0,685",
+    "url": "https://pt.wikipedia.org/wiki/Comendador_Levy_Gasparian"
+},
+{
+    "name": "Casimiro de Abreu",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "140",
+    "total_population": "46110 hab.",
+    "total_area": "462,918km²",
+    "density": "99,6hab./km²",
+    "hdi": "0,726",
+    "url": "https://pt.wikipedia.org/wiki/Casimiro_de_Abreu_(Rio_de_Janeiro)"
+},
+{
+    "name": "Carmo",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "192",
+    "total_population": "17439 hab.",
+    "total_area": "321,187km²",
+    "density": "54,3hab./km²",
+    "hdi": "0,763",
+    "url": "https://pt.wikipedia.org/wiki/Carmo_(Rio_de_Janeiro)"
+},
+{
+    "name": "Cardoso Moreira",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "330",
+    "total_population": "12958 hab.",
+    "total_area": "522,596km²",
+    "density": "24,8hab./km²",
+    "hdi": "0,648",
+    "url": "https://pt.wikipedia.org/wiki/Cardoso_Moreira"
+},
+{
+    "name": "Carapebus",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "210",
+    "total_population": "14713 hab.",
+    "total_area": "305,501km²",
+    "density": "48,2hab./km²",
+    "hdi": "0,74",
+    "url": "https://pt.wikipedia.org/wiki/Carapebus"
+},
+{
+    "name": "Duas Barras",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "180",
+    "total_population": "10980 hab.",
+    "total_area": "379,619km²",
+    "density": "28,9hab./km²",
+    "hdi": "0,659",
+    "url": "https://pt.wikipedia.org/wiki/Duas_Barras"
+},
+{
+    "name": "Cordeiro",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "190",
+    "total_population": "20783 hab.",
+    "total_area": "113,048km²",
+    "density": "183,8hab./km²",
+    "hdi": "0,729",
+    "url": "https://pt.wikipedia.org/wiki/Cordeiro_(Rio_de_Janeiro)"
+},
+{
+    "name": "Cantagalo",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "200",
+    "total_population": "19390 hab.",
+    "total_area": "747,210km²",
+    "density": "25,9hab./km²",
+    "hdi": "0,709",
+    "url": "https://pt.wikipedia.org/wiki/Cantagalo_(Rio_de_Janeiro)"
+},
+{
+    "name": "Cambuci",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "295",
+    "total_population": "14616 hab.",
+    "total_area": "558,281km²",
+    "density": "26,2hab./km²",
+    "hdi": "0,691",
+    "url": "https://pt.wikipedia.org/wiki/Cambuci"
+},
+{
+    "name": "Cachoeiras de Macacu",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "97",
+    "total_population": "59,837 hab.",
+    "total_area": "954,749km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,700",
+    "url": "https://pt.wikipedia.org/wiki/Cachoeiras_de_Macacu"
+},
+{
+    "name": "Cabo Frio",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "155",
+    "total_population": "222161 hab.",
+    "total_area": "413,449km²",
+    "density": "537,3hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Cabo_Frio"
+},
+{
+    "name": "Bom Jesus do Itabapoana",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "366",
+    "total_population": "35173 hab.",
+    "total_area": "596,659km²",
+    "density": "58,9hab./km²",
+    "hdi": "0,732",
+    "url": "https://pt.wikipedia.org/wiki/Bom_Jesus_do_Itabapoana"
+},
+{
+    "name": "Bom Jardim",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "160",
+    "total_population": "28102 hab.",
+    "total_area": "382,430km²",
+    "density": "73,5hab./km²",
+    "hdi": "0,660",
+    "url": "https://pt.wikipedia.org/wiki/Bom_Jardim_(Rio_de_Janeiro)"
+},
+{
+    "name": "Belford Roxo",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "28",
+    "total_population": "446731 hab.",
+    "total_area": "78,985km²",
+    "density": "5655,9hab./km²",
+    "hdi": "0,684",
+    "url": "https://pt.wikipedia.org/wiki/Belford_Roxo"
+},
+{
+    "name": "Campos dos Goytacazes",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "275",
+    "total_population": "483551 hab.",
+    "total_area": "4032,487km²",
+    "density": "119,9hab./km²",
+    "hdi": "0,716",
+    "url": "https://pt.wikipedia.org/wiki/Campos_dos_Goytacazes"
+},
+{
+    "name": "Barra Mansa",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "127",
+    "total_population": "169899 hab.",
+    "total_area": "547,133km²",
+    "density": "310,5hab./km²",
+    "hdi": "0,729",
+    "url": "https://pt.wikipedia.org/wiki/Barra_Mansa"
+},
+{
+    "name": "Barra do Piraí",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "100",
+    "total_population": "101139 hab.",
+    "total_area": "578,471km²",
+    "density": "174,8hab./km²",
+    "hdi": "0,733",
+    "url": "https://pt.wikipedia.org/wiki/Barra_do_Pira%C3%AD"
+},
+{
+    "name": "Arraial do Cabo",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "118",
+    "total_population": "30827 hab.",
+    "total_area": "152,305km²",
+    "density": "202,4hab./km²",
+    "hdi": "0,733",
+    "url": "https://pt.wikipedia.org/wiki/Arraial_do_Cabo"
+},
+{
+    "name": "Armação dos Búzios",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "160",
+    "total_population": "35060 hab.",
+    "total_area": "69,287km²",
+    "density": "506hab./km²",
+    "hdi": "0,728",
+    "url": "https://pt.wikipedia.org/wiki/Arma%C3%A7%C3%A3o_dos_B%C3%BAzios"
+},
+{
+    "name": "Areal",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "103",
+    "total_population": "11828 hab.",
+    "total_area": "110,919km²",
+    "density": "106,6hab./km²",
+    "hdi": "0,684",
+    "url": "https://pt.wikipedia.org/wiki/Areal"
+},
+{
+    "name": "Araruama",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "124",
+    "total_population": "136109 hab.",
+    "total_area": "638,276km²",
+    "density": "213,2hab./km²",
+    "hdi": "0,718",
+    "url": "https://pt.wikipedia.org/wiki/Araruama"
+},
+{
+    "name": "Aperibé",
+    "state": "Rio de Janeiro",
+    "distance_to_the_capital": "248",
+    "total_population": "11034 hab.",
+    "total_area": "94,542km²",
+    "density": "116,7hab./km²",
+    "hdi": "0,692",
+    "url": "https://pt.wikipedia.org/wiki/Aperib%C3%A9"
+}
+]

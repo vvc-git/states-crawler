@@ -1,0 +1,851 @@
+Name,State,Distance to the Capital (Km),Total Population,Total Area,Density,HDI,URL
+Aricanduva,Minas Gerais,419,4719 hab.,"243,329km²","19,4hab./km²","0,582",https://pt.wikipedia.org/wiki/Aricanduva
+Buenópolis,Minas Gerais,272,9150 hab.,"1599,881km²","5,7hab./km²","0,669",https://pt.wikipedia.org/wiki/Buen%C3%B3polis
+Bueno Brandão,Minas Gerais,471,11233 hab.,"355,233km²","31,6hab./km²","0,658",https://pt.wikipedia.org/wiki/Bueno_Brand%C3%A3o
+Carbonita,Minas Gerais,421,8512 hab.,"1456,095km²","5,8hab./km²","0,638",https://pt.wikipedia.org/wiki/Carbonita
+Conceição dos Ouros,Minas Gerais,450,10609 hab.,"182,673km²","58,1hab./km²","0,703",https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_dos_Ouros
+Conceição do Rio Verde,Minas Gerais,320,12950 hab.,"370,040km²",35hab./km²,"0,665",https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_do_Rio_Verde
+Florestal,Minas Gerais,60,7602 hab.,"194,356km²","39,1hab./km²","0,724",https://pt.wikipedia.org/wiki/Florestal
+Divinésia,Minas Gerais,297,4226 hab.,"116,970km²","36,1hab./km²","0,724",https://pt.wikipedia.org/wiki/Divin%C3%A9sia
+Formoso,Minas Gerais,865,7949 hab.,"3686,004km²","2,2hab./km²","0,695",https://pt.wikipedia.org/wiki/Formoso_(Minas_Gerais)
+Formiga,Minas Gerais,196,68248 hab.,"1501,915km²","45,4hab./km²","0,755",https://pt.wikipedia.org/wiki/Formiga_(Minas_Gerais)
+Ibitiúra de Minas,Minas Gerais,478,3406 hab.,"68,386km²","49,8hab./km²","0,674",https://pt.wikipedia.org/wiki/Ibiti%C3%BAra_de_Minas
+Ibirité,Minas Gerais,22,170537 hab.,"72,395km²","2355,6hab./km²","0,704",https://pt.wikipedia.org/wiki/Ibirit%C3%A9
+Ibiraci,Minas Gerais,"424,7",10948 hab.,"562,095km²","19,5hab./km²","0,706",https://pt.wikipedia.org/wiki/Ibiraci
+Indaiabira,Minas Gerais,721,6346 hab.,"1004,149km²","6,3hab./km²","0,610",https://pt.wikipedia.org/wiki/Indaiabira
+Inconfidentes,Minas Gerais,441,6908 hab.,"149,467km²","46,2hab./km²","0,692",https://pt.wikipedia.org/wiki/Inconfidentes_(Minas_Gerais)
+Imbé de Minas,Minas Gerais,313,6986 hab.,"196,735km²","35,5hab./km²","0,553",https://pt.wikipedia.org/wiki/Imb%C3%A9_de_Minas
+Ilicínea,Minas Gerais,330,12741 hab.,"376,341km²","33,9hab./km²","0,680",https://pt.wikipedia.org/wiki/Ilic%C3%ADnea
+Ijaci,Minas Gerais,310,5863 hab.,"105,387km²","55,6hab./km²","0,738",https://pt.wikipedia.org/wiki/Ijaci
+Jaíba,Minas Gerais,622,37660 hab.,"2740,276km²","13,7hab./km²","0,652",https://pt.wikipedia.org/wiki/Ja%C3%ADba
+Jaguaraçu,Minas Gerais,185,3124 hab.,"163,76km²","19,1hab./km²","0,679",https://pt.wikipedia.org/wiki/Jaguara%C3%A7u
+Jacutinga,Minas Gerais,490,26538 hab.,"347,273km²","76,4hab./km²","0,715",https://pt.wikipedia.org/wiki/Jacutinga_(Minas_Gerais)
+Limeira do Oeste,Minas Gerais,810,7436 hab.,"1317,515km²","5,6hab./km²","0,751",https://pt.wikipedia.org/wiki/Limeira_do_Oeste
+Lima Duarte,Minas Gerais,295,16671 hab.,"848,089km²","19,7hab./km²","0,739",https://pt.wikipedia.org/wiki/Lima_Duarte_(Minas_Gerais)
+Liberdade,Minas Gerais,360,5347 hab.,"402,242km²","13,3hab./km²","0,672",https://pt.wikipedia.org/wiki/Liberdade_(Minas_Gerais)
+Leopoldina,Minas Gerais,322,51145 hab.,"943,076km²","54,2hab./km²","0,726",https://pt.wikipedia.org/wiki/Leopoldina_(Minas_Gerais)
+Leme do Prado,Minas Gerais,529,4341 hab.,"281,305km²","15,4hab./km²","0,670",https://pt.wikipedia.org/wiki/Leme_do_Prado
+Moeda,Minas Gerais,61,5125 hab.,"155,112km²",33hab./km²,"0,733",https://pt.wikipedia.org/wiki/Moeda_(Minas_Gerais)
+Miravânia,Minas Gerais,773,4561 hab.,"603,005km²","7,6hab./km²","0,593",https://pt.wikipedia.org/wiki/Mirav%C3%A2nia
+Miraí,Minas Gerais,300,14946 hab.,"320,628km²","46,6hab./km²","0,724",https://pt.wikipedia.org/wiki/Mira%C3%AD
+Olímpio Noronha,Minas Gerais,354,2533 hab.,"53,930km²",47hab./km²,"0,674",https://pt.wikipedia.org/wiki/Ol%C3%ADmpio_Noronha
+Olhos-d'Água,Minas Gerais,414,5385 hab.,"2092,078km²","2,6hab./km²","0,669",https://pt.wikipedia.org/wiki/Olhos-d%27%C3%81gua
+Olaria,Minas Gerais,325,1981 hab.,"178,493km²","11,1hab./km²","0,636",https://pt.wikipedia.org/wiki/Olaria_(Minas_Gerais)
+Novorizonte,Minas Gerais,664,5273 hab.,"264,076km²",20hab./km²,"0,648",https://pt.wikipedia.org/wiki/Novorizonte
+Novo Oriente de Minas,Minas Gerais,515,10275 hab.,"755,151km²","13,6hab./km²","0,582",https://pt.wikipedia.org/wiki/Novo_Oriente_de_Minas
+Pequi,Minas Gerais,128,4457 hab.,"204,142km²","21,8hab./km²","0,77",https://pt.wikipedia.org/wiki/Pequi_(Minas_Gerais)
+Pequeri,Minas Gerais,314,3335 hab.,"90,929km²","36,7hab./km²","0,746",https://pt.wikipedia.org/wiki/Pequeri
+Pedro Teixeira,Minas Gerais,259,1789 hab.,"113,074km²","15,8hab./km²","0,684",https://pt.wikipedia.org/wiki/Pedro_Teixeira_(Minas_Gerais)
+Presidente Kubitschek,Minas Gerais,298,3053 hab.,"189,546km²","16,1hab./km²","0,671",https://pt.wikipedia.org/wiki/Presidente_Kubitschek
+Presidente Juscelino,Minas Gerais,211,3465 hab.,"695,882km²",5hab./km²,"0,654",https://pt.wikipedia.org/wiki/Presidente_Juscelino_(Minas_Gerais)
+Presidente Bernardes,Minas Gerais,187,4850 hab.,"236,798km²","20,5hab./km²","0,699",https://pt.wikipedia.org/wiki/Presidente_Bernardes_(Minas_Gerais)
+Santa Helena de Minas,Minas Gerais,682,6055 hab.,"276,918km²","21,9hab./km²","0,594",https://pt.wikipedia.org/wiki/Santa_Helena_de_Minas
+Santa Fé de Minas,Minas Gerais,511,3522 hab.,"2916,648km²","1,2hab./km²","0,615",https://pt.wikipedia.org/wiki/Santa_F%C3%A9_de_Minas
+Santa Efigênia de Minas,Minas Gerais,277,4039 hab.,"132,183km²","30,6hab./km²","0,667",https://pt.wikipedia.org/wiki/Santa_Efig%C3%AAnia_de_Minas
+Prudente de Morais,Minas Gerais,65,9573 hab.,"125,783km²","76,1hab./km²","0,752",https://pt.wikipedia.org/wiki/Prudente_de_Morais_(Minas_Gerais)
+Presidente Olegário,Minas Gerais,433,18765 hab.,"3503,848km²","5,4hab./km²","0,701",https://pt.wikipedia.org/wiki/Presidente_Oleg%C3%A1rio
+São Tiago,Minas Gerais,187,11517 hab.,"572,400km²","20,1hab./km²","0,727",https://pt.wikipedia.org/wiki/S%C3%A3o_Tiago_(Minas_Gerais)
+São Sebastião do Rio Verde,Minas Gerais,422,2300 hab.,"91,893km²",25hab./km²,"0,676",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_do_Rio_Verde
+São Geraldo do Baixio,Minas Gerais,398,3963 hab.,"280,954km²","14,1hab./km²","0,630",https://pt.wikipedia.org/wiki/S%C3%A3o_Geraldo_do_Baixio
+São Geraldo da Piedade,Minas Gerais,320,3305 hab.,"152,336km²","21,7hab./km²","0,600",https://pt.wikipedia.org/wiki/S%C3%A3o_Geraldo_da_Piedade
+São Geraldo,Minas Gerais,254,10263 hab.,"187,387km²","54,8hab./km²","0,732",https://pt.wikipedia.org/wiki/S%C3%A3o_Geraldo_(Minas_Gerais)
+São Francisco do Glória,Minas Gerais,353,4844 hab.,"164,023km²","29,5hab./km²","0,692",https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_do_Gl%C3%B3ria
+São Francisco de Sales,Minas Gerais,692,12000 hab.,"1753,35km²","6,8hab./km²","0,771",https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_de_Sales_(Minas_Gerais)
+São Tomás de Aquino,Minas Gerais,430,7222 hab.,"277,546km²",26hab./km²,"0,700",https://pt.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A1s_de_Aquino_(Minas_Gerais)
+Toledo,Minas Gerais,497,7214 hab.,"136,776km²","52,7hab./km²","0,661",https://pt.wikipedia.org/wiki/Toledo_(Minas_Gerais)
+Tocos do Moji,Minas Gerais,441,3950 hab.,"114,945km²","34,4hab./km²","0,696",https://pt.wikipedia.org/wiki/Tocos_do_Moji
+Teixeiras,Minas Gerais,215,11346 hab.,"166,519km²","68,1hab./km²","0,712",https://pt.wikipedia.org/wiki/Teixeiras
+Tocantins,Minas Gerais,268,16567 hab.,"173,994km²","95,2hab./km²","0,762",https://pt.wikipedia.org/wiki/Tocantins_(Minas_Gerais)
+Tiradentes,Minas Gerais,190,7744 hab.,"83,047km²","93,2hab./km²","0,740",https://pt.wikipedia.org/wiki/Tiradentes_(Minas_Gerais)
+Tiros,Minas Gerais,360,7883 hab.,"2093,160km²","3,8hab./km²","0,683",https://pt.wikipedia.org/wiki/Tiros
+Teófilo Otoni,Minas Gerais,450,137418 hab.,"3242,27km²","42,4hab./km²","0,701",https://pt.wikipedia.org/wiki/Te%C3%B3filo_Otoni
+Timóteo,Minas Gerais,196,81579 hab.,"144,381km²",565hab./km²,"0,770",https://pt.wikipedia.org/wiki/Tim%C3%B3teo
+Virgem da Lapa,Minas Gerais,671,11804 hab.,"868,914km²","13,6hab./km²","0,610",https://pt.wikipedia.org/wiki/Virgem_da_Lapa
+Wenceslau Braz,Minas Gerais,465,2356 hab.,"102,487km²",23hab./km²,"0,678",https://pt.wikipedia.org/wiki/Wenceslau_Braz_(Minas_Gerais)
+Volta Grande,Minas Gerais,352,5118 hab.,"208,874km²","24,5hab./km²","0,732",https://pt.wikipedia.org/wiki/Volta_Grande
+Visconde do Rio Branco,Minas Gerais,292,39160 hab.,"243,351km²","160,9hab./km²","0,709",https://pt.wikipedia.org/wiki/Visconde_do_Rio_Branco_(Minas_Gerais)
+Virgolândia,Minas Gerais,311,4552 hab.,"281,541km²","16,2hab./km²","0,667",https://pt.wikipedia.org/wiki/Virgol%C3%A2ndia
+Virginópolis,Minas Gerais,270,10314 hab.,"440,424km²","23,4hab./km²","0,717",https://pt.wikipedia.org/wiki/Virgin%C3%B3polis
+Virgínia,Minas Gerais,420,8867 hab.,"326,418km²","27,2hab./km²","0,651",https://pt.wikipedia.org/wiki/Virg%C3%ADnia_(Minas_Gerais)
+Vieiras,Minas Gerais,329,3700 hab.,"112,691km²","32,8hab./km²","0,668",https://pt.wikipedia.org/wiki/Vieiras
+Veredinha,Minas Gerais,496,5773 hab.,"635,262km²","9,1hab./km²","0,632",https://pt.wikipedia.org/wiki/Veredinha
+Verdelândia,Minas Gerais,570,8350 hab.,"1451,856km²","5,8hab./km²","0,602",https://pt.wikipedia.org/wiki/Verdel%C3%A2ndia
+Vazante,Minas Gerais,520,19975 hab.,"1903,072km²","10,5hab./km²","0,742",https://pt.wikipedia.org/wiki/Vazante
+Viçosa,Minas Gerais,230,76430 hab.,"299,418km²","255,3hab./km²","0,775",https://pt.wikipedia.org/wiki/Vi%C3%A7osa_(Minas_Gerais)
+Vespasiano,Minas Gerais,27,129246 hab.,"71,040km²","1819,3hab./km²","0,688",https://pt.wikipedia.org/wiki/Vespasiano_(Minas_Gerais)
+Varzelândia,Minas Gerais,590,18840 hab.,"814,994km²","23,1hab./km²","0,594",https://pt.wikipedia.org/wiki/Varzel%C3%A2ndia
+Vermelho Novo,Minas Gerais,266,4852 hab.,"113,941km²","42,6hab./km²","0,612",https://pt.wikipedia.org/wiki/Vermelho_Novo
+Veríssimo,Minas Gerais,524,3411 hab.,"1028,577km²","3,3hab./km²","0,776",https://pt.wikipedia.org/wiki/Ver%C3%ADssimo_(Minas_Gerais)
+Vargem Grande do Rio Pardo,Minas Gerais,750,4633 hab.,"491,512km²","9,4hab./km²","0,598",https://pt.wikipedia.org/wiki/Vargem_Grande_do_Rio_Pardo
+Vargem Bonita,Minas Gerais,322,"2,158 hab.","409,888km²",0hab./km²,"0,76",https://pt.wikipedia.org/wiki/Vargem_Bonita_(Minas_Gerais)
+Vargem Alegre,Minas Gerais,256,6491 hab.,"116,664km²","55,6hab./km²","0,631",https://pt.wikipedia.org/wiki/Vargem_Alegre
+Urucuia,Minas Gerais,608,17479 hab.,"2072,340km²","8,4hab./km²","0,619",https://pt.wikipedia.org/wiki/Urucuia
+Urucânia,Minas Gerais,256,10291 hab.,"139,182km²","73,9hab./km²","0,693",https://pt.wikipedia.org/wiki/Uruc%C3%A2nia
+Várzea da Palma,Minas Gerais,307,39129 hab.,"2195,653km²","17,8hab./km²","0,726",https://pt.wikipedia.org/wiki/V%C3%A1rzea_da_Palma
+Varjão de Minas,Minas Gerais,399,6054 hab.,"652,789km²","9,3hab./km²","0,711",https://pt.wikipedia.org/wiki/Varj%C3%A3o_de_Minas
+Varginha,Minas Gerais,320,142802 hab.,"395,396km²","361,2hab./km²","0,778",https://pt.wikipedia.org/wiki/Varginha
+Uruana de Minas,Minas Gerais,635,3282 hab.,"598,221km²","5,5hab./km²","0,698",https://pt.wikipedia.org/wiki/Uruana_de_Minas
+União de Minas,Minas Gerais,668,4325 hab.,"1150,596km²","3,8hab./km²","0,672",https://pt.wikipedia.org/wiki/Uni%C3%A3o_de_Minas
+Unaí,Minas Gerais,590,86619 hab.,"8445,432km²","10,3hab./km²","0,736",https://pt.wikipedia.org/wiki/Una%C3%AD
+Umburatiba,Minas Gerais,673,2684 hab.,"404,892km²","6,6hab./km²","0,618",https://pt.wikipedia.org/wiki/Umburatiba
+Ubaporanga,Minas Gerais,290,12449 hab.,"189,045km²","65,9hab./km²","0,614",https://pt.wikipedia.org/wiki/Ubaporanga
+Ubaí,Minas Gerais,506,11708 hab.,"820,524km²","14,3hab./km²","0,651",https://pt.wikipedia.org/wiki/Uba%C3%AD
+Uberlândia,Minas Gerais,537,754954 hab.,"4115,206km²","183,5hab./km²","0,789",https://pt.wikipedia.org/wiki/Uberl%C3%A2ndia
+Uberaba,Minas Gerais,481,354142 hab.,"4523,957km²","78,3hab./km²","0,772",https://pt.wikipedia.org/wiki/Uberaba
+Turmalina,Minas Gerais,480,20000 hab.,"1153,111km²","17,3hab./km²","0,705",https://pt.wikipedia.org/wiki/Turmalina_(Minas_Gerais)
+Tupaciguara,Minas Gerais,614,25470 hab.,"1826,028km²","13,9hab./km²","0,719",https://pt.wikipedia.org/wiki/Tupaciguara
+Três Marias,Minas Gerais,270,31687 hab.,"2675,153km²","11,8hab./km²","0,752",https://pt.wikipedia.org/wiki/Tr%C3%AAs_Marias_(Minas_Gerais)
+Turvolândia,Minas Gerais,365,4658 hab.,"221,284km²",21hab./km²,"0,696",https://pt.wikipedia.org/wiki/Turvol%C3%A2ndia
+Ubá,Minas Gerais,290,103365 hab.,"407,452km²","253,7hab./km²","0,724",https://pt.wikipedia.org/wiki/Ub%C3%A1
+Três Corações,Minas Gerais,287,78079 hab.,"828,038km²","94,3hab./km²","0,744",https://pt.wikipedia.org/wiki/Tr%C3%AAs_Cora%C3%A7%C3%B5es
+Tombos,Minas Gerais,370,8201 hab.,"285,124km²","28,8hab./km²","0,718",https://pt.wikipedia.org/wiki/Tombos
+Tumiritinga,Minas Gerais,381,6732 hab.,"500,073km²","13,5hab./km²","0,626",https://pt.wikipedia.org/wiki/Tumiritinga
+Três Pontas,Minas Gerais,297,57127 hab.,"689,794km²","82,8hab./km²","0,731",https://pt.wikipedia.org/wiki/Tr%C3%AAs_Pontas
+Tapira,Minas Gerais,400,4832 hab.,"1180,229km²","4,1hab./km²","0,78",https://pt.wikipedia.org/wiki/Tapira_(Minas_Gerais)
+Tapiraí,Minas Gerais,273,1690 hab.,"407,920km²","4,1hab./km²","0,739",https://pt.wikipedia.org/wiki/Tapira%C3%AD_(Minas_Gerais)
+Sobrália,Minas Gerais,297,5553 hab.,"206,787km²","26,9hab./km²","0,631",https://pt.wikipedia.org/wiki/Sobr%C3%A1lia
+Tarumirim,Minas Gerais,291,14326 hab.,"731,753km²","19,6hab./km²","0,633",https://pt.wikipedia.org/wiki/Tarumirim
+Taquaraçu de Minas,Minas Gerais,"59,4",4224 hab.,"329,287km²","12,8hab./km²","0,651",https://pt.wikipedia.org/wiki/Taquara%C3%A7u_de_Minas
+Taiobeiras,Minas Gerais,683,33040 hab.,"1194,230km²","27,7hab./km²","0,699",https://pt.wikipedia.org/wiki/Taiobeiras
+Taparuba,Minas Gerais,362,3137 hab.,"193,081km²","16,2hab./km²","0,7",https://pt.wikipedia.org/wiki/Taparuba
+Tabuleiro,Minas Gerais,274,4076 hab.,"211,382km²","19,3hab./km²","0,724",https://pt.wikipedia.org/wiki/Tabuleiro
+Soledade de Minas,Minas Gerais,391,5613 hab.,"196,866km²","28,5hab./km²","0,697",https://pt.wikipedia.org/wiki/Soledade_de_Minas
+Simonésia,Minas Gerais,,19421 hab.,"487,850km²","39,8hab./km²","0,679",https://pt.wikipedia.org/wiki/Simon%C3%A9sia
+Simão Pereira,Minas Gerais,304,2537 hab.,"134,676km²","18,8hab./km²","0,76",https://pt.wikipedia.org/wiki/Sim%C3%A3o_Pereira
+Silvianópolis,Minas Gerais,425,6029 hab.,"312,043km²","19,3hab./km²","0,699",https://pt.wikipedia.org/wiki/Silvian%C3%B3polis
+Silveirânia,Minas Gerais,242,2192 hab.,"157,484km²","13,9hab./km²","0,721",https://pt.wikipedia.org/wiki/Silveir%C3%A2nia
+Setubinha,Minas Gerais,580,9917 hab.,"534,655km²","18,5hab./km²","0,542",https://pt.wikipedia.org/wiki/Setubinha
+Sete Lagoas,Minas Gerais,72,237931 hab.,"536,928km²","443,1hab./km²","0,760",https://pt.wikipedia.org/wiki/Sete_Lagoas
+Serro,Minas Gerais,325,21952 hab.,"1217,645km²",18hab./km²,"0,656",https://pt.wikipedia.org/wiki/Serro
+Serranos,Minas Gerais,380,2023 hab.,"212,493km²","9,5hab./km²","0,643",https://pt.wikipedia.org/wiki/Serranos
+Serranópolis de Minas,Minas Gerais,614,4425 hab.,"553,103km²",8hab./km²,"0,655",https://pt.wikipedia.org/wiki/Serran%C3%B3polis_de_Minas
+Serrania,Minas Gerais,382,7540 hab.,"211,477km²","35,7hab./km²","0,677",https://pt.wikipedia.org/wiki/Serrania
+Serra dos Aimorés,Minas Gerais,615,6944 hab.,"213,538km²","32,5hab./km²","0,651",https://pt.wikipedia.org/wiki/Serra_dos_Aimor%C3%A9s_(Minas_Gerais)
+Serra do Salitre,Minas Gerais,368,11801 hab.,"1297,748km²","9,1hab./km²","0,696",https://pt.wikipedia.org/wiki/Serra_do_Salitre
+Serra da Saudade,Minas Gerais,230,833 hab.,"335,659km²","2,5hab./km²","0,677",https://pt.wikipedia.org/wiki/Serra_da_Saudade
+Serra Azul de Minas,Minas Gerais,272,3792 hab.,"222,706km²",17hab./km²,"0,653",https://pt.wikipedia.org/wiki/Serra_Azul_de_Minas
+Seritinga,Minas Gerais,380,1790 hab.,"114,451km²","15,6hab./km²","0,660",https://pt.wikipedia.org/wiki/Seritinga
+Sericita,Minas Gerais,274,7149 hab.,"166,674km²","42,9hab./km²","0,662",https://pt.wikipedia.org/wiki/Sericita
+Senhora dos Remédios,Minas Gerais,180,10565 hab.,"237,107km²","44,6hab./km²","0,685",https://pt.wikipedia.org/wiki/Senhora_dos_Rem%C3%A9dios
+Senhora do Porto,Minas Gerais,222,3067 hab.,"382,256km²",8hab./km²,"0,653",https://pt.wikipedia.org/wiki/Senhora_do_Porto
+Senhora de Oliveira,Minas Gerais,180,5689 hab.,"169,804km²","33,5hab./km²","0,654",https://pt.wikipedia.org/wiki/Senhora_de_Oliveira
+Senador Modestino Gonçalves,Minas Gerais,373,4008 hab.,"952,055km²","4,2hab./km²","0,626",https://pt.wikipedia.org/wiki/Senador_Modestino_Gon%C3%A7alves
+Senador José Bento,Minas Gerais,420,1793 hab.,"94,589km²",19hab./km²,"0,684",https://pt.wikipedia.org/wiki/Senador_Jos%C3%A9_Bento
+Senador Firmino,Minas Gerais,312,7230 hab.,"166,152km²","43,5hab./km²","0,73",https://pt.wikipedia.org/wiki/Senador_Firmino
+Senador Cortes,Minas Gerais,365,1980 hab.,"98,430km²","20,1hab./km²","0,731",https://pt.wikipedia.org/wiki/Senador_Cortes
+Senador Amaral,Minas Gerais,447,5225 hab.,"151,135km²","34,6hab./km²","0,661",https://pt.wikipedia.org/wiki/Senador_Amaral
+Sem-Peixe,Minas Gerais,181,2579 hab.,"176,634km²","14,6hab./km²","0,654",https://pt.wikipedia.org/wiki/Sem-Peixe
+Sarzedo,Minas Gerais,33,36844 hab.,"62,134km²",593hab./km²,"0,734",https://pt.wikipedia.org/wiki/Sarzedo_(Minas_Gerais)
+Sardoá,Minas Gerais,289,5104 hab.,"141,508km²","36,1hab./km²","0,684",https://pt.wikipedia.org/wiki/Sardo%C3%A1
+Sapucaí-Mirim,Minas Gerais,456,6311 hab.,"285,073km²","22,1hab./km²","0,680",https://pt.wikipedia.org/wiki/Sapuca%C3%AD-Mirim
+São Vicente de Minas,Minas Gerais,280,7073 hab.,"392,067km²",18hab./km²,"0,715",https://pt.wikipedia.org/wiki/S%C3%A3o_Vicente_de_Minas
+São Tomé das Letras,Minas Gerais,346,7089 hab.,"369,515km²","19,2hab./km²","0,667",https://pt.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_das_Letras
+São Sebastião do Rio Preto,Minas Gerais,169,1259 hab.,"127,182km²","9,9hab./km²","0,706",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_do_Rio_Preto
+São Sebastião do Paraíso,Minas Gerais,400,71796 hab.,"814,925km²","88,1hab./km²","0,722",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_do_Para%C3%ADso
+São Sebastião do Oeste,Minas Gerais,142,5805 hab.,"404,045km²","14,4hab./km²","0,746",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_do_Oeste
+São Sebastião do Maranhão,Minas Gerais,351,10079 hab.,"519,302km²","19,4hab./km²","0,608",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_do_Maranh%C3%A3o
+São Sebastião do Anta,Minas Gerais,305,6194 hab.,"80,618km²","76,8hab./km²","0,607",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_do_Anta
+São Sebastião da Vargem Alegre,Minas Gerais,296,3113 hab.,"73,629km²","42,3hab./km²","0,660",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_da_Vargem_Alegre
+São Sebastião da Bela Vista,Minas Gerais,362,5598 hab.,"167,428km²","33,4hab./km²","0,692",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_da_Bela_Vista
+São Roque de Minas,Minas Gerais,320,6686 hab.,"2100,702km²","3,2hab./km²","0,766",https://pt.wikipedia.org/wiki/S%C3%A3o_Roque_de_Minas
+São Romão,Minas Gerais,529,10315 hab.,"2434,004km²","4,2hab./km²","0,640",https://pt.wikipedia.org/wiki/S%C3%A3o_Rom%C3%A3o_(Minas_Gerais)
+São Pedro da União,Minas Gerais,419,4885 hab.,"258,511km²","18,9hab./km²","0,674",https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro_da_Uni%C3%A3o
+São Pedro dos Ferros,Minas Gerais,201,7634 hab.,"402,739km²",19hab./km²,"0,659",https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro_dos_Ferros
+São Pedro do Suaçuí,Minas Gerais,305,5103 hab.,"308,771km²","16,5hab./km²","0,665",https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro_do_Sua%C3%A7u%C3%AD
+São Lourenço,Minas Gerais,387,44798 hab.,"58,019km²","772,1hab./km²","0,759",https://pt.wikipedia.org/wiki/S%C3%A3o_Louren%C3%A7o_(Minas_Gerais)
+São José do Mantimento,Minas Gerais,349,2592 hab.,"54,475km²","47,6hab./km²","0,683",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Mantimento
+São Miguel do Anta,Minas Gerais,249,6334 hab.,"152,111km²","41,6hab./km²","0,717",https://pt.wikipedia.org/wiki/S%C3%A3o_Miguel_do_Anta
+São José do Jacuri,Minas Gerais,322,6197 hab.,"345,146km²",18hab./km²,"0,669",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Jacuri
+São José do Goiabal,Minas Gerais,184,5454 hab.,"189,578km²","28,8hab./km²","0,666",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Goiabal
+São José do Divino,Minas Gerais,441,3464 hab.,"326,230km²","10,6hab./km²","0,687",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Divino_(Minas_Gerais)
+São José da Lapa,Minas Gerais,30,26090 hab.,"48,636km²","536,4hab./km²","0,747",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_da_Lapa
+São José da Varginha,Minas Gerais,108,4770 hab.,"205,099km²","23,3hab./km²","0,76",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_da_Varginha
+São José da Barra,Minas Gerais,332,6778 hab.,"312,496km²","21,7hab./km²","0,739",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_da_Barra
+São José da Safira,Minas Gerais,361,3806 hab.,"213,881km²","17,8hab./km²","0,614",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_da_Safira
+São Joaquim de Bicas,Minas Gerais,39,34348 hab.,"71,758km²","478,7hab./km²","0,662",https://pt.wikipedia.org/wiki/S%C3%A3o_Joaquim_de_Bicas
+São João Nepomuceno,Minas Gerais,322,25565 hab.,"407,896km²","62,7hab./km²","0,708",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_Nepomuceno_(Brasil)
+São José do Alegre,Minas Gerais,438,4133 hab.,"89,243km²","46,3hab./km²","0,717",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Alegre
+São João das Missões,Minas Gerais,687,11715 hab.,"675,089km²","17,4hab./km²","0,529",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_das_Miss%C3%B5es
+São João do Pacuí,Minas Gerais,510,3972 hab.,"420,462km²","9,4hab./km²","0,615",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_do_Pacu%C3%AD
+São João do Paraíso,Minas Gerais,785,23910 hab.,"1921,172km²","12,4hab./km²","0,644",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_do_Para%C3%ADso_(Minas_Gerais)
+São João do Oriente,Minas Gerais,270,7393 hab.,"120,122km²","61,5hab./km²","0,648",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_do_Oriente
+São João Evangelista,Minas Gerais,280,15315 hab.,"478,183km²",32hab./km²,"0,638",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_Evangelista_(Minas_Gerais)
+São João do Manhuaçu,Minas Gerais,320,11246 hab.,"142,510km²","78,9hab./km²","0,798",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_do_Manhua%C3%A7u
+São João do Manteninha,Minas Gerais,499,5183 hab.,"139,388km²","37,2hab./km²","0,666",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_do_Manteninha
+São João del-Rei,Minas Gerais,180,94062 hab.,"1452,002km²","64,8hab./km²","0,758",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_del-Rei
+São João da Lagoa,Minas Gerais,439,4822 hab.,"989,854km²","4,9hab./km²","0,673",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_da_Lagoa
+São João Batista do Glória,Minas Gerais,374,7652 hab.,"553,346km²","13,8hab./km²","0,724",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_Batista_do_Gl%C3%B3ria
+São Gonçalo do Rio Preto,Minas Gerais,345,3032 hab.,"313,218km²","9,7hab./km²","0,635",https://pt.wikipedia.org/wiki/S%C3%A3o_Gon%C3%A7alo_do_Rio_Preto
+São Gonçalo do Sapucaí,Minas Gerais,340,25449 hab.,"516,683km²","49,3hab./km²","0,715",https://pt.wikipedia.org/wiki/S%C3%A3o_Gon%C3%A7alo_do_Sapuca%C3%AD
+São Gonçalo do Rio Abaixo,Minas Gerais,84,11850 hab.,"363,828km²","32,6hab./km²","0,667",https://pt.wikipedia.org/wiki/S%C3%A3o_Gon%C3%A7alo_do_Rio_Abaixo
+São João da Ponte,Minas Gerais,574,25033 hab.,"1849,188km²","13,5hab./km²","0,626",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_da_Ponte
+São João da Mata,Minas Gerais,413,2732 hab.,"120,500km²","22,7hab./km²","0,653",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_da_Mata_(Minas_Gerais)
+São Gotardo,Minas Gerais,295,40910 hab.,"853,745km²","47,9hab./km²","0,736",https://pt.wikipedia.org/wiki/S%C3%A3o_Gotardo_(Minas_Gerais)
+São Brás do Suaçuí,Minas Gerais,109,3512 hab.,"110,442km²","31,8hab./km²","0,743",https://pt.wikipedia.org/wiki/S%C3%A3o_Br%C3%A1s_do_Sua%C3%A7u%C3%AD
+São Domingos das Dores,Minas Gerais,300,6943 hab.,"61,157km²","113,5hab./km²","0,723",https://pt.wikipedia.org/wiki/S%C3%A3o_Domingos_das_Dores
+São Gonçalo do Pará,Minas Gerais,129,12411 hab.,"265,578km²","46,7hab./km²","0,744",https://pt.wikipedia.org/wiki/S%C3%A3o_Gon%C3%A7alo_do_Par%C3%A1
+São Francisco de Paula,Minas Gerais,165,6487 hab.,"316,414km²","20,5hab./km²","0,714",https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_de_Paula_(Minas_Gerais)
+São Gonçalo do Abaeté,Minas Gerais,380,8389 hab.,"2692,171km²","3,1hab./km²","0,670",https://pt.wikipedia.org/wiki/S%C3%A3o_Gon%C3%A7alo_do_Abaet%C3%A9
+São Francisco,Minas Gerais,589,56323 hab.,"3299,801km²","17,1hab./km²","0,638",https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_(Minas_Gerais)
+São Félix de Minas,Minas Gerais,393,3382 hab.,"165,744km²","20,4hab./km²","0,635",https://pt.wikipedia.org/wiki/S%C3%A3o_F%C3%A9lix_de_Minas
+São Domingos do Prata,Minas Gerais,136,17393 hab.,"743,768km²","23,4hab./km²","0,690",https://pt.wikipedia.org/wiki/S%C3%A3o_Domingos_do_Prata
+São Bento Abade,Minas Gerais,325,4577 hab.,"80,404km²","56,9hab./km²","0,672",https://pt.wikipedia.org/wiki/S%C3%A3o_Bento_Abade
+Santos Dumont,Minas Gerais,220,46289 hab.,"637,377km²","72,6hab./km²","0,766",https://pt.wikipedia.org/wiki/Santos_Dumont_(Minas_Gerais)
+Santo Hipólito,Minas Gerais,241,2717 hab.,"430,775km²","6,3hab./km²","0,671",https://pt.wikipedia.org/wiki/Santo_Hip%C3%B3lito
+Santo Antônio do Rio Abaixo,Minas Gerais,190,1777 hab.,"107,154km²","16,6hab./km²","0,698",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Rio_Abaixo
+Santo Antônio do Retiro,Minas Gerais,674,6629 hab.,"796,290km²","8,3hab./km²","0,570",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Retiro
+Santo Antônio do Monte,Minas Gerais,198,28427 hab.,"1129,365km²","25,2hab./km²","0,724",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Monte
+Santo Antônio do Jacinto,Minas Gerais,892,11780 hab.,"497,437km²","23,7hab./km²","0,574",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Jacinto
+Santo Antônio do Itambé,Minas Gerais,294,3915 hab.,"305,737km²","12,8hab./km²","0,635",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Itamb%C3%A9
+Santo Antônio do Grama,Minas Gerais,220,4090 hab.,"129,810km²","31,5hab./km²","0,693",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Grama
+Santana dos Montes,Minas Gerais,120,3822 hab.,"196,437km²","19,5hab./km²","0,692",https://pt.wikipedia.org/wiki/Santana_dos_Montes
+Santo Antônio do Amparo,Minas Gerais,172,17285 hab.,"491,725km²","35,2hab./km²","0,726",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Amparo
+Santo Antônio do Aventureiro,Minas Gerais,286,3534 hab.,"201,887km²","17,5hab./km²","0,709",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Aventureiro
+Santana do Riacho,Minas Gerais,110,4274 hab.,"677,207km²","6,3hab./km²","0,665",https://pt.wikipedia.org/wiki/Santana_do_Riacho
+Santana do Jacaré,Minas Gerais,213,4847 hab.,"107,445km²","45,1hab./km²","0,7",https://pt.wikipedia.org/wiki/Santana_do_Jacar%C3%A9
+Santana do Manhuaçu,Minas Gerais,306,8603 hab.,"346,964km²","24,8hab./km²","0,669",https://pt.wikipedia.org/wiki/Santana_do_Manhua%C3%A7u
+Santana do Paraíso,Minas Gerais,237,44800 hab.,"276,067km²","162,3hab./km²","0,685",https://pt.wikipedia.org/wiki/Santana_do_Para%C3%ADso
+Santana do Garambéu,Minas Gerais,257,2476 hab.,"203,074km²","12,2hab./km²","0,667",https://pt.wikipedia.org/wiki/Santana_do_Garamb%C3%A9u
+Santana de Pirapama,Minas Gerais,152,7030 hab.,"1220,985km²","5,8hab./km²","0,679",https://pt.wikipedia.org/wiki/Santana_de_Pirapama
+Santana do Deserto,Minas Gerais,306,3747 hab.,"182,655km²","20,5hab./km²","0,744",https://pt.wikipedia.org/wiki/Santana_do_Deserto
+Santa Rita do Sapucaí,Minas Gerais,420,43260 hab.,"352,969km²","122,6hab./km²","0,721",https://pt.wikipedia.org/wiki/Santa_Rita_do_Sapuca%C3%AD
+Santa Rita do Itueto,Minas Gerais,477,5522 hab.,"485,081km²","11,4hab./km²","0,607",https://pt.wikipedia.org/wiki/Santa_Rita_do_Itueto
+Santana de Cataguases,Minas Gerais,325,3622 hab.,"162,549km²","22,3hab./km²","0,739",https://pt.wikipedia.org/wiki/Santana_de_Cataguases
+Santana da Vargem,Minas Gerais,261,7239 hab.,"172,444km²",42hab./km²,"0,698",https://pt.wikipedia.org/wiki/Santana_da_Vargem
+Santa Rosa da Serra,Minas Gerais,279,3224 hab.,"296,342km²","10,9hab./km²","0,600",https://pt.wikipedia.org/wiki/Santa_Rosa_da_Serra
+Santa Vitória,Minas Gerais,760,19872 hab.,"3021,74km²","6,6hab./km²","0,710",https://pt.wikipedia.org/wiki/Santa_Vit%C3%B3ria_(Minas_Gerais)
+Santa Rita de Jacutinga,Minas Gerais,380,4976 hab.,"437,555km²","11,4hab./km²","0,682",https://pt.wikipedia.org/wiki/Santa_Rita_de_Jacutinga
+Santa Rita de Minas,Minas Gerais,319,6552 hab.,"67,594km²","96,9hab./km²","0,681",https://pt.wikipedia.org/wiki/Santa_Rita_de_Minas
+Santa Rita de Ibitipoca,Minas Gerais,241,3301 hab.,"324,234km²","10,2hab./km²","0,630",https://pt.wikipedia.org/wiki/Santa_Rita_de_Ibitipoca
+Santa Rita de Caldas,Minas Gerais,425,9027 hab.,"503,011km²","17,9hab./km²","0,690",https://pt.wikipedia.org/wiki/Santa_Rita_de_Caldas
+Santa Maria do Suaçuí,Minas Gerais,357,12788 hab.,"624,047km²","20,5hab./km²","0,648",https://pt.wikipedia.org/wiki/Santa_Maria_do_Sua%C3%A7u%C3%AD
+Santa Maria do Salto,Minas Gerais,827,5232 hab.,"440,605km²","11,9hab./km²","0,593",https://pt.wikipedia.org/wiki/Santa_Maria_do_Salto
+Santa Juliana,Minas Gerais,453,"15,734 hab.","723,784km²",0hab./km²,"0,706",https://pt.wikipedia.org/wiki/Santa_Juliana_(Minas_Gerais)
+Santa Maria de Itabira,Minas Gerais,132,10836 hab.,"597,441km²","18,1hab./km²","0,648",https://pt.wikipedia.org/wiki/Santa_Maria_de_Itabira
+Santa Margarida,Minas Gerais,255,15011 hab.,"256,183km²","58,6hab./km²","0,696",https://pt.wikipedia.org/wiki/Santa_Margarida_(Minas_Gerais)
+Santa Luzia,Minas Gerais,18,219132 hab.,"235,205km²","931,7hab./km²","0,715",https://pt.wikipedia.org/wiki/Santa_Luzia_(Minas_Gerais)
+Santa Bárbara do Monte Verde,Minas Gerais,334,2789 hab.,"416,081km²","6,7hab./km²","0,606",https://pt.wikipedia.org/wiki/Santa_B%C3%A1rbara_do_Monte_Verde
+Santa Cruz de Salinas,Minas Gerais,760,4397 hab.,"587,268km²","7,5hab./km²","0,599",https://pt.wikipedia.org/wiki/Santa_Cruz_de_Salinas
+Santa Bárbara do Tugúrio,Minas Gerais,185,4208 hab.,"194,564km²","21,6hab./km²","0,666",https://pt.wikipedia.org/wiki/Santa_B%C3%A1rbara_do_Tug%C3%BArio
+Santa Cruz do Escalvado,Minas Gerais,214,4693 hab.,"258,726km²","18,1hab./km²","0,625",https://pt.wikipedia.org/wiki/Santa_Cruz_do_Escalvado
+Santa Bárbara do Leste,Minas Gerais,290,7679 hab.,"110,789km²","69,3hab./km²","0,707",https://pt.wikipedia.org/wiki/Santa_B%C3%A1rbara_do_Leste
+Santa Cruz de Minas,Minas Gerais,181,8109 hab.,"3,565km²","2274,6hab./km²","0,706",https://pt.wikipedia.org/wiki/Santa_Cruz_de_Minas
+Salto da Divisa,Minas Gerais,877,6110 hab.,"938,005km²","6,5hab./km²","0,608",https://pt.wikipedia.org/wiki/Salto_da_Divisa
+Sacramento,Minas Gerais,480,26185 hab.,"3073,268km²","8,5hab./km²","0,732",https://pt.wikipedia.org/wiki/Sacramento_(Minas_Gerais)
+Salinas,Minas Gerais,640,41349 hab.,"1897,169km²","21,8hab./km²","0,699",https://pt.wikipedia.org/wiki/Salinas_(Minas_Gerais)
+Santa Bárbara,Minas Gerais,105,30466 hab.,"684,505km²","44,5hab./km²","0,707",https://pt.wikipedia.org/wiki/Santa_B%C3%A1rbara_(Minas_Gerais)
+Sabará,Minas Gerais,19,129372 hab.,"302,453km²","427,7hab./km²","0,731",https://pt.wikipedia.org/wiki/Sabar%C3%A1
+Romaria,Minas Gerais,491,3596 hab.,"401,965km²","8,9hab./km²","0,775",https://pt.wikipedia.org/wiki/Romaria_(Minas_Gerais)
+Rubelita,Minas Gerais,673,6198 hab.,"1109,229km²","5,6hab./km²","0,582",https://pt.wikipedia.org/wiki/Rubelita
+Rochedo de Minas,Minas Gerais,326,2116 hab.,"79,550km²","26,6hab./km²","0,75",https://pt.wikipedia.org/wiki/Rochedo_de_Minas
+Rosário da Limeira,Minas Gerais,287,4734 hab.,"111,156km²","42,6hab./km²","0,662",https://pt.wikipedia.org/wiki/Ros%C3%A1rio_da_Limeira
+Rodeiro,Minas Gerais,290,6863 hab.,"72,029km²","95,3hab./km²","0,745",https://pt.wikipedia.org/wiki/Rodeiro
+Rubim,Minas Gerais,784,10226 hab.,"968,732km²","10,6hab./km²","0,609",https://pt.wikipedia.org/wiki/Rubim
+Ritápolis,Minas Gerais,209,4604 hab.,"404,805km²","11,4hab./km²","0,707",https://pt.wikipedia.org/wiki/Rit%C3%A1polis
+Sabinópolis,Minas Gerais,270,14240 hab.,"919,811km²","15,5hab./km²","0,638",https://pt.wikipedia.org/wiki/Sabin%C3%B3polis
+Rio Vermelho,Minas Gerais,325,12641 hab.,"986,561km²","12,8hab./km²","0,558",https://pt.wikipedia.org/wiki/Rio_Vermelho_(munic%C3%ADpio)
+Rio Preto,Minas Gerais,354,5141 hab.,"347,097km²","14,8hab./km²","0,752",https://pt.wikipedia.org/wiki/Rio_Preto
+Rio Pardo de Minas,Minas Gerais,732,30578 hab.,"3118,672km²","9,8hab./km²","0,633",https://pt.wikipedia.org/wiki/Rio_Pardo_de_Minas
+Rio Piracicaba,Minas Gerais,127,14631 hab.,"373,037km²","39,2hab./km²","0,685",https://pt.wikipedia.org/wiki/Rio_Piracicaba_(munic%C3%ADpio)
+Rio Manso,Minas Gerais,63,5568 hab.,"232,102km²",24hab./km²,"0,708",https://pt.wikipedia.org/wiki/Rio_Manso
+Rio Pomba,Minas Gerais,250,17443 hab.,"252,418km²","69,1hab./km²","0,714",https://pt.wikipedia.org/wiki/Rio_Pomba_(munic%C3%ADpio)
+Rio Novo,Minas Gerais,297,8712 hab.,"207,559km²",42hab./km²,"0,766",https://pt.wikipedia.org/wiki/Rio_Novo
+Rio Paranaíba,Minas Gerais,350,12335 hab.,"1353,423km²","9,1hab./km²","0,709",https://pt.wikipedia.org/wiki/Rio_Parana%C3%ADba_(munic%C3%ADpio)
+Rio Espera,Minas Gerais,161,5429 hab.,"238,602km²","22,8hab./km²","0,673",https://pt.wikipedia.org/wiki/Rio_Espera
+Riachinho,Minas Gerais,572,8134 hab.,"1774,924km²","4,6hab./km²","0,632",https://pt.wikipedia.org/wiki/Riachinho_(Minas_Gerais)
+Rio Acima,Minas Gerais,34,10261 hab.,"228,394km²","44,9hab./km²","0,735",https://pt.wikipedia.org/wiki/Rio_Acima
+Rio Doce,Minas Gerais,197,2630 hab.,"112,094km²","23,5hab./km²","0,664",https://pt.wikipedia.org/wiki/Rio_Doce_(munic%C3%ADpio)
+Rio do Prado,Minas Gerais,,5213 hab.,"479,424km²","10,9hab./km²","0,626",https://pt.wikipedia.org/wiki/Rio_do_Prado
+Ribeirão das Neves,Minas Gerais,32,329794 hab.,"155,454km²","2121,5hab./km²","0,684",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_das_Neves
+Riacho dos Machados,Minas Gerais,567,9360 hab.,"1315,540km²","7,1hab./km²","0,627",https://pt.wikipedia.org/wiki/Riacho_dos_Machados
+Rio Casca,Minas Gerais,199,12789 hab.,"384,381km²","33,3hab./km²","0,650",https://pt.wikipedia.org/wiki/Rio_Casca_(munic%C3%ADpio)
+Ribeirão Vermelho,Minas Gerais,270,4201 hab.,"40,210km²","104,5hab./km²","0,783",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Vermelho
+Ressaquinha,Minas Gerais,154,4548 hab.,"183,062km²","24,8hab./km²","0,683",https://pt.wikipedia.org/wiki/Ressaquinha
+Resende Costa,Minas Gerais,186,11569 hab.,"631,561km²","18,3hab./km²","0,736",https://pt.wikipedia.org/wiki/Resende_Costa
+Reduto,Minas Gerais,298,7105 hab.,"151,859km²","46,8hab./km²","0,629",https://pt.wikipedia.org/wiki/Reduto
+Resplendor,Minas Gerais,445,17398 hab.,"1081,796km²","16,1hab./km²","0,670",https://pt.wikipedia.org/wiki/Resplendor
+Raposos,Minas Gerais,30,16279 hab.,"72,228km²","225,4hab./km²","0,730",https://pt.wikipedia.org/wiki/Raposos
+Recreio,Minas Gerais,353,11007 hab.,"234,240km²",47hab./km²,"0,692",https://pt.wikipedia.org/wiki/Recreio_(Minas_Gerais)
+Raul Soares,Minas Gerais,230,23423 hab.,"763,364km²","30,7hab./km²","0,655",https://pt.wikipedia.org/wiki/Raul_Soares
+Queluzito,Minas Gerais,,1866 hab.,"153,038km²","12,2hab./km²","0,730",https://pt.wikipedia.org/wiki/Queluzito
+Quartel Geral,Minas Gerais,235,3179 hab.,"556,436km²","5,7hab./km²","0,714",https://pt.wikipedia.org/wiki/Quartel_Geral
+Pratinha,Minas Gerais,324,3285 hab.,"619,296km²","5,3hab./km²","0,774",https://pt.wikipedia.org/wiki/Pratinha
+Pratápolis,Minas Gerais,389,8807 hab.,"215,516km²","40,9hab./km²","0,729",https://pt.wikipedia.org/wiki/Prat%C3%A1polis
+Prata,Minas Gerais,640,28342 hab.,"4847,544km²","5,8hab./km²","0,695",https://pt.wikipedia.org/wiki/Prata_(Minas_Gerais)
+Prados,Minas Gerais,181,9048 hab.,"264,115km²","34,3hab./km²","0,689",https://pt.wikipedia.org/wiki/Prados_(Minas_Gerais)
+Pouso Alto,Minas Gerais,422,6566 hab.,"263,034km²",25hab./km²,"0,710",https://pt.wikipedia.org/wiki/Pouso_Alto
+Pouso Alegre,Minas Gerais,373,160751 hab.,"542,797km²","296,2hab./km²","0,774",https://pt.wikipedia.org/wiki/Pouso_Alegre
+Poté,Minas Gerais,492,13666 hab.,"625,111km²","21,9hab./km²","0,642",https://pt.wikipedia.org/wiki/Pot%C3%A9
+Porto Firme,Minas Gerais,207,10569 hab.,"284,777km²","37,1hab./km²","0,634",https://pt.wikipedia.org/wiki/Porto_Firme
+Porteirinha,Minas Gerais,591,37950 hab.,"1749,683km²","21,7hab./km²","0,651",https://pt.wikipedia.org/wiki/Porteirinha
+Ponto dos Volantes,Minas Gerais,590,12138 hab.,"1212,413km²",10hab./km²,"0,595",https://pt.wikipedia.org/wiki/Ponto_dos_Volantes
+Ponto Chique,Minas Gerais,478,4259 hab.,"602,799km²","7,1hab./km²","0,606",https://pt.wikipedia.org/wiki/Ponto_Chique
+Ponte Nova,Minas Gerais,180,59569 hab.,"470,643km²","126,6hab./km²","0,717",https://pt.wikipedia.org/wiki/Ponte_Nova
+Pompéu,Minas Gerais,168,31812 hab.,"2551,074km²","12,5hab./km²","0,689",https://pt.wikipedia.org/wiki/Pomp%C3%A9u
+Pocrane,Minas Gerais,394,8288 hab.,"691,066km²",12hab./km²,"0,626",https://pt.wikipedia.org/wiki/Pocrane
+Poços de Caldas,Minas Gerais,461,163742 hab.,"547,059km²","299,3hab./km²","0,779",https://pt.wikipedia.org/wiki/Po%C3%A7os_de_Caldas
+Poço Fundo,Minas Gerais,395,16841 hab.,"474,228km²","35,5hab./km²","0,691",https://pt.wikipedia.org/wiki/Po%C3%A7o_Fundo
+Planura,Minas Gerais,585,12133 hab.,"317,992km²","38,2hab./km²","0,712",https://pt.wikipedia.org/wiki/Planura
+Piumhi,Minas Gerais,265,37901 hab.,"902,468km²",42hab./km²,"0,737",https://pt.wikipedia.org/wiki/Piumhi
+Pitangui,Minas Gerais,125,28433 hab.,"568,332km²",50hab./km²,"0,725",https://pt.wikipedia.org/wiki/Pitangui
+Piraúba,Minas Gerais,262,11090 hab.,"144,289km²","76,9hab./km²","0,759",https://pt.wikipedia.org/wiki/Pira%C3%BAba
+Pirapora,Minas Gerais,340,56428 hab.,"575,460km²","98,1hab./km²","0,731",https://pt.wikipedia.org/wiki/Pirapora
+Pirapetinga,Minas Gerais,379,10772 hab.,"190,681km²","56,5hab./km²","0,759",https://pt.wikipedia.org/wiki/Pirapetinga
+Piranguinho,Minas Gerais,436,9120 hab.,"124,803km²","73,1hab./km²","0,717",https://pt.wikipedia.org/wiki/Piranguinho
+Piranguçu,Minas Gerais,458,6041 hab.,"203,619km²","29,7hab./km²","0,685",https://pt.wikipedia.org/wiki/Pirangu%C3%A7u
+Piranga,Minas Gerais,169,17018 hab.,"658,812km²","25,8hab./km²","0,661",https://pt.wikipedia.org/wiki/Piranga
+Pirajuba,Minas Gerais,567,6199 hab.,"331,793km²","18,7hab./km²",,https://pt.wikipedia.org/wiki/Pirajuba
+Piracema,Minas Gerais,120,6406 hab.,"280,358km²","22,8hab./km²","0,71",https://pt.wikipedia.org/wiki/Piracema_(Minas_Gerais)
+Pintópolis,Minas Gerais,615,7540 hab.,"1228,736km²","6,1hab./km²","0,594",https://pt.wikipedia.org/wiki/Pint%C3%B3polis
+Pingo-d'Água,Minas Gerais,289,4894 hab.,"66,570km²","73,5hab./km²","0,619",https://pt.wikipedia.org/wiki/Pingo-d%27%C3%81gua
+Pimenta,Minas Gerais,235,8563 hab.,"415,070km²","20,6hab./km²","0,768",https://pt.wikipedia.org/wiki/Pimenta_(Minas_Gerais)
+Piedade dos Gerais,Minas Gerais,95,5019 hab.,"260,633km²","19,3hab./km²","0,694",https://pt.wikipedia.org/wiki/Piedade_dos_Gerais
+Piedade de Ponte Nova,Minas Gerais,215,4063 hab.,"84,008km²","48,4hab./km²","0,674",https://pt.wikipedia.org/wiki/Piedade_de_Ponte_Nova
+Piedade do Rio Grande,Minas Gerais,250,4709 hab.,"322,743km²","14,6hab./km²","0,688",https://pt.wikipedia.org/wiki/Piedade_do_Rio_Grande
+Piedade de Caratinga,Minas Gerais,243,8426 hab.,"109,345km²","77,1hab./km²","0,612",https://pt.wikipedia.org/wiki/Piedade_de_Caratinga
+Piau,Minas Gerais,258,2719 hab.,"192,196km²","14,1hab./km²","0,629",https://pt.wikipedia.org/wiki/Piau
+Pescador,Minas Gerais,412,3570 hab.,"317,463km²","11,2hab./km²","0,679",https://pt.wikipedia.org/wiki/Pescador_(Minas_Gerais)
+Periquito,Minas Gerais,270,6810 hab.,"228,907km²","29,8hab./km²","0,651",https://pt.wikipedia.org/wiki/Periquito_(Minas_Gerais)
+Perdões,Minas Gerais,211,20140 hab.,"276,978km²","72,7hab./km²","0,784",https://pt.wikipedia.org/wiki/Perd%C3%B5es
+Perdizes,Minas Gerais,353,17151 hab.,"2451,112km²",7hab./km²,"0,777",https://pt.wikipedia.org/wiki/Perdizes
+Perdigão,Minas Gerais,150,12268 hab.,"249,322km²","49,2hab./km²","0,794",https://pt.wikipedia.org/wiki/Perdig%C3%A3o_(Minas_Gerais)
+Pedro Leopoldo,Minas Gerais,46,62580 hab.,"292,831km²","213,7hab./km²","0,757",https://pt.wikipedia.org/wiki/Pedro_Leopoldo
+Pedrinópolis,Minas Gerais,480,3490 hab.,"357,689km²","9,8hab./km²","0,729",https://pt.wikipedia.org/wiki/Pedrin%C3%B3polis
+Pedras de Maria da Cruz,Minas Gerais,568,11084 hab.,"1520,086km²","7,3hab./km²","0,634",https://pt.wikipedia.org/wiki/Pedras_de_Maria_da_Cruz
+Pedralva,Minas Gerais,443,10760 hab.,"217,989km²","49,4hab./km²","0,675",https://pt.wikipedia.org/wiki/Pedralva
+Pedra Dourada,Minas Gerais,374,2187 hab.,"70,362km²","31,1hab./km²","0,71",https://pt.wikipedia.org/wiki/Pedra_Dourada
+Pedra do Indaiá,Minas Gerais,173,3977 hab.,"349,092km²","11,4hab./km²","0,708",https://pt.wikipedia.org/wiki/Pedra_do_Indai%C3%A1
+Pedra do Anta,Minas Gerais,230,3365 hab.,"163,788km²","20,5hab./km²","0,664",https://pt.wikipedia.org/wiki/Pedra_do_Anta
+Pedra Bonita,Minas Gerais,300,7015 hab.,"163,504km²","42,9hab./km²","0,685",https://pt.wikipedia.org/wiki/Pedra_Bonita_(Minas_Gerais)
+Pedra Azul,Minas Gerais,720,24748 hab.,"1594,651km²","15,5hab./km²","0,627",https://pt.wikipedia.org/wiki/Pedra_Azul
+Peçanha,Minas Gerais,312,17446 hab.,"996,646km²","17,5hab./km²","0,627",https://pt.wikipedia.org/wiki/Pe%C3%A7anha
+Pavão,Minas Gerais,533,8390 hab.,"601,190km²",14hab./km²,"0,667",https://pt.wikipedia.org/wiki/Pav%C3%A3o_(Minas_Gerais)
+Paulistas,Minas Gerais,299,4389 hab.,"220,564km²","19,9hab./km²","0,625",https://pt.wikipedia.org/wiki/Paulistas_(Minas_Gerais)
+Paula Cândido,Minas Gerais,254,8659 hab.,"268,740km²","32,2hab./km²","0,699",https://pt.wikipedia.org/wiki/Paula_C%C3%A2ndido
+Patrocínio,Minas Gerais,393,89826 hab.,"2866,559km²","31,3hab./km²","0,729",https://pt.wikipedia.org/wiki/Patroc%C3%ADnio
+Patrocínio do Muriaé,Minas Gerais,388,5576 hab.,"108,246km²","51,5hab./km²","0,682",https://pt.wikipedia.org/wiki/Patroc%C3%ADnio_do_Muria%C3%A9
+Patis,Minas Gerais,"531,2","4,837 hab.","444,646km²",0hab./km²,"0,614",https://pt.wikipedia.org/wiki/Patis
+Passos,Minas Gerais,352,111939 hab.,"1339,199km²","83,6hab./km²","0,756",https://pt.wikipedia.org/wiki/Passos_(Minas_Gerais)
+Passabém,Minas Gerais,160,1600 hab.,"94,538km²","16,9hab./km²","0,694",https://pt.wikipedia.org/wiki/Passab%C3%A9m
+Passa Vinte,Minas Gerais,390,2104 hab.,"245,649km²","8,6hab./km²","0,648",https://pt.wikipedia.org/wiki/Passa_Vinte
+Passa Tempo,Minas Gerais,143,8473 hab.,"429,444km²","19,7hab./km²","0,769",https://pt.wikipedia.org/wiki/Passa_Tempo
+Passa Quatro,Minas Gerais,432,16439 hab.,"277,221km²","59,3hab./km²","0,715",https://pt.wikipedia.org/wiki/Passa_Quatro
+Paraopeba,Minas Gerais,100,22563 hab.,"625,053km²","36,1hab./km²","0,767",https://pt.wikipedia.org/wiki/Paraopeba
+Patos de Minas,Minas Gerais,415,159235 hab.,"3190,456km²","49,9hab./km²","0,765",https://pt.wikipedia.org/wiki/Patos_de_Minas
+Paraisópolis,Minas Gerais,420,20445 hab.,"331,238km²","61,7hab./km²","0,729",https://pt.wikipedia.org/wiki/Parais%C3%B3polis
+Paraguaçu,Minas Gerais,347,21723 hab.,"424,296km²","51,2hab./km²","0,715",https://pt.wikipedia.org/wiki/Paragua%C3%A7u_(Minas_Gerais)
+Paracatu,Minas Gerais,483,93862 hab.,"8229,595km²","11,4hab./km²","0,744",https://pt.wikipedia.org/wiki/Paracatu
+Papagaios,Minas Gerais,144,14171 hab.,"552,776km²","25,6hab./km²","0,736",https://pt.wikipedia.org/wiki/Papagaios
+Palmópolis,Minas Gerais,720,5196 hab.,"433,154km²",12hab./km²,"0,565",https://pt.wikipedia.org/wiki/Palm%C3%B3polis
+Palma,Minas Gerais,368,6545 hab.,"317,983km²","20,6hab./km²","0,744",https://pt.wikipedia.org/wiki/Palma_(Minas_Gerais)
+Paiva,Minas Gerais,228,1560 hab.,"58,313km²","26,8hab./km²","0,708",https://pt.wikipedia.org/wiki/Paiva
+Pará de Minas,Minas Gerais,86,102033 hab.,551km²,"185,2hab./km²","0,725",https://pt.wikipedia.org/wiki/Par%C3%A1_de_Minas
+Pains,Minas Gerais,217,8014 hab.,"418,043km²","19,2hab./km²","0,783",https://pt.wikipedia.org/wiki/Pains
+Paineiras,Minas Gerais,254,4663 hab.,"637,751km²","7,3hab./km²","0,669",https://pt.wikipedia.org/wiki/Paineiras
+Pai Pedro,Minas Gerais,621,5551 hab.,"785,106km²","7,1hab./km²","0,575",https://pt.wikipedia.org/wiki/Pai_Pedro
+Padre Paraíso,Minas Gerais,560,17334 hab.,"544,375km²","31,8hab./km²","0,656",https://pt.wikipedia.org/wiki/Padre_Para%C3%ADso
+Padre Carvalho,Minas Gerais,659,5058 hab.,"449,963km²","11,2hab./km²","0,618",https://pt.wikipedia.org/wiki/Padre_Carvalho
+Ouro Verde de Minas,Minas Gerais,491,5757 hab.,"174,990km²","32,9hab./km²","0,615",https://pt.wikipedia.org/wiki/Ouro_Verde_de_Minas
+Ouro Fino,Minas Gerais,459,33639 hab.,"533,795km²",63hab./km²,"0,722",https://pt.wikipedia.org/wiki/Ouro_Fino
+Ouro Preto,Minas Gerais,96,74824 hab.,"1245,865km²","60,1hab./km²","0,741",https://pt.wikipedia.org/wiki/Ouro_Preto
+Ouro Branco,Minas Gerais,100,38724 hab.,"258,726km²","149,7hab./km²","0,764",https://pt.wikipedia.org/wiki/Ouro_Branco_(Minas_Gerais)
+Orizânia,Minas Gerais,306,7284 hab.,"121,550km²","59,9hab./km²","0,648",https://pt.wikipedia.org/wiki/Oriz%C3%A2nia
+Oratórios,Minas Gerais,190,4486 hab.,"89,187km²","50,3hab./km²","0,663",https://pt.wikipedia.org/wiki/Orat%C3%B3rios
+Onça de Pitangui,Minas Gerais,114,3192 hab.,"247,052km²","12,9hab./km²","0,758",https://pt.wikipedia.org/wiki/On%C3%A7a_de_Pitangui
+Oliveira Fortes,Minas Gerais,242,2027 hab.,"110,850km²","18,3hab./km²","0,695",https://pt.wikipedia.org/wiki/Oliveira_Fortes
+Oliveira,Minas Gerais,147,40552 hab.,"896,494km²","45,2hab./km²","0,770",https://pt.wikipedia.org/wiki/Oliveira_(Minas_Gerais)
+Novo Cruzeiro,Minas Gerais,570,26975 hab.,"1700,601km²","15,9hab./km²","0,571",https://pt.wikipedia.org/wiki/Novo_Cruzeiro
+Nova União,Minas Gerais,55,5725 hab.,"172,131km²","33,3hab./km²","0,662",https://pt.wikipedia.org/wiki/Nova_Uni%C3%A3o_(Minas_Gerais)
+Nova Serrana,Minas Gerais,123,105552 hab.,"282,472km²","373,7hab./km²","0,715",https://pt.wikipedia.org/wiki/Nova_Serrana
+Nova Resende,Minas Gerais,427,16832 hab.,"390,152km²","43,1hab./km²","0,671",https://pt.wikipedia.org/wiki/Nova_Resende
+Nova Porteirinha,Minas Gerais,558,7398 hab.,"121,017km²","61,1hab./km²","0,685",https://pt.wikipedia.org/wiki/Nova_Porteirinha
+Nova Ponte,Minas Gerais,472,14598 hab.,"1105,766km²","13,2hab./km²","0,803",https://pt.wikipedia.org/wiki/Nova_Ponte
+Nova Módica,Minas Gerais,428,3663 hab.,"377,009km²","9,7hab./km²","0,659",https://pt.wikipedia.org/wiki/Nova_M%C3%B3dica
+Nova Belém,Minas Gerais,490,3190 hab.,"146,775km²","21,7hab./km²","0,592",https://pt.wikipedia.org/wiki/Nova_Bel%C3%A9m
+Nova Lima,Minas Gerais,18,119142 hab.,"429,313km²","277,5hab./km²","0,813",https://pt.wikipedia.org/wiki/Nova_Lima
+Ninheira,Minas Gerais,783,10263 hab.,"1114,242km²","9,2hab./km²","0,556",https://pt.wikipedia.org/wiki/Ninheira
+Nepomuceno,Minas Gerais,238,25018 hab.,"582,553km²","42,9hab./km²","0,747",https://pt.wikipedia.org/wiki/Nepomuceno
+Nazareno,Minas Gerais,239,8179 hab.,"341,453km²",24hab./km²,"0,690",https://pt.wikipedia.org/wiki/Nazareno_(Minas_Gerais)
+Natércia,Minas Gerais,387,4807 hab.,"190,422km²","25,2hab./km²","0,693",https://pt.wikipedia.org/wiki/Nat%C3%A9rcia_(Minas_Gerais)
+Natalândia,Minas Gerais,588,3306 hab.,"471,355km²",7hab./km²,"0,722",https://pt.wikipedia.org/wiki/Natal%C3%A2ndia
+Nova Era,Minas Gerais,137,17438 hab.,"361,926km²","48,2hab./km²","0,709",https://pt.wikipedia.org/wiki/Nova_Era_(Minas_Gerais)
+Nanuque,Minas Gerais,605,40839 hab.,"1517,941km²","26,9hab./km²","0,701",https://pt.wikipedia.org/wiki/Nanuque
+Muzambinho,Minas Gerais,447,21891 hab.,"409,948km²","53,4hab./km²","0,740",https://pt.wikipedia.org/wiki/Muzambinho
+Nacip Raydan,Minas Gerais,317,3221 hab.,"228,587km²","14,1hab./km²","0,611",https://pt.wikipedia.org/wiki/Nacip_Raydan
+Mutum,Minas Gerais,380,26979 hab.,"1250,824km²","21,6hab./km²","0,644",https://pt.wikipedia.org/wiki/Mutum_(Minas_Gerais)
+Morro do Pilar,Minas Gerais,150,3133 hab.,"476,473km²","6,6hab./km²","0,682",https://pt.wikipedia.org/wiki/Morro_do_Pilar
+Muriaé,Minas Gerais,322,108763 hab.,"841,693km²","129,2hab./km²","0,734",https://pt.wikipedia.org/wiki/Muria%C3%A9
+Munhoz,Minas Gerais,490,6029 hab.,"190,563km²","31,6hab./km²","0,647",https://pt.wikipedia.org/wiki/Munhoz
+Naque,Minas Gerais,256,6303 hab.,"127,173km²","49,6hab./km²","0,675",https://pt.wikipedia.org/wiki/Naque
+Morro da Garça,Minas Gerais,210,2660 hab.,"414,009km²","6,4hab./km²","0,68",https://pt.wikipedia.org/wiki/Morro_da_Gar%C3%A7a
+Morada Nova de Minas,Minas Gerais,280,9067 hab.,"2084,612km²","4,3hab./km²","0,696",https://pt.wikipedia.org/wiki/Morada_Nova_de_Minas
+Montezuma,Minas Gerais,748,6888 hab.,"1133,739km²","6,1hab./km²","0,589",https://pt.wikipedia.org/wiki/Montezuma_(Minas_Gerais)
+Monte Sião,Minas Gerais,470,21203 hab.,"290,201km²","73,1hab./km²","0,724",https://pt.wikipedia.org/wiki/Monte_Si%C3%A3o_(Minas_Gerais)
+Monte Santo de Minas,Minas Gerais,495,21513 hab.,"590,896km²","36,4hab./km²","0,710",https://pt.wikipedia.org/wiki/Monte_Santo_de_Minas
+Monte Formoso,Minas Gerais,608,4664 hab.,"383,821km²","12,2hab./km²","0,541",https://pt.wikipedia.org/wiki/Monte_Formoso
+Montes Claros,Minas Gerais,422,414240 hab.,"3589,811km²","115,4hab./km²","0,770",https://pt.wikipedia.org/wiki/Montes_Claros
+Monte Azul,Minas Gerais,668,20328 hab.,"991,568km²","20,5hab./km²","0,659",https://pt.wikipedia.org/wiki/Monte_Azul
+Monte Alegre de Minas,Minas Gerais,601,20170 hab.,"2595,957km²","7,8hab./km²","0,674",https://pt.wikipedia.org/wiki/Monte_Alegre_de_Minas
+Montalvânia,Minas Gerais,782,14160 hab.,"1503,755km²","9,4hab./km²","0,613",https://pt.wikipedia.org/wiki/Montalv%C3%A2nia
+Monsenhor Paulo,Minas Gerais,217,8537 hab.,"216,460km²","39,4hab./km²","0,721",https://pt.wikipedia.org/wiki/Monsenhor_Paulo
+Monjolos,Minas Gerais,256,2360 hab.,"652,106km²","3,6hab./km²","0,676",https://pt.wikipedia.org/wiki/Monjolos
+Monte Carmelo,Minas Gerais,484,47809 hab.,"1343,035km²","35,6hab./km²","0,768",https://pt.wikipedia.org/wiki/Monte_Carmelo_(Minas_Gerais)
+Monte Belo,Minas Gerais,408,13046 hab.,"421,283km²",31hab./km²,"0,688",https://pt.wikipedia.org/wiki/Monte_Belo
+Moema,Minas Gerais,170,7028 hab.,"202,663km²","34,7hab./km²","0,773",https://pt.wikipedia.org/wiki/Moema
+Miradouro,Minas Gerais,362,10754 hab.,"301,548km²","35,7hab./km²","0,698",https://pt.wikipedia.org/wiki/Miradouro_(Minas_Gerais)
+Mirabela,Minas Gerais,"495,4","13,651 hab.","723,278km²",0hab./km²,"0,665",https://pt.wikipedia.org/wiki/Mirabela
+Minduri,Minas Gerais,295,3840 hab.,"220,425km²","17,4hab./km²","0,658",https://pt.wikipedia.org/wiki/Minduri
+Minas Novas,Minas Gerais,548,24405 hab.,"1812,398km²","13,5hab./km²","0,633",https://pt.wikipedia.org/wiki/Minas_Novas
+Mesquita,Minas Gerais,285,5666 hab.,"274,938km²","20,6hab./km²","0,656",https://pt.wikipedia.org/wiki/Mesquita_(Minas_Gerais)
+Mercês,Minas Gerais,228,10373 hab.,"348,271km²","29,8hab./km²","0,717",https://pt.wikipedia.org/wiki/Merc%C3%AAs_(Minas_Gerais)
+Mendes Pimentel,Minas Gerais,390,6329 hab.,"303,412km²","20,9hab./km²","0,661",https://pt.wikipedia.org/wiki/Mendes_Pimentel
+Medina,Minas Gerais,660,21409 hab.,"1439,982km²","14,9hab./km²","0,624",https://pt.wikipedia.org/wiki/Medina_(Minas_Gerais)
+Medeiros,Minas Gerais,286,3444 hab.,"939,118km²","3,7hab./km²","0,792",https://pt.wikipedia.org/wiki/Medeiros
+Matutina,Minas Gerais,306,3846 hab.,"260,957km²","14,7hab./km²","0,707",https://pt.wikipedia.org/wiki/Matutina
+Matozinhos,Minas Gerais,47,37618 hab.,"252,908km²","148,7hab./km²","0,774",https://pt.wikipedia.org/wiki/Matozinhos
+Mato Verde,Minas Gerais,639,12685 hab.,"474,446km²","26,7hab./km²","0,662",https://pt.wikipedia.org/wiki/Mato_Verde
+Matipó,Minas Gerais,244,18604 hab.,"277,098km²","67,1hab./km²","0,683",https://pt.wikipedia.org/wiki/Matip%C3%B3
+Matias Cardoso,Minas Gerais,683,8895 hab.,"1938,429km²","4,6hab./km²","0,602",https://pt.wikipedia.org/wiki/Matias_Cardoso
+Matias Barbosa,Minas Gerais,295,13435 hab.,"156,728km²","85,7hab./km²","0,782",https://pt.wikipedia.org/wiki/Matias_Barbosa
+Materlândia,Minas Gerais,300,3963 hab.,"280,530km²","14,1hab./km²","0,647",https://pt.wikipedia.org/wiki/Materl%C3%A2ndia
+Mateus Leme,Minas Gerais,60,31364 hab.,"301,383km²","104,1hab./km²","0,704",https://pt.wikipedia.org/wiki/Mateus_Leme
+Marmelópolis,Minas Gerais,427,3299 hab.,"107,902km²","30,6hab./km²","0,650",https://pt.wikipedia.org/wiki/Marmel%C3%B3polis
+Mathias Lobato,Minas Gerais,351,3038 hab.,"170,882km²","17,8hab./km²","0,683",https://pt.wikipedia.org/wiki/Mathias_Lobato
+Mata Verde,Minas Gerais,788,8526 hab.,"230,241km²",37hab./km²,"0,581",https://pt.wikipedia.org/wiki/Mata_Verde
+Martins Soares,Minas Gerais,312,8725 hab.,"113,268km²",77hab./km²,"0,635",https://pt.wikipedia.org/wiki/Martins_Soares
+Martinho Campos,Minas Gerais,197,14003 hab.,"1060,302km²","13,2hab./km²","0,748",https://pt.wikipedia.org/wiki/Martinho_Campos
+Marliéria,Minas Gerais,194,4044 hab.,"545,813km²","7,4hab./km²","0,657",https://pt.wikipedia.org/wiki/Marli%C3%A9ria
+Maripá de Minas,Minas Gerais,354,2788 hab.,"77,736km²","35,9hab./km²","0,749",https://pt.wikipedia.org/wiki/Marip%C3%A1_de_Minas
+Mário Campos,Minas Gerais,38,13214 hab.,"35,155km²","375,9hab./km²","0,711",https://pt.wikipedia.org/wiki/M%C3%A1rio_Campos
+Marilac,Minas Gerais,353,4224 hab.,"158,809km²","26,6hab./km²","0,648",https://pt.wikipedia.org/wiki/Marilac
+Maria da Fé,Minas Gerais,432,14247 hab.,"202,898km²","70,2hab./km²","0,702",https://pt.wikipedia.org/wiki/Maria_da_F%C3%A9
+Maravilhas,Minas Gerais,122,7333 hab.,"261,604km²",28hab./km²,"0,738",https://pt.wikipedia.org/wiki/Maravilhas
+Mar de Espanha,Minas Gerais,358,12721 hab.,"372,108km²","34,2hab./km²","0,684",https://pt.wikipedia.org/wiki/Mar_de_Espanha
+Mantena,Minas Gerais,460,27640 hab.,"685,208km²","40,3hab./km²","0,675",https://pt.wikipedia.org/wiki/Mantena
+Mariana,Minas Gerais,110,61387 hab.,"1194,208km²","51,4hab./km²","0,742",https://pt.wikipedia.org/wiki/Mariana
+Manhumirim,Minas Gerais,310,20610 hab.,"183,588km²","112,3hab./km²","0,732",https://pt.wikipedia.org/wiki/Manhumirim
+Manhuaçu,Minas Gerais,290,96545 hab.,"628,318km²","153,7hab./km²","0,689",https://pt.wikipedia.org/wiki/Manhua%C3%A7u
+Manga,Minas Gerais,709,18594 hab.,"1968,082km²","9,4hab./km²","0,603",https://pt.wikipedia.org/wiki/Manga_(Minas_Gerais)
+Mamonas,Minas Gerais,686,6321 hab.,"290,283km²","21,8hab./km²","0,621",https://pt.wikipedia.org/wiki/Mamonas
+Malacacheta,Minas Gerais,432,17516 hab.,"727,886km²","24,1hab./km²","0,618",https://pt.wikipedia.org/wiki/Malacacheta
+Madre de Deus de Minas,Minas Gerais,233,5191 hab.,"492,909km²","10,5hab./km²","0,734",https://pt.wikipedia.org/wiki/Madre_de_Deus_de_Minas
+Machado,Minas Gerais,381,37684 hab.,"585,958km²","64,3hab./km²","0,715",https://pt.wikipedia.org/wiki/Machado_(Minas_Gerais)
+Machacalis,Minas Gerais,636,6974 hab.,"329,757km²","21,1hab./km²","0,637",https://pt.wikipedia.org/wiki/Machacalis
+Luz,Minas Gerais,197,17875 hab.,"1171,670km²","15,3hab./km²","0,724",https://pt.wikipedia.org/wiki/Luz_(Minas_Gerais)
+Luminárias,Minas Gerais,303,5586 hab.,"500,143km²","11,2hab./km²","0,763",https://pt.wikipedia.org/wiki/Lumin%C3%A1rias
+Luislândia,Minas Gerais,548,6400 hab.,"424,748km²","15,1hab./km²","0,634",https://pt.wikipedia.org/wiki/Luisl%C3%A2ndia
+Luisburgo,Minas Gerais,278,6956 hab.,"146,124km²","47,6hab./km²","0,701",https://pt.wikipedia.org/wiki/Luisburgo
+Lontra,Minas Gerais,550,"8,790 hab.","257,220km²",0hab./km²,"0,646",https://pt.wikipedia.org/wiki/Lontra_(Minas_Gerais)
+Leandro Ferreira,Minas Gerais,150,3205 hab.,"355,221km²",9hab./km²,"0,710",https://pt.wikipedia.org/wiki/Leandro_Ferreira
+Lavras,Minas Gerais,237,109884 hab.,"564,495km²","194,7hab./km²","0,782",https://pt.wikipedia.org/wiki/Lavras
+Lamim,Minas Gerais,150,3456 hab.,"118,160km²","29,2hab./km²","0,691",https://pt.wikipedia.org/wiki/Lamim
+Laranjal,Minas Gerais,348,6465 hab.,"204,190km²","31,7hab./km²","0,769",https://pt.wikipedia.org/wiki/Laranjal_(Minas_Gerais)
+Lambari,Minas Gerais,339,20950 hab.,"213,139km²","98,3hab./km²","0,711",https://pt.wikipedia.org/wiki/Lambari_(Minas_Gerais)
+Lajinha,Minas Gerais,337,19923 hab.,"431,920km²","46,1hab./km²","0,694",https://pt.wikipedia.org/wiki/Lajinha
+Lagoa Grande,Minas Gerais,507,9216 hab.,"1236,301km²","7,5hab./km²","0,679",https://pt.wikipedia.org/wiki/Lagoa_Grande_(Minas_Gerais)
+Lagoa Santa,Minas Gerais,35,75145 hab.,"231,994km²","323,9hab./km²","0,783",https://pt.wikipedia.org/wiki/Lagoa_Santa_(Minas_Gerais)
+Lassance,Minas Gerais,269,6490 hab.,"3213,578km²",2hab./km²,"0,681",https://pt.wikipedia.org/wiki/Lassance
+Lagoa Formosa,Minas Gerais,377,18111 hab.,841km²,"21,5hab./km²","0,75",https://pt.wikipedia.org/wiki/Lagoa_Formosa
+Juruaia,Minas Gerais,450,10795 hab.,"220,353km²",49hab./km²,"0,723",https://pt.wikipedia.org/wiki/Juruaia
+Lagoa Dourada,Minas Gerais,146,12267 hab.,"479,573km²","25,6hab./km²","0,734",https://pt.wikipedia.org/wiki/Lagoa_Dourada
+Lagoa dos Patos,Minas Gerais,406,3313 hab.,"599,449km²","5,5hab./km²","0,657",https://pt.wikipedia.org/wiki/Lagoa_dos_Patos_(Minas_Gerais)
+Lagoa da Prata,Minas Gerais,202,51412 hab.,"439,984km²","116,8hab./km²","0,732",https://pt.wikipedia.org/wiki/Lagoa_da_Prata
+Lagamar,Minas Gerais,476,7600 hab.,1474km²,"5,2hab./km²","0,718",https://pt.wikipedia.org/wiki/Lagamar
+Ladainha,Minas Gerais,518,14383 hab.,"866,290km²","16,6hab./km²","0,541",https://pt.wikipedia.org/wiki/Ladainha
+Juvenília,Minas Gerais,803,5708 hab.,"1076,889km²","5,3hab./km²","0,592",https://pt.wikipedia.org/wiki/Juven%C3%ADlia
+Juramento,Minas Gerais,"428,5 km",3768 hab.,"432,009km²","8,7hab./km²","0,68",https://pt.wikipedia.org/wiki/Juramento_(Minas_Gerais)
+Juatuba,Minas Gerais,39,30716 hab.,"99,543km²","308,6hab./km²","0,717",https://pt.wikipedia.org/wiki/Juatuba
+Josenópolis,Minas Gerais,649,3630 hab.,"535,603km²","6,8hab./km²","0,61",https://pt.wikipedia.org/wiki/Josen%C3%B3polis
+José Raydan,Minas Gerais,305,4268 hab.,"181,407km²","23,5hab./km²","0,625",https://pt.wikipedia.org/wiki/Jos%C3%A9_Raydan
+José Gonçalves de Minas,Minas Gerais,529,3969 hab.,"382,863km²","10,4hab./km²","0,646",https://pt.wikipedia.org/wiki/Jos%C3%A9_Gon%C3%A7alves_de_Minas
+Jordânia,Minas Gerais,819,10812 hab.,"549,209km²","19,7hab./km²","0,646",https://pt.wikipedia.org/wiki/Jord%C3%A2nia_(Minas_Gerais)
+Joaquim Felício,Minas Gerais,292,4305 hab.,"790,935km²","5,4hab./km²","0,637",https://pt.wikipedia.org/wiki/Joaquim_Fel%C3%ADcio
+João Pinheiro,Minas Gerais,380,47452 hab.,"10727,471km²","4,4hab./km²","0,697",https://pt.wikipedia.org/wiki/Jo%C3%A3o_Pinheiro
+Juiz de Fora,Minas Gerais,283,565764 hab.,"1435,749km²","394,1hab./km²","0,778",https://pt.wikipedia.org/wiki/Juiz_de_Fora
+Joanésia,Minas Gerais,270,4329 hab.,"233,292km²","18,6hab./km²","0,626",https://pt.wikipedia.org/wiki/Joan%C3%A9sia
+Joaíma,Minas Gerais,700,15432 hab.,"1664,190km²","9,3hab./km²","0,587",https://pt.wikipedia.org/wiki/Joa%C3%ADma
+Jesuânia,Minas Gerais,351,4774 hab.,"153,296km²","31,1hab./km²","0,658",https://pt.wikipedia.org/wiki/Jesu%C3%A2nia
+Jequitinhonha,Minas Gerais,690,25560 hab.,"3514,216km²","7,3hab./km²","0,615",https://pt.wikipedia.org/wiki/Jequitinhonha
+Jequitibá,Minas Gerais,112,5883 hab.,"445,030km²","13,2hab./km²","0,692",https://pt.wikipedia.org/wiki/Jequitib%C3%A1_(Minas_Gerais)
+Jequitaí,Minas Gerais,400,8010 hab.,"1268,279km²","6,3hab./km²","0,705",https://pt.wikipedia.org/wiki/Jequita%C3%AD
+Jequeri,Minas Gerais,220,12901 hab.,"547,817km²","23,5hab./km²","0,662",https://pt.wikipedia.org/wiki/Jequeri
+João Monlevade,Minas Gerais,110,83360 hab.,"99,158km²","840,7hab./km²","0,758",https://pt.wikipedia.org/wiki/Jo%C3%A3o_Monlevade
+Jenipapo de Minas,Minas Gerais,734,6100 hab.,"284,453km²","21,4hab./km²","0,624",https://pt.wikipedia.org/wiki/Jenipapo_de_Minas
+Jeceaba,Minas Gerais,120,6197 hab.,"235,603km²","26,3hab./km²","0,732",https://pt.wikipedia.org/wiki/Jeceaba
+Japonvar,Minas Gerais,535,8556 hab.,"376,371km²","22,7hab./km²","0,618",https://pt.wikipedia.org/wiki/Japonvar
+Japaraíba,Minas Gerais,229,3950 hab.,"172,129km²","22,9hab./km²","0,721",https://pt.wikipedia.org/wiki/Japara%C3%ADba
+Januária,Minas Gerais,603,67875 hab.,"6691,174km²","10,1hab./km²","0,699",https://pt.wikipedia.org/wiki/Janu%C3%A1ria
+Janaúba,Minas Gerais,540,70699 hab.,"2181,319km²","32,4hab./km²","0,696",https://pt.wikipedia.org/wiki/Jana%C3%BAba
+Jampruca,Minas Gerais,378,4296 hab.,"520,998km²","8,2hab./km²","0,598",https://pt.wikipedia.org/wiki/Jampruca
+Itumirim,Minas Gerais,265,6139 hab.,"234,553km²","26,2hab./km²","0,76",https://pt.wikipedia.org/wiki/Itumirim
+Jacuí,Minas Gerais,397,7809 hab.,"409,738km²","19,1hab./km²","0,668",https://pt.wikipedia.org/wiki/Jacu%C3%AD
+Jacinto,Minas Gerais,768,11042 hab.,"1393,609km²","7,9hab./km²","0,620",https://pt.wikipedia.org/wiki/Jacinto_(Minas_Gerais)
+Jaboticatubas,Minas Gerais,66,20683 hab.,"1114,972km²","18,6hab./km²","0,681",https://pt.wikipedia.org/wiki/Jaboticatubas
+Itutinga,Minas Gerais,264,3809 hab.,"372,018km²","10,2hab./km²","0,727",https://pt.wikipedia.org/wiki/Itutinga
+Iturama,Minas Gerais,750,"38,295 hab.","1401,236km²",0hab./km²,"0,747",https://pt.wikipedia.org/wiki/Iturama
+Ituiutaba,Minas Gerais,685,106397 hab.,"2598,046km²",41hab./km²,"0,739",https://pt.wikipedia.org/wiki/Ituiutaba
+Itueta,Minas Gerais,403,6039 hab.,"452,676km²","13,3hab./km²","0,635",https://pt.wikipedia.org/wiki/Itueta
+Itinga,Minas Gerais,670,15022 hab.,"1649,622km²","9,1hab./km²","0,600",https://pt.wikipedia.org/wiki/Itinga
+Itaverava,Minas Gerais,120,5642 hab.,"284,220km²","19,9hab./km²","0,627",https://pt.wikipedia.org/wiki/Itaverava
+Itaú de Minas,Minas Gerais,363,16108 hab.,"153,421km²",105hab./km²,"0,776",https://pt.wikipedia.org/wiki/Ita%C3%BA_de_Minas
+Itatiaiuçu,Minas Gerais,72,12966 hab.,"295,145km²","43,9hab./km²","0,727",https://pt.wikipedia.org/wiki/Itatiaiu%C3%A7u
+Itapeva,Minas Gerais,458,8673 hab.,"177,992km²","48,7hab./km²","0,720",https://pt.wikipedia.org/wiki/Itapeva_(Minas_Gerais)
+Itaúna,Minas Gerais,76,102500 hab.,"495,875km²","206,7hab./km²","0,758",https://pt.wikipedia.org/wiki/Ita%C3%BAna
+Itambé do Mato Dentro,Minas Gerais,121,2142 hab.,"380,340km²","5,6hab./km²","0,674",https://pt.wikipedia.org/wiki/Itamb%C3%A9_do_Mato_Dentro
+Itamonte,Minas Gerais,417,14276 hab.,"430,597km²","33,2hab./km²","0,705",https://pt.wikipedia.org/wiki/Itamonte
+Itapagipe,Minas Gerais,681,"13,690. hab.","1802,438km²",0hab./km²,"0,788",https://pt.wikipedia.org/wiki/Itapagipe
+Itapecerica,Minas Gerais,180,21046 hab.,"1040,519km²","20,2hab./km²","0,713",https://pt.wikipedia.org/wiki/Itapecerica_(Minas_Gerais)
+Itanhandu,Minas Gerais,426,14183 hab.,"143,938km²","98,5hab./km²","0,739",https://pt.wikipedia.org/wiki/Itanhandu
+Itaobim,Minas Gerais,620,19151 hab.,"679,024km²","28,2hab./km²","0,629",https://pt.wikipedia.org/wiki/Itaobim
+Itamogi,Minas Gerais,432,10770 hab.,"243,714km²","44,2hab./km²","0,674",https://pt.wikipedia.org/wiki/Itamogi
+Itanhomi,Minas Gerais,363,12228 hab.,"488,843km²",25hab./km²,"0,650",https://pt.wikipedia.org/wiki/Itanhomi
+Itambacuri,Minas Gerais,420,23212 hab.,"1419,209km²","16,4hab./km²","0,634",https://pt.wikipedia.org/wiki/Itambacuri
+Itamarati de Minas,Minas Gerais,308,3690 hab.,"94,568km²",39hab./km²,"0,688",https://pt.wikipedia.org/wiki/Itamarati_de_Minas
+Itamarandiba,Minas Gerais,406,32948 hab.,"2735,573km²",12hab./km²,"0,646",https://pt.wikipedia.org/wiki/Itamarandiba
+Itajubá,Minas Gerais,445,93073 hab.,"294,835km²","315,7hab./km²","0,787",https://pt.wikipedia.org/wiki/Itajub%C3%A1
+Itaipé,Minas Gerais,530,10463 hab.,"480,931km²","21,8hab./km²","0,633",https://pt.wikipedia.org/wiki/Itaip%C3%A9
+Itaguara,Minas Gerais,95,14325 hab.,"410,719km²","34,9hab./km²","0,691",https://pt.wikipedia.org/wiki/Itaguara
+Itacarambi,Minas Gerais,660,17208 hab.,"1225,273km²",14hab./km²,"0,641",https://pt.wikipedia.org/wiki/Itacarambi
+Itacambira,Minas Gerais,509,4982 hab.,"1788,052km²","2,8hab./km²","0,668",https://pt.wikipedia.org/wiki/Itacambira
+Itabirinha,Minas Gerais,426,11446 hab.,"209,034km²","54,8hab./km²","0,653",https://pt.wikipedia.org/wiki/Itabirinha
+Ipuiuna,Minas Gerais,430,9135 hab.,298km²,"30,7hab./km²","0,686",https://pt.wikipedia.org/wiki/Ipuiuna
+Itabirito,Minas Gerais,57,53365 hab.,"544,027km²","98,1hab./km²","0,730",https://pt.wikipedia.org/wiki/Itabirito
+Iraí de Minas,Minas Gerais,479,6464 hab.,"357,575km²","18,1hab./km²","0,758",https://pt.wikipedia.org/wiki/Ira%C3%AD_de_Minas
+Ipiaçu,Minas Gerais,759,4225 hab.,"469,662km²",9hab./km²,"0,764",https://pt.wikipedia.org/wiki/Ipia%C3%A7u
+Ipanema,Minas Gerais,350,19522 hab.,"456,641km²","42,8hab./km²","0,693",https://pt.wikipedia.org/wiki/Ipanema_(Minas_Gerais)
+Itabira,Minas Gerais,111,113343 hab.,"1253,704km²","90,4hab./km²","0,756",https://pt.wikipedia.org/wiki/Itabira
+Ipatinga,Minas Gerais,209,227731 hab.,"164,884km²","1381,2hab./km²","0,771",https://pt.wikipedia.org/wiki/Ipatinga
+Inhaúma,Minas Gerais,90,5781 hab.,"244,349km²","23,7hab./km²","0,739",https://pt.wikipedia.org/wiki/Inha%C3%BAma
+Ipaba,Minas Gerais,230,17136 hab.,"113,246km²","151,3hab./km²","0,665",https://pt.wikipedia.org/wiki/Ipaba
+Indianópolis,Minas Gerais,540,6693 hab.,"833,870km²",8hab./km²,"0,674",https://pt.wikipedia.org/wiki/Indian%C3%B3polis_(Minas_Gerais)
+Inhapim,Minas Gerais,280,22692 hab.,"858,024km²","26,4hab./km²","0,658",https://pt.wikipedia.org/wiki/Inhapim
+Inimutaba,Minas Gerais,Belo Horizonte: 168,6729 hab.,"529,134km²","12,7hab./km²","0,691",https://pt.wikipedia.org/wiki/Inimutaba
+Ingaí,Minas Gerais,230,2636 hab.,"305,005km²","8,6hab./km²","0,759",https://pt.wikipedia.org/wiki/Inga%C3%AD
+Iguatama,Minas Gerais,258,7901 hab.,"627,819km²","12,6hab./km²","0,707",https://pt.wikipedia.org/wiki/Iguatama
+Igaratinga,Minas Gerais,90,10286 hab.,"218,318km²","47,1hab./km²","0,739",https://pt.wikipedia.org/wiki/Igaratinga
+Igarapé,Minas Gerais,48,45847 hab.,"110,942km²","413,3hab./km²","0,753",https://pt.wikipedia.org/wiki/Igarap%C3%A9_(Minas_Gerais)
+Icaraí de Minas,Minas Gerais,583,"10,677 hab.","616,582km²",0hab./km²,"0,65",https://pt.wikipedia.org/wiki/Icara%C3%AD_de_Minas
+Ibituruna,Minas Gerais,220,2698 hab.,"158,618km²",17hab./km²,"0,724",https://pt.wikipedia.org/wiki/Ibituruna
+Ibiracatu,Minas Gerais,462,6155 hab.,"359,220km²","17,1hab./km²","0,615",https://pt.wikipedia.org/wiki/Ibiracatu
+Ibiaí,Minas Gerais,,7839 hab.,"870,453km²",9hab./km²,"0,687",https://pt.wikipedia.org/wiki/Ibia%C3%AD
+Ibiá,Minas Gerais,324,22229 hab.,"2704,132km²","8,2hab./km²","0,797",https://pt.wikipedia.org/wiki/Ibi%C3%A1
+Ibertioga,Minas Gerais,218,5198 hab.,"353,506km²","14,7hab./km²","0,657",https://pt.wikipedia.org/wiki/Ibertioga
+Iapu,Minas Gerais,252,12486 hab.,"340,579km²","36,7hab./km²","0,654",https://pt.wikipedia.org/wiki/Iapu
+Heliodora,Minas Gerais,358,6120 hab.,"153,884km²","39,8hab./km²","0,657",https://pt.wikipedia.org/wiki/Heliodora
+Gurinhatã,Minas Gerais,741,5577 hab.,"1844,347km²",3hab./km²,"0,758",https://pt.wikipedia.org/wiki/Gurinhat%C3%A3
+Guiricema,Minas Gerais,285,8697 hab.,"294,417km²","29,5hab./km²","0,735",https://pt.wikipedia.org/wiki/Guiricema
+Guimarânia,Minas Gerais,423,8478 hab.,"370,807km²","22,9hab./km²","0,776",https://pt.wikipedia.org/wiki/Guimar%C3%A2nia
+Guidoval,Minas Gerais,298,7210 hab.,"158,975km²","45,4hab./km²","0,736",https://pt.wikipedia.org/wiki/Guidoval
+Guaxupé,Minas Gerais,478,52234 hab.,"286,398km²","182,4hab./km²","0,751",https://pt.wikipedia.org/wiki/Guaxup%C3%A9
+Guarda-Mor,Minas Gerais,551,6539 hab.,"2065,595km²","3,2hab./km²","0,690",https://pt.wikipedia.org/wiki/Guarda-Mor
+Guarará,Minas Gerais,294,3929 hab.,"88,589km²","44,4hab./km²","0,75",https://pt.wikipedia.org/wiki/Guarar%C3%A1
+Guarani,Minas Gerais,276,8688 hab.,"264,837km²","32,8hab./km²","0,759",https://pt.wikipedia.org/wiki/Guarani_(Minas_Gerais)
+Guaranésia,Minas Gerais,457,19378 hab.,"294,007km²","65,9hab./km²","0,701",https://pt.wikipedia.org/wiki/Guaran%C3%A9sia
+Gouveia,Minas Gerais,258,11331 hab.,"866,601km²","13,1hab./km²","0,681",https://pt.wikipedia.org/wiki/Gouveia_(Minas_Gerais)
+Guapé,Minas Gerais,293,14258 hab.,"934,598km²","15,3hab./km²","0,679",https://pt.wikipedia.org/wiki/Guap%C3%A9
+Guanhães,Minas Gerais,240,32244 hab.,"1075,124km²",30hab./km²,"0,686",https://pt.wikipedia.org/wiki/Guanh%C3%A3es
+Guaraciaba,Minas Gerais,214,9753 hab.,"348,596km²",28hab./km²,"0,666",https://pt.wikipedia.org/wiki/Guaraciaba_(Minas_Gerais)
+Guaraciama,Minas Gerais,399,5051 hab.,"392,051km²","12,9hab./km²","0,689",https://pt.wikipedia.org/wiki/Guaraciama
+Grupiara,Minas Gerais,810,1373 hab.,"192,56km²","7,1hab./km²","0,774",https://pt.wikipedia.org/wiki/Grupiara
+Grão Mogol,Minas Gerais,556,13901 hab.,"3889,622km²","3,6hab./km²","0,604",https://pt.wikipedia.org/wiki/Gr%C3%A3o_Mogol
+Governador Valadares,Minas Gerais,320,257172 hab.,"2342,325km²","109,8hab./km²","0,727",https://pt.wikipedia.org/wiki/Governador_Valadares
+Glaucilândia,Minas Gerais,448,2928 hab.,"145,632km²","20,1hab./km²","0,697",https://pt.wikipedia.org/wiki/Glaucil%C3%A2ndia
+Goiabeira,Minas Gerais,455,3353 hab.,"112,443km²","29,8hab./km²","0,647",https://pt.wikipedia.org/wiki/Goiabeira_(Minas_Gerais)
+Goianá,Minas Gerais,301,3659 hab.,"153,229km²","23,9hab./km²","0,741",https://pt.wikipedia.org/wiki/Goian%C3%A1
+Gonzaga,Minas Gerais,300,6158 hab.,"209,348km²","29,4hab./km²","0,606",https://pt.wikipedia.org/wiki/Gonzaga
+Gameleiras,Minas Gerais,723,4793 hab.,"1733,399km²","2,8hab./km²","0,650",https://pt.wikipedia.org/wiki/Gameleiras
+Galileia,Minas Gerais,380,6817 hab.,"720,355km²","9,5hab./km²","0,654",https://pt.wikipedia.org/wiki/Galileia_(Minas_Gerais)
+Gonçalves,Minas Gerais,458,4727 hab.,"187,596km²","25,2hab./km²","0,683",https://pt.wikipedia.org/wiki/Gon%C3%A7alves_(Minas_Gerais)
+Funilândia,Minas Gerais,80,4686 hab.,"201,656km²","23,2hab./km²","0,706",https://pt.wikipedia.org/wiki/Funil%C3%A2ndia
+Frutal,Minas Gerais,628,60508 hab.,"2426,966km²","24,9hab./km²","0,730",https://pt.wikipedia.org/wiki/Frutal
+Frei Gaspar,Minas Gerais,335,5640 hab.,"628,303km²",9hab./km²,"0,621",https://pt.wikipedia.org/wiki/Frei_Gaspar
+Fronteira dos Vales,Minas Gerais,780,4687 hab.,"317,826km²","14,7hab./km²","0,599",https://pt.wikipedia.org/wiki/Fronteira_dos_Vales
+Fruta de Leite,Minas Gerais,613,5940 hab.,"758,422km²","7,8hab./km²","0,586",https://pt.wikipedia.org/wiki/Fruta_de_Leite
+Franciscópolis,Minas Gerais,,5034 hab.,"715,870km²",7hab./km²,"0,605",https://pt.wikipedia.org/wiki/Francisc%C3%B3polis
+Fronteira,Minas Gerais,658,18492 hab.,"199,228km²","92,8hab./km²","0,794",https://pt.wikipedia.org/wiki/Fronteira_(Minas_Gerais)
+Frei Lagonegro,Minas Gerais,385,3391 hab.,"167,474km²","20,2hab./km²","0,612",https://pt.wikipedia.org/wiki/Frei_Lagonegro
+Frei Inocêncio,Minas Gerais,355,8226 hab.,"468,196km²","17,6hab./km²","0,703",https://pt.wikipedia.org/wiki/Frei_Inoc%C3%AAncio
+Francisco Sá,Minas Gerais,480,25983 hab.,"2749,393km²","9,5hab./km²","0,662",https://pt.wikipedia.org/wiki/Francisco_S%C3%A1_(Minas_Gerais)
+Francisco Dumont,Minas Gerais,378,4867 hab.,"1553,326km²","3,1hab./km²","0,656",https://pt.wikipedia.org/wiki/Francisco_Dumont
+Francisco Badaró,Minas Gerais,723,7366 hab.,"461,481km²",16hab./km²,"0,622",https://pt.wikipedia.org/wiki/Francisco_Badar%C3%B3
+Fortuna de Minas,Minas Gerais,100,3093 hab.,"198,070km²","15,6hab./km²","0,716",https://pt.wikipedia.org/wiki/Fortuna_de_Minas
+Fortaleza de Minas,Minas Gerais,375,4098 hab.,"218,854km²","18,7hab./km²","0,670",https://pt.wikipedia.org/wiki/Fortaleza_de_Minas
+Fervedouro,Minas Gerais,336,10349 hab.,"357,272km²",29hab./km²,"0,686",https://pt.wikipedia.org/wiki/Fervedouro
+Ferros,Minas Gerais,174,9949 hab.,"1088,795km²","9,1hab./km²","0,603",https://pt.wikipedia.org/wiki/Ferros
+Fernandes Tourinho,Minas Gerais,303,3431 hab.,"151,875km²","22,6hab./km²","0,646",https://pt.wikipedia.org/wiki/Fernandes_Tourinho
+Felixlândia,Minas Gerais,194,"13,978 hab.","1554,627km²",0hab./km²,"0,73",https://pt.wikipedia.org/wiki/Felixl%C3%A2ndia
+Felisburgo,Minas Gerais,730,7409 hab.,"593,962km²","12,5hab./km²","0,583",https://pt.wikipedia.org/wiki/Felisburgo
+Felício dos Santos,Minas Gerais,366,5133 hab.,"358,862km²","14,3hab./km²","0,657",https://pt.wikipedia.org/wiki/Fel%C3%ADcio_dos_Santos
+Faria Lemos,Minas Gerais,362,3262 hab.,"165,654km²","19,7hab./km²","0,716",https://pt.wikipedia.org/wiki/Faria_Lemos
+Fama,Minas Gerais,362,2348 hab.,"86,132km²","27,3hab./km²","0,717",https://pt.wikipedia.org/wiki/Fama_(Minas_Gerais)
+Extrema,Minas Gerais,492,53482 hab.,"243,099km²",220hab./km²,"0,732",https://pt.wikipedia.org/wiki/Extrema
+Ewbank da Câmara,Minas Gerais,241,3914 hab.,"103,834km²","37,7hab./km²","0,676",https://pt.wikipedia.org/wiki/Ewbank_da_C%C3%A2mara
+Estrela do Sul,Minas Gerais,520,8057 hab.,"822,454km²","9,8hab./km²","0,696",https://pt.wikipedia.org/wiki/Estrela_do_Sul_(Minas_Gerais)
+Estrela do Indaiá,Minas Gerais,240,2772 hab.,"635,981km²","4,4hab./km²","0,676",https://pt.wikipedia.org/wiki/Estrela_do_Indai%C3%A1
+Estrela Dalva,Minas Gerais,411,2470 hab.,"131,877km²","18,7hab./km²","0,731",https://pt.wikipedia.org/wiki/Estrela_Dalva
+Estiva,Minas Gerais,404,11449 hab.,"245,295km²","46,7hab./km²","0,691",https://pt.wikipedia.org/wiki/Estiva_(Minas_Gerais)
+Espírito Santo do Dourado,Minas Gerais,400,4429 hab.,"263,849km²","16,8hab./km²","0,685",https://pt.wikipedia.org/wiki/Esp%C3%ADrito_Santo_do_Dourado
+Espinosa,Minas Gerais,699,30443 hab.,"1868,970km²","16,3hab./km²","0,627",https://pt.wikipedia.org/wiki/Espinosa_(Minas_Gerais)
+Espera Feliz,Minas Gerais,378,25122 hab.,"324,988km²","77,3hab./km²","0,663",https://pt.wikipedia.org/wiki/Espera_Feliz
+Eugenópolis,Minas Gerais,409,10801 hab.,"309,395km²","34,9hab./km²","0,739",https://pt.wikipedia.org/wiki/Eugen%C3%B3polis
+Esmeraldas,Minas Gerais,59,85598 hab.,"909,592km²","94,1hab./km²","0,748",https://pt.wikipedia.org/wiki/Esmeraldas_(Minas_Gerais)
+Ervália,Minas Gerais,265,20951 hab.,"357,489km²","58,6hab./km²","0,625",https://pt.wikipedia.org/wiki/Erv%C3%A1lia
+Entre Rios de Minas,Minas Gerais,110,15458 hab.,"456,796km²","33,8hab./km²","0,744",https://pt.wikipedia.org/wiki/Entre_Rios_de_Minas
+Entre Folhas,Minas Gerais,271,5362 hab.,"85,390km²","62,8hab./km²","0,634",https://pt.wikipedia.org/wiki/Entre_Folhas
+Engenheiro Navarro,Minas Gerais,340,6354 hab.,"608,306km²","10,4hab./km²","0,655",https://pt.wikipedia.org/wiki/Engenheiro_Navarro
+Engenheiro Caldas,Minas Gerais,319,11134 hab.,"187,058km²","59,5hab./km²","0,644",https://pt.wikipedia.org/wiki/Engenheiro_Caldas
+Elói Mendes,Minas Gerais,328,26336 hab.,"499,537km²","52,7hab./km²","0,685",https://pt.wikipedia.org/wiki/El%C3%B3i_Mendes
+Durandé,Minas Gerais,319,7841 hab.,"217,778km²",36hab./km²,"0,675",https://pt.wikipedia.org/wiki/Durand%C3%A9
+Douradoquara,Minas Gerais,514,1829 hab.,"313,370km²","5,8hab./km²","0,776",https://pt.wikipedia.org/wiki/Douradoquara
+Doresópolis,Minas Gerais,249,1440 hab.,"153,087km²","9,4hab./km²","0,755",https://pt.wikipedia.org/wiki/Dores%C3%B3polis
+Dores do Turvo,Minas Gerais,323,4439 hab.,"231,285km²","19,2hab./km²","0,711",https://pt.wikipedia.org/wiki/Dores_do_Turvo
+Dores do Indaiá,Minas Gerais,255,13781 hab.,"1110,641km²","12,4hab./km²","0,752",https://pt.wikipedia.org/wiki/Dores_do_Indai%C3%A1
+Dores de Guanhães,Minas Gerais,214,5029 hab.,"381,826km²","13,2hab./km²","0,666",https://pt.wikipedia.org/wiki/Dores_de_Guanh%C3%A3es
+Dores de Campos,Minas Gerais,204,10007 hab.,"124,842km²","80,2hab./km²","0,760",https://pt.wikipedia.org/wiki/Dores_de_Campos
+Dona Euzébia,Minas Gerais,287,6093 hab.,"54,466km²","111,9hab./km²","0,743",https://pt.wikipedia.org/wiki/Dona_Euz%C3%A9bia
+Dom Viçoso,Minas Gerais,412,2994 hab.,"113,178km²","26,5hab./km²","0,687",https://pt.wikipedia.org/wiki/Dom_Vi%C3%A7oso
+Dom Silvério,Minas Gerais,178,5227 hab.,"194,972km²","26,8hab./km²","0,709",https://pt.wikipedia.org/wiki/Dom_Silv%C3%A9rio
+Dom Joaquim,Minas Gerais,200,4535 hab.,"406,672km²","11,2hab./km²","0,652",https://pt.wikipedia.org/wiki/Dom_Joaquim
+Dom Bosco,Minas Gerais,548,3818 hab.,"817,383km²","4,7hab./km²","0,673",https://pt.wikipedia.org/wiki/Dom_Bosco_(Minas_Gerais)
+Divisópolis,Minas Gerais,786,9838 hab.,"965,070km²","10,2hab./km²","0,605",https://pt.wikipedia.org/wiki/Divis%C3%B3polis
+Divisa Nova,Minas Gerais,460,6068 hab.,"216,697km²",28hab./km²,"0,670",https://pt.wikipedia.org/wiki/Divisa_Nova
+Divisa Alegre,Minas Gerais,742,6946 hab.,"118,477km²","58,6hab./km²","0,656",https://pt.wikipedia.org/wiki/Divisa_Alegre
+Divinópolis,Minas Gerais,120,242328 hab.,"708,115km²","342,2hab./km²","0,764",https://pt.wikipedia.org/wiki/Divin%C3%B3polis
+Dom Cavati,Minas Gerais,280,4904 hab.,"59,52km²","82,4hab./km²","0,688",https://pt.wikipedia.org/wiki/Dom_Cavati
+Divinolândia de Minas,Minas Gerais,290,6516 hab.,"133,120km²","48,9hab./km²","0,623",https://pt.wikipedia.org/wiki/Divinol%C3%A2ndia_de_Minas
+Divino das Laranjeiras,Minas Gerais,380,4979 hab.,"342,249km²","14,5hab./km²","0,661",https://pt.wikipedia.org/wiki/Divino_das_Laranjeiras
+Divino,Minas Gerais,350,20706 hab.,"337,776km²","61,3hab./km²","0,692",https://pt.wikipedia.org/wiki/Divino_(Minas_Gerais)
+Dionísio,Minas Gerais,189,6847 hab.,"339,375km²","20,2hab./km²","0,702",https://pt.wikipedia.org/wiki/Dion%C3%ADsio_(Minas_Gerais)
+Diogo de Vasconcelos,Minas Gerais,165,3549 hab.,"165,091km²","21,5hab./km²","0,601",https://pt.wikipedia.org/wiki/Diogo_de_Vasconcelos_(Minas_Gerais)
+Desterro do Melo,Minas Gerais,197,2867 hab.,"142,279km²","20,2hab./km²","0,631",https://pt.wikipedia.org/wiki/Desterro_do_Melo
+Desterro de Entre Rios,Minas Gerais,140,7653 hab.,"370,122km²","20,7hab./km²","0,704",https://pt.wikipedia.org/wiki/Desterro_de_Entre_Rios
+Descoberto,Minas Gerais,338,4768 hab.,"213,198km²","22,4hab./km²","0,748",https://pt.wikipedia.org/wiki/Descoberto
+Delta,Minas Gerais,,9707 hab.,"104,472km²","92,9hab./km²","0,75",https://pt.wikipedia.org/wiki/Delta_(Minas_Gerais)
+Delfinópolis,Minas Gerais,430,7186 hab.,"1374,969km²","5,2hab./km²","0,740",https://pt.wikipedia.org/wiki/Delfin%C3%B3polis
+Delfim Moreira,Minas Gerais,475,7952 hab.,"408,473km²","19,5hab./km²","0,669",https://pt.wikipedia.org/wiki/Delfim_Moreira_(Minas_Gerais)
+Diamantina,Minas Gerais,292,47702 hab.,"3,891,659km²",,"0,716",https://pt.wikipedia.org/wiki/Diamantina
+Datas,Minas Gerais,272,5465 hab.,"309,013km²","17,7hab./km²","0,694",https://pt.wikipedia.org/wiki/Datas_(Minas_Gerais)
+Curvelo,Minas Gerais,168,83862 hab.,"3296,2km²","25,4hab./km²","0,713",https://pt.wikipedia.org/wiki/Curvelo
+Curral de Dentro,Minas Gerais,750,6913 hab.,"568,263km²","12,2hab./km²","0,585",https://pt.wikipedia.org/wiki/Curral_de_Dentro
+Cuparaque,Minas Gerais,497,5026 hab.,"226,750km²","22,2hab./km²","0,71",https://pt.wikipedia.org/wiki/Cuparaque
+Cruzília,Minas Gerais,384,15417 hab.,"522,419km²","29,5hab./km²","0,695",https://pt.wikipedia.org/wiki/Cruz%C3%ADlia
+Cruzeiro da Fortaleza,Minas Gerais,381,3521 hab.,"187,446km²","18,8hab./km²","0,795",https://pt.wikipedia.org/wiki/Cruzeiro_da_Fortaleza
+Crucilândia,Minas Gerais,,5434 hab.,"166,451km²","32,6hab./km²","0,718",https://pt.wikipedia.org/wiki/Crucil%C3%A2ndia
+Cristina,Minas Gerais,416,10374 hab.,"311,330km²","33,3hab./km²","0,668",https://pt.wikipedia.org/wiki/Cristina_(Minas_Gerais)
+Cristiano Otoni,Minas Gerais,115 Km,4667 hab.,"132,869km²","35,1hab./km²","0,738",https://pt.wikipedia.org/wiki/Cristiano_Otoni
+Cristália,Minas Gerais,572,5121 hab.,"840,673km²","6,1hab./km²","0,647",https://pt.wikipedia.org/wiki/Crist%C3%A1lia
+Cristais,Minas Gerais,255,13060 hab.,"627,704km²","20,8hab./km²","0,754",https://pt.wikipedia.org/wiki/Cristais_(Minas_Gerais)
+Crisólita,Minas Gerais,,5265 hab.,"966,202km²","5,4hab./km²","0,585",https://pt.wikipedia.org/wiki/Cris%C3%B3lita
+Couto de Magalhães de Minas,Minas Gerais,324,4245 hab.,"485,654km²","8,7hab./km²","0,712",https://pt.wikipedia.org/wiki/Couto_de_Magalh%C3%A3es_de_Minas
+Córrego Novo,Minas Gerais,319,2814 hab.,"205,385km²","13,7hab./km²","0,632",https://pt.wikipedia.org/wiki/C%C3%B3rrego_Novo
+Córrego Fundo,Minas Gerais,200,5821 hab.,"105,387km²","55,2hab./km²","0,678",https://pt.wikipedia.org/wiki/C%C3%B3rrego_Fundo
+Córrego do Bom Jesus,Minas Gerais,445,3732 hab.,"123,263km²","30,3hab./km²","0,692",https://pt.wikipedia.org/wiki/C%C3%B3rrego_do_Bom_Jesus
+Córrego Danta,Minas Gerais,230,3391 hab.,"644,920km²","5,3hab./km²","0,652",https://pt.wikipedia.org/wiki/C%C3%B3rrego_Danta
+Coronel Xavier Chaves,Minas Gerais,174,3486 hab.,"140,954km²","24,7hab./km²","0,677",https://pt.wikipedia.org/wiki/Coronel_Xavier_Chaves
+Coronel Pacheco,Minas Gerais,294,2983 hab.,"130,287km²","22,9hab./km²","0,736",https://pt.wikipedia.org/wiki/Coronel_Pacheco
+Coronel Murta,Minas Gerais,627,9228 hab.,"813,853km²","11,3hab./km²","0,627",https://pt.wikipedia.org/wiki/Coronel_Murta
+Coromandel,Minas Gerais,477,28894 hab.,"3313,313km²","8,7hab./km²","0,708",https://pt.wikipedia.org/wiki/Coromandel
+Coroaci,Minas Gerais,306,10884 hab.,"576,274km²","18,9hab./km²","0,699",https://pt.wikipedia.org/wiki/Coroaci
+Corinto,Minas Gerais,205,23901 hab.,"2524,503km²","9,5hab./km²","0,680",https://pt.wikipedia.org/wiki/Corinto_(Minas_Gerais)
+Coronel Fabriciano,Minas Gerais,198,104736 hab.,"221,252km²","473,4hab./km²","0,755",https://pt.wikipedia.org/wiki/Coronel_Fabriciano
+Coração de Jesus,Minas Gerais,463,25377 hab.,"2236,236km²","11,3hab./km²","0,687",https://pt.wikipedia.org/wiki/Cora%C3%A7%C3%A3o_de_Jesus_(Minas_Gerais)
+Cordislândia,Minas Gerais,359,3200 hab.,"179,543km²","17,8hab./km²","0,660",https://pt.wikipedia.org/wiki/Cordisl%C3%A2ndia
+Cordisburgo,Minas Gerais,115,8903 hab.,"824,67km²","10,8hab./km²","0,656",https://pt.wikipedia.org/wiki/Cordisburgo
+Consolação,Minas Gerais,436,1727 hab.,"85,936km²","20,1hab./km²","0,673",https://pt.wikipedia.org/wiki/Consola%C3%A7%C3%A3o_(Minas_Gerais)
+Contagem,Minas Gerais,21,621865 hab.,"195,045km²","3188,3hab./km²","0,756",https://pt.wikipedia.org/wiki/Contagem
+Conselheiro Pena,Minas Gerais,400,22892 hab.,"1483,884km²","15,4hab./km²","0,662",https://pt.wikipedia.org/wiki/Conselheiro_Pena
+Conselheiro Lafaiete,Minas Gerais,96,131621 hab.,"369,544km²","356,2hab./km²","0,761",https://pt.wikipedia.org/wiki/Conselheiro_Lafaiete
+Congonhal,Minas Gerais,400,11706 hab.,"205,756km²","56,9hab./km²","0,712",https://pt.wikipedia.org/wiki/Congonhal
+Cônego Marinho,Minas Gerais,634,7089 hab.,"1617,916km²","4,4hab./km²","0,639",https://pt.wikipedia.org/wiki/C%C3%B4nego_Marinho
+Congonhas do Norte,Minas Gerais,244,4831 hab.,"405,671km²","11,9hab./km²","0,655",https://pt.wikipedia.org/wiki/Congonhas_do_Norte
+Confins,Minas Gerais,40,7350 hab.,"42,355km²","173,5hab./km²","0,747",https://pt.wikipedia.org/wiki/Confins
+Congonhas,Minas Gerais,75,52890 hab.,"304,067km²","173,9hab./km²","0,753",https://pt.wikipedia.org/wiki/Congonhas
+Conquista,Minas Gerais,486,7000 hab.,"618,363km²","11,3hab./km²","0,779",https://pt.wikipedia.org/wiki/Conquista
+Conceição do Pará,Minas Gerais,120,5162 hab.,"249,409km²","20,7hab./km²","0,749",https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_do_Par%C3%A1
+Conceição do Mato Dentro,Minas Gerais,167,23163 hab.,"1720,011km²","13,5hab./km²","0,634",https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_do_Mato_Dentro
+Conceição de Ipanema,Minas Gerais,374,4570 hab.,"253,935km²",18hab./km²,"0,676",https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_de_Ipanema
+Conceição das Pedras,Minas Gerais,423,2772 hab.,"101,562km²","27,3hab./km²","0,668",https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_das_Pedras
+Conceição das Alagoas,Minas Gerais,530,28381 hab.,"1340,250km²","21,2hab./km²","0,767",https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_das_Alagoas
+Conceição da Barra de Minas,Minas Gerais,223,3961 hab.,"273,048km²","14,5hab./km²","0,701",https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_da_Barra_de_Minas
+Conceição da Aparecida,Minas Gerais,381,9814 hab.,"349,489km²","28,1hab./km²","0,691",https://pt.wikipedia.org/wiki/Concei%C3%A7%C3%A3o_da_Aparecida
+Comercinho,Minas Gerais,712,8298 hab.,"656,563km²","12,6hab./km²","0,593",https://pt.wikipedia.org/wiki/Comercinho
+Comendador Gomes,Minas Gerais,617,2773 hab.,"1042,882km²","2,7hab./km²","0,795",https://pt.wikipedia.org/wiki/Comendador_Gomes
+Coluna,Minas Gerais,361,8163 hab.,"348,492km²","23,4hab./km²","0,583",https://pt.wikipedia.org/wiki/Coluna_(Minas_Gerais)
+Cláudio,Minas Gerais,139,28617 hab.,"630,278km²","45,4hab./km²","0,735",https://pt.wikipedia.org/wiki/Cl%C3%A1udio_(Minas_Gerais)
+Claro dos Poções,Minas Gerais,495,7781 hab.,"705,965km²",11hab./km²,"0,685",https://pt.wikipedia.org/wiki/Claro_dos_Po%C3%A7%C3%B5es
+Claraval,Minas Gerais,451,4843 hab.,"227,627km²","21,3hab./km²","0,698",https://pt.wikipedia.org/wiki/Claraval
+Cipotânea,Minas Gerais,239,5581 hab.,"153,435km²","36,4hab./km²","0,643",https://pt.wikipedia.org/wiki/Cipot%C3%A2nea
+Chiador,Minas Gerais,342,2865 hab.,"252,852km²","11,3hab./km²","0,711",https://pt.wikipedia.org/wiki/Chiador
+Chapada Gaúcha,Minas Gerais,772,12355 hab.,"3255,189km²","3,8hab./km²","0,635",https://pt.wikipedia.org/wiki/Chapada_Ga%C3%BAcha
+Chapada do Norte,Minas Gerais,522,10337 hab.,"830,833km²","12,4hab./km²","0,598",https://pt.wikipedia.org/wiki/Chapada_do_Norte
+Coimbra,Minas Gerais,243,7117 hab.,"106,834km²","66,6hab./km²","0,756",https://pt.wikipedia.org/wiki/Coimbra_(Minas_Gerais)
+Chalé,Minas Gerais,361,5704 hab.,"212,513km²","26,8hab./km²","0,720",https://pt.wikipedia.org/wiki/Chal%C3%A9_(Minas_Gerais)
+Chácara,Minas Gerais,288,2737 hab.,"152,874km²","17,9hab./km²","0,724",https://pt.wikipedia.org/wiki/Ch%C3%A1cara_(Minas_Gerais)
+Centralina,Minas Gerais,665,10343 hab.,"321,985km²","32,1hab./km²","0,75",https://pt.wikipedia.org/wiki/Centralina
+Central de Minas,Minas Gerais,410,7017 hab.,"204,328km²","34,3hab./km²","0,665",https://pt.wikipedia.org/wiki/Central_de_Minas
+Cedro do Abaeté,Minas Gerais,230,1081 hab.,"283,211km²","3,8hab./km²","0,748",https://pt.wikipedia.org/wiki/Cedro_do_Abaet%C3%A9
+Caxambu,Minas Gerais,384,21656 hab.,"100,203km²","216,1hab./km²","0,743",https://pt.wikipedia.org/wiki/Caxambu
+Catuti,Minas Gerais,652,4739 hab.,"287,812km²","16,5hab./km²","0,621",https://pt.wikipedia.org/wiki/Catuti
+Catuji,Minas Gerais,514,7030 hab.,"419,380km²","16,8hab./km²","0,621",https://pt.wikipedia.org/wiki/Catuji
+Catas Altas,Minas Gerais,121,5376 hab.,"240,042km²","22,4hab./km²","0,684",https://pt.wikipedia.org/wiki/Catas_Altas
+Catas Altas da Noruega,Minas Gerais,142,3462 hab.,"143,366km²","24,1hab./km²","0,673",https://pt.wikipedia.org/wiki/Catas_Altas_da_Noruega
+Cataguases,Minas Gerais,320,66261 hab.,"491,767km²","134,7hab./km²","0,794",https://pt.wikipedia.org/wiki/Cataguases
+Cássia,Minas Gerais,392,17740 hab.,"665,802km²","26,6hab./km²","0,704",https://pt.wikipedia.org/wiki/C%C3%A1ssia_(Minas_Gerais)
+Cascalho Rico,Minas Gerais,557,3037 hab.,"367,732km²","8,3hab./km²","0,788",https://pt.wikipedia.org/wiki/Cascalho_Rico
+Casa Grande,Minas Gerais,142,2214 hab.,"157,994km²",14hab./km²,"0,711",https://pt.wikipedia.org/wiki/Casa_Grande
+Carvalhos,Minas Gerais,380,4555 hab.,"282,587km²","16,1hab./km²","0,646",https://pt.wikipedia.org/wiki/Carvalhos_(Minas_Gerais)
+Carvalhópolis,Minas Gerais,377,3563 hab.,"80,703km²","44,1hab./km²","0,724",https://pt.wikipedia.org/wiki/Carvalh%C3%B3polis
+Carrancas,Minas Gerais,280,4049 hab.,"727,894km²","5,6hab./km²","0,75",https://pt.wikipedia.org/wiki/Carrancas
+Carmo da Mata,Minas Gerais,160,11476 hab.,"357,178km²","32,1hab./km²","0,743",https://pt.wikipedia.org/wiki/Carmo_da_Mata
+Carmópolis de Minas,Minas Gerais,125,17050 hab.,"400,621km²","42,6hab./km²","0,749",https://pt.wikipedia.org/wiki/Carm%C3%B3polis_de_Minas
+Carmo de Minas,Minas Gerais,420,13752 hab.,"323,321km²","42,5hab./km²","0,682",https://pt.wikipedia.org/wiki/Carmo_de_Minas
+Carmo do Rio Claro,Minas Gerais,374,20954 hab.,"1064,790km²","19,7hab./km²","0,733",https://pt.wikipedia.org/wiki/Carmo_do_Rio_Claro
+Carneirinho,Minas Gerais,: 823km,9556 hab.,"2060,720km²","4,6hab./km²","0,763",https://pt.wikipedia.org/wiki/Carneirinho
+Carmo do Cajuru,Minas Gerais,112,20018 hab.,"455,005km²",44hab./km²,"0,774",https://pt.wikipedia.org/wiki/Carmo_do_Cajuru
+Carmo do Paranaíba,Minas Gerais,362,30334 hab.,"1307,119km²","23,2hab./km²","0,792",https://pt.wikipedia.org/wiki/Carmo_do_Parana%C3%ADba
+Carmo da Cachoeira,Minas Gerais,230,11836 hab.,"505,947km²","23,4hab./km²","0,655",https://pt.wikipedia.org/wiki/Carmo_da_Cachoeira
+Carmésia,Minas Gerais,208,2605 hab.,"259,103km²","10,1hab./km²","0,650",https://pt.wikipedia.org/wiki/Carm%C3%A9sia
+Carlos Chagas,Minas Gerais,553,18615 hab.,"3202,984km²","5,8hab./km²","0,648",https://pt.wikipedia.org/wiki/Carlos_Chagas_(Minas_Gerais)
+Careaçu,Minas Gerais,347,6721 hab.,"181,297km²","37,1hab./km²","0,683",https://pt.wikipedia.org/wiki/Carea%C3%A7u
+Carandaí,Minas Gerais,137,23341 hab.,"486,409km²",48hab./km²,"0,76",https://pt.wikipedia.org/wiki/Caranda%C3%AD
+Caraí,Minas Gerais,536,19548 hab.,"1242,345km²","15,7hab./km²","0,558",https://pt.wikipedia.org/wiki/Cara%C3%AD
+Caputira,Minas Gerais,,9033 hab.,"188,112km²",48hab./km²,"0,615",https://pt.wikipedia.org/wiki/Caputira
+Caranaíba,Minas Gerais,131,2933 hab.,"160,022km²","18,3hab./km²","0,706",https://pt.wikipedia.org/wiki/Carana%C3%ADba
+Carangola,Minas Gerais,357,33000 hab.,"353,404km²","93,4hab./km²","0,695",https://pt.wikipedia.org/wiki/Carangola
+Caratinga,Minas Gerais,311,87360 hab.,"1258,479km²","69,4hab./km²","0,706",https://pt.wikipedia.org/wiki/Caratinga
+Capitólio,Minas Gerais,276,8693 hab.,"521,802km²","16,7hab./km²","0,710",https://pt.wikipedia.org/wiki/Capit%C3%B3lio_(Minas_Gerais)
+Capitão Enéas,Minas Gerais,471,14108 hab.,"971,576km²","14,5hab./km²","0,667",https://pt.wikipedia.org/wiki/Capit%C3%A3o_En%C3%A9as
+Capitão Andrade,Minas Gerais,235,5362 hab.,"275,603km²","19,5hab./km²","0,676",https://pt.wikipedia.org/wiki/Capit%C3%A3o_Andrade
+Capinópolis,Minas Gerais,722,16655 hab.,"621,159km²","26,8hab./km²","0,766",https://pt.wikipedia.org/wiki/Capin%C3%B3polis
+Capetinga,Minas Gerais,419,7152 hab.,"296,722km²","24,1hab./km²","0,675",https://pt.wikipedia.org/wiki/Capetinga
+Capim Branco,Minas Gerais,56,10663 hab.,"94,147km²","113,3hab./km²","0,751",https://pt.wikipedia.org/wiki/Capim_Branco
+Capelinha,Minas Gerais,427,39626 hab.,"965,377km²",41hab./km²,"0,653",https://pt.wikipedia.org/wiki/Capelinha
+Capela Nova,Minas Gerais,135,4758 hab.,"110,955km²","42,9hab./km²","0,712",https://pt.wikipedia.org/wiki/Capela_Nova
+Caparaó,Minas Gerais,361,5424 hab.,"130,694km²","41,5hab./km²","0,624",https://pt.wikipedia.org/wiki/Capara%C3%B3
+Canaã,Minas Gerais,264,4715 hab.,"174,900km²",27hab./km²,"0,678",https://pt.wikipedia.org/wiki/Cana%C3%A3_(Minas_Gerais)
+Cana Verde,Minas Gerais,280,5589 hab.,"212,367km²","26,3hab./km²","0,747",https://pt.wikipedia.org/wiki/Cana_Verde
+Cantagalo,Minas Gerais,259,3974 hab.,"141,839km²",28hab./km²,"0,674",https://pt.wikipedia.org/wiki/Cantagalo_(Minas_Gerais)
+Candeias,Minas Gerais,240,14592 hab.,"720,650km²","20,2hab./km²","0,723",https://pt.wikipedia.org/wiki/Candeias_(Minas_Gerais)
+Canápolis,Minas Gerais,663,10608 hab.,"845,238km²","12,6hab./km²","0,722",https://pt.wikipedia.org/wiki/Can%C3%A1polis_(Minas_Gerais)
+Campos Gerais,Minas Gerais,295,28774 hab.,"769,504km²","37,4hab./km²","0,682",https://pt.wikipedia.org/wiki/Campos_Gerais
+Campo Florido,Minas Gerais,546,8466 hab.,"1261,726km²","6,7hab./km²","0,758",https://pt.wikipedia.org/wiki/Campo_Florido
+Campo do Meio,Minas Gerais,315,11518 hab.,"273,830km²","42,1hab./km²","0,683",https://pt.wikipedia.org/wiki/Campo_do_Meio
+Campo Belo,Minas Gerais,226,52277 hab.,"528,225km²",99hab./km²,"0,711",https://pt.wikipedia.org/wiki/Campo_Belo
+Campo Azul,Minas Gerais,587,3714 hab.,"506,463km²","7,3hab./km²","0,65",https://pt.wikipedia.org/wiki/Campo_Azul
+Campina Verde,Minas Gerais,684,18011 hab.,"3663,418km²","4,9hab./km²","0,704",https://pt.wikipedia.org/wiki/Campina_Verde
+Campestre,Minas Gerais,430,21417 hab.,"577,843km²","37,1hab./km²","0,698",https://pt.wikipedia.org/wiki/Campestre_(Minas_Gerais)
+Campanha,Minas Gerais,316,15935 hab.,"336,033km²","47,4hab./km²","0,709",https://pt.wikipedia.org/wiki/Campanha_(Minas_Gerais)
+Campanário,Minas Gerais,395,3739 hab.,"442,398km²","8,5hab./km²","0,616",https://pt.wikipedia.org/wiki/Campan%C3%A1rio_(Minas_Gerais)
+Cambuquira,Minas Gerais,305,13053 hab.,"246,380km²",53hab./km²,"0,699",https://pt.wikipedia.org/wiki/Cambuquira
+Cambuí,Minas Gerais,420,30068 hab.,"244,567km²","122,9hab./km²","0,751",https://pt.wikipedia.org/wiki/Cambu%C3%AD_(Minas_Gerais)
+Camanducaia,Minas Gerais,473,21074 hab.,"527,572km²","39,9hab./km²","0,689",https://pt.wikipedia.org/wiki/Camanducaia
+Camacho,Minas Gerais,204,3154 hab.,"222,218km²","14,2hab./km²","0,698",https://pt.wikipedia.org/wiki/Camacho
+Caldas,Minas Gerais,434,13630 hab.,"713,634km²","19,1hab./km²","0,687",https://pt.wikipedia.org/wiki/Caldas
+Cajuri,Minas Gerais,243,4047 hab.,"83,365km²","48,5hab./km²","0,694",https://pt.wikipedia.org/wiki/Cajuri
+Caiana,Minas Gerais,,4968 hab.,"106,513km²","46,6hab./km²","0,71",https://pt.wikipedia.org/wiki/Caiana
+Caeté,Minas Gerais,35,38776 hab.,"542,531km²","71,5hab./km²","0,728",https://pt.wikipedia.org/wiki/Caet%C3%A9
+Caetanópolis,Minas Gerais,100,10218 hab.,"156,231km²","65,4hab./km²","0,798",https://pt.wikipedia.org/wiki/Caetan%C3%B3polis
+Cachoeira Dourada,Minas Gerais,744,2706 hab.,"200,928km²","13,5hab./km²","0,726",https://pt.wikipedia.org/wiki/Cachoeira_Dourada_(Minas_Gerais)
+Cachoeira de Minas,Minas Gerais,405,11884 hab.,305km²,39hab./km²,"0,706",https://pt.wikipedia.org/wiki/Cachoeira_de_Minas
+Cachoeira de Pajeú,Minas Gerais,720,9382 hab.,"673,761km²","13,9hab./km²","0,578",https://pt.wikipedia.org/wiki/Cachoeira_de_Paje%C3%BA
+Cabo Verde,Minas Gerais,475,14330 hab.,"367,470km²",39hab./km²,"0,674",https://pt.wikipedia.org/wiki/Cabo_Verde_(Minas_Gerais)
+Cachoeira da Prata,Minas Gerais,96,3654 hab.,"61,206km²","59,7hab./km²","0,787",https://pt.wikipedia.org/wiki/Cachoeira_da_Prata
+Buritis,Minas Gerais,755,25179 hab.,"5219,469km²","4,8hab./km²","0,672",https://pt.wikipedia.org/wiki/Buritis_(Minas_Gerais)
+Cabeceira Grande,Minas Gerais,639,6774 hab.,"1025,991km²","6,6hab./km²","0,648",https://pt.wikipedia.org/wiki/Cabeceira_Grande
+Buritizeiro,Minas Gerais,365,23910 hab.,"7225,595km²","3,3hab./km²","0,624",https://pt.wikipedia.org/wiki/Buritizeiro
+Bugre,Minas Gerais,253,4041 hab.,"161,906km²",25hab./km²,"0,627",https://pt.wikipedia.org/wiki/Bugre_(Minas_Gerais)
+Brumadinho,Minas Gerais,51,38915 hab.,"639,434km²","60,9hab./km²","0,747",https://pt.wikipedia.org/wiki/Brumadinho
+Brazópolis,Minas Gerais,453,14246 hab.,"367,688km²","38,7hab./km²","0,692",https://pt.wikipedia.org/wiki/Braz%C3%B3polis
+Braúnas,Minas Gerais,284,4441 hab.,"378,318km²","11,7hab./km²","0,624",https://pt.wikipedia.org/wiki/Bra%C3%BAnas
+Brasília de Minas,Minas Gerais,520,32025 hab.,"1398,563km²","22,9hab./km²","0,656",https://pt.wikipedia.org/wiki/Bras%C3%ADlia_de_Minas
+Brasilândia de Minas,Minas Gerais,440,14226 hab.,"2515,339km²","5,7hab./km²","0,674",https://pt.wikipedia.org/wiki/Brasil%C3%A2ndia_de_Minas
+Brás Pires,Minas Gerais,332,4637 hab.,"223,362km²","20,8hab./km²","0,705",https://pt.wikipedia.org/wiki/Br%C3%A1s_Pires
+Botumirim,Minas Gerais,575,5790 hab.,"1571,797km²","3,7hab./km²","0,665",https://pt.wikipedia.org/wiki/Botumirim
+Botelhos,Minas Gerais,455,14935 hab.,"333,666km²","44,8hab./km²","0,702",https://pt.wikipedia.org/wiki/Botelhos
+Borda da Mata,Minas Gerais,410,19055 hab.,"301,108km²","63,3hab./km²","0,730",https://pt.wikipedia.org/wiki/Borda_da_Mata
+Bonito de Minas,Minas Gerais,653,10797 hab.,"3900,641km²","2,8hab./km²","0,58",https://pt.wikipedia.org/wiki/Bonito_de_Minas
+Bonfinópolis de Minas,Minas Gerais,532,5867 hab.,"1778,162km²","3,3hab./km²","0,678",https://pt.wikipedia.org/wiki/Bonfin%C3%B3polis_de_Minas
+Bonfim,Minas Gerais,90,6811 hab.,"301,210km²","22,6hab./km²","0,715",https://pt.wikipedia.org/wiki/Bonfim_(Minas_Gerais)
+Bom Sucesso,Minas Gerais,190,17151 hab.,"705,046km²","24,3hab./km²","0,754",https://pt.wikipedia.org/wiki/Bom_Sucesso_(Minas_Gerais)
+Bom Repouso,Minas Gerais,456,10457 hab.,"229,845km²","45,5hab./km²","0,653",https://pt.wikipedia.org/wiki/Bom_Repouso
+Bom Jesus do Galho,Minas Gerais,304,15010 hab.,"592,289km²","25,3hab./km²","0,623",https://pt.wikipedia.org/wiki/Bom_Jesus_do_Galho
+Bom Jesus do Amparo,Minas Gerais,67,5631 hab.,"195,611km²","28,8hab./km²","0,683",https://pt.wikipedia.org/wiki/Bom_Jesus_do_Amparo
+Bom Jesus da Penha,Minas Gerais,401,4217 hab.,"209,069km²","20,2hab./km²","0,735",https://pt.wikipedia.org/wiki/Bom_Jesus_da_Penha
+Bom Jardim de Minas,Minas Gerais,295,6489 hab.,"412,021km²","15,7hab./km²","0,673",https://pt.wikipedia.org/wiki/Bom_Jardim_de_Minas
+Bom Despacho,Minas Gerais,156,51737 hab.,1213km²,"42,7hab./km²","0,750",https://pt.wikipedia.org/wiki/Bom_Despacho
+Bocaiuva,Minas Gerais,369,48032 hab.,"3206,757km²",15hab./km²,"0,700",https://pt.wikipedia.org/wiki/Bocaiuva
+Bocaina de Minas,Minas Gerais,380,5348 hab.,"501,446km²","10,7hab./km²","0,645",https://pt.wikipedia.org/wiki/Bocaina_de_Minas
+Boa Esperança,Minas Gerais,280,40530 hab.,"858,728km²","47,2hab./km²","0,704",https://pt.wikipedia.org/wiki/Boa_Esperan%C3%A7a_(Minas_Gerais)
+Biquinhas,Minas Gerais,"292,5",2383 hab.,"457,226km²","5,2hab./km²","0,746",https://pt.wikipedia.org/wiki/Biquinhas
+Bicas,Minas Gerais,290,13653 hab.,"139,538km²","97,8hab./km²","0,799",https://pt.wikipedia.org/wiki/Bicas
+Bias Fortes,Minas Gerais,240,3796 hab.,"284,271km²","13,4hab./km²","0,713",https://pt.wikipedia.org/wiki/Bias_Fortes
+Betim,Minas Gerais,26,411859 hab.,"343,884km²","1197,7hab./km²","0,749",https://pt.wikipedia.org/wiki/Betim
+Bertópolis,Minas Gerais,638,4503 hab.,"559,721km²",8hab./km²,"0,594",https://pt.wikipedia.org/wiki/Bert%C3%B3polis
+Berizal,Minas Gerais,749,4201 hab.,"488,756km²","8,6hab./km²","0,599",https://pt.wikipedia.org/wiki/Berizal
+Berilo,Minas Gerais,545,9826 hab.,"587,106km²","16,7hab./km²","0,628",https://pt.wikipedia.org/wiki/Berilo_(Minas_Gerais)
+Belo Vale,Minas Gerais,82,8627 hab.,"365,437km²","23,6hab./km²","0,733",https://pt.wikipedia.org/wiki/Belo_Vale
+Belo Oriente,Minas Gerais,253,23928 hab.,"334,909km²","71,4hab./km²","0,686",https://pt.wikipedia.org/wiki/Belo_Oriente
+Belmiro Braga,Minas Gerais,295,3403 hab.,"393,13km²","8,7hab./km²","0,735",https://pt.wikipedia.org/wiki/Belmiro_Braga
+Bandeira,Minas Gerais,856,4738 hab.,"484,680km²","9,8hab./km²","0,599",https://pt.wikipedia.org/wiki/Bandeira_(Minas_Gerais)
+Barbacena,Minas Gerais,169,125317 hab.,"759,186km²","165,1hab./km²","0,769",https://pt.wikipedia.org/wiki/Barbacena_(Minas_Gerais)
+Bela Vista de Minas,Minas Gerais,120,10255 hab.,"109,143km²",94hab./km²,"0,674",https://pt.wikipedia.org/wiki/Bela_Vista_de_Minas
+Barão de Cocais,Minas Gerais,90,32319 hab.,"340,585km²","94,9hab./km²","0,722",https://pt.wikipedia.org/wiki/Bar%C3%A3o_de_Cocais
+Bandeira do Sul,Minas Gerais,444,5340 hab.,"46,917km²","113,8hab./km²","0,692",https://pt.wikipedia.org/wiki/Bandeira_do_Sul
+Barroso,Minas Gerais,197,20080 hab.,"81,726km²","245,7hab./km²","0,745",https://pt.wikipedia.org/wiki/Barroso
+Barão de Monte Alto,Minas Gerais,359,4964 hab.,"198,313km²",25hab./km²,"0,694",https://pt.wikipedia.org/wiki/Bar%C3%A3o_de_Monte_Alto
+Barra Longa,Minas Gerais,172,5250 hab.,"383,628km²","13,7hab./km²","0,624",https://pt.wikipedia.org/wiki/Barra_Longa
+Astolfo Dutra,Minas Gerais,281,13049 hab.,"159,139km²",82hab./km²,"0,771",https://pt.wikipedia.org/wiki/Astolfo_Dutra
+Bambuí,Minas Gerais,270,22709 hab.,"1455,380km²","15,6hab./km²","0,799",https://pt.wikipedia.org/wiki/Bambu%C3%AD
+Baldim,Minas Gerais,95,7492 hab.,"556,266km²","13,5hab./km²","0,671",https://pt.wikipedia.org/wiki/Baldim
+Baependi,Minas Gerais,330,18292 hab.,"751,748km²","24,3hab./km²","0,681",https://pt.wikipedia.org/wiki/Baependi
+Augusto de Lima,Minas Gerais,249,4960 hab.,"1250,649km²",4hab./km²,"0,69",https://pt.wikipedia.org/wiki/Augusto_de_Lima
+Ataléia,Minas Gerais,611,13064 hab.,"1836,925km²","7,1hab./km²","0,588",https://pt.wikipedia.org/wiki/Atal%C3%A9ia_(Minas_Gerais)
+Arinos,Minas Gerais,727,17272 hab.,"5322,795km²","3,2hab./km²","0,656",https://pt.wikipedia.org/wiki/Arinos
+Argirita,Minas Gerais,326,2901 hab.,"159,326km²","18,2hab./km²","0,735",https://pt.wikipedia.org/wiki/Argirita
+Areado,Minas Gerais,379,14851 hab.,"280,754km²","52,9hab./km²","0,727",https://pt.wikipedia.org/wiki/Areado
+Arcos,Minas Gerais,210,40658 hab.,"510,048km²","79,7hab./km²","0,749",https://pt.wikipedia.org/wiki/Arcos_(Minas_Gerais)
+Arceburgo,Minas Gerais,"478,69",10578 hab.,"162,460km²","65,1hab./km²","0,683",https://pt.wikipedia.org/wiki/Arceburgo
+Araújos,Minas Gerais,163,9199 hab.,"245,522km²","37,5hab./km²","0,755",https://pt.wikipedia.org/wiki/Ara%C3%BAjos
+Arapuá,Minas Gerais,350,2631 hab.,"173,894km²","15,1hab./km²","0,776",https://pt.wikipedia.org/wiki/Arapu%C3%A1
+Araporã,Minas Gerais,700,8479 hab.,"294,354km²","28,8hab./km²","0,708",https://pt.wikipedia.org/wiki/Arapor%C3%A3
+Araponga,Minas Gerais,262,8152 hab.,"304,421km²","26,8hab./km²","0,657",https://pt.wikipedia.org/wiki/Araponga_(Minas_Gerais)
+Araxá,Minas Gerais,367,117677 hab.,"1164,062km²","101,1hab./km²","0,772",https://pt.wikipedia.org/wiki/Arax%C3%A1
+Arantina,Minas Gerais,360,2915 hab.,"89,420km²","32,6hab./km²","0,697",https://pt.wikipedia.org/wiki/Arantina
+Araguari,Minas Gerais,671,117808 hab.,"2729,777km²","43,2hab./km²","0,773",https://pt.wikipedia.org/wiki/Araguari
+Araçuaí,Minas Gerais,678,34297 hab.,"2236,279km²","15,3hab./km²","0,663",https://pt.wikipedia.org/wiki/Ara%C3%A7ua%C3%AD
+Aracitaba,Minas Gerais,245,2057 hab.,"105,885km²","19,4hab./km²","0,684",https://pt.wikipedia.org/wiki/Aracitaba
+Araçaí,Minas Gerais,108,2181 hab.,"187,538km²","11,6hab./km²","0,748",https://pt.wikipedia.org/wiki/Ara%C3%A7a%C3%AD
+Antônio Prado de Minas,Minas Gerais,400,1538 hab.,"83,802km²","18,4hab./km²","0,72",https://pt.wikipedia.org/wiki/Ant%C3%B4nio_Prado_de_Minas
+Antônio Carlos,Minas Gerais,200,11095 hab.,"529,915km²","20,9hab./km²","0,733",https://pt.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_(Minas_Gerais)
+Angelândia,Minas Gerais,443,7718 hab.,"185,211km²","41,7hab./km²","0,597",https://pt.wikipedia.org/wiki/Angel%C3%A2ndia
+Andradas,Minas Gerais,463,40553 hab.,"469,396km²","86,4hab./km²","0,734",https://pt.wikipedia.org/wiki/Andradas
+Amparo da Serra,Minas Gerais,197,4541 hab.,"136,186km²","33,3hab./km²","0,675",https://pt.wikipedia.org/wiki/Amparo_do_Serra
+Alvorada de Minas,Minas Gerais,210,4159 hab.,"374,008km²","11,1hab./km²","0,667",https://pt.wikipedia.org/wiki/Alvorada_de_Minas
+Alvinópolis,Minas Gerais,162,15059 hab.,"599,443km²","25,1hab./km²","0,676",https://pt.wikipedia.org/wiki/Alvin%C3%B3polis
+Antônio Dias,Minas Gerais,172,9219 hab.,"787,061km²","11,7hab./km²","0,645",https://pt.wikipedia.org/wiki/Ant%C3%B4nio_Dias
+Andrelândia,Minas Gerais,299,11927 hab.,"1005,285km²","11,9hab./km²","0,700",https://pt.wikipedia.org/wiki/Andrel%C3%A2ndia
+Alvarenga,Minas Gerais,455,3975 hab.,"278,175km²","14,3hab./km²","0,592",https://pt.wikipedia.org/wiki/Alvarenga_(Minas_Gerais)
+Alto Rio Doce,Minas Gerais,219,10891 hab.,"518,053km²",21hab./km²,"0,620",https://pt.wikipedia.org/wiki/Alto_Rio_Doce
+Alto Jequitibá,Minas Gerais,,8397 hab.,"152,272km²","55,1hab./km²","0,735",https://pt.wikipedia.org/wiki/Alto_Jequitib%C3%A1
+Alto Caparaó,Minas Gerais,371,5795 hab.,"103,690km²","55,9hab./km²","0,758",https://pt.wikipedia.org/wiki/Alto_Capara%C3%B3
+Alterosa,Minas Gerais,324,13915 hab.,"362,010km²","38,4hab./km²","0,668",https://pt.wikipedia.org/wiki/Alterosa
+Alpinópolis,Minas Gerais,320,18300 hab.,"460,685km²","39,7hab./km²","0,725",https://pt.wikipedia.org/wiki/Alpin%C3%B3polis
+Alpercata,Minas Gerais,330,6903 hab.,"166,972km²","41,3hab./km²","0,646",https://pt.wikipedia.org/wiki/Alpercata
+Almenara,Minas Gerais,744,40364 hab.,"2294,426km²","17,6hab./km²","0,642",https://pt.wikipedia.org/wiki/Almenara
+Alfredo Vasconcelos,Minas Gerais,175,6931 hab.,"130,815km²",53hab./km²,"0,72",https://pt.wikipedia.org/wiki/Alfredo_Vasconcelos
+Alfenas,Minas Gerais,335,78970 hab.,"850,446km²","92,9hab./km²","0,761",https://pt.wikipedia.org/wiki/Alfenas
+Além Paraíba,Minas Gerais,380,30717 hab.,"510,250km²","60,2hab./km²","0,777",https://pt.wikipedia.org/wiki/Al%C3%A9m_Para%C3%ADba
+Albertina,Minas Gerais,493,2952 hab.,"58,010km²","50,9hab./km²","0,673",https://pt.wikipedia.org/wiki/Albertina_(Minas_Gerais)
+Alagoa,Minas Gerais,420,2749 hab.,"161,356km²",17hab./km²,"0,649",https://pt.wikipedia.org/wiki/Alagoa_(Minas_Gerais)
+Aiuruoca,Minas Gerais,423,6233 hab.,"649,680km²","9,6hab./km²","0,668",https://pt.wikipedia.org/wiki/Aiuruoca
+Aimorés,Minas Gerais,440,25269 hab.,"1348,913km²","18,7hab./km²","0,684",https://pt.wikipedia.org/wiki/Aimor%C3%A9s_(Minas_Gerais)
+Águas Formosas,Minas Gerais,613,18448 hab.,"820,079km²","22,5hab./km²","0,639",https://pt.wikipedia.org/wiki/%C3%81guas_Formosas
+Aguanil,Minas Gerais,240,4357 hab.,"232,091km²","18,8hab./km²","0,741",https://pt.wikipedia.org/wiki/Aguanil
+Água Comprida,Minas Gerais,525,2108 hab.,"492,167km²","4,3hab./km²","0,793",https://pt.wikipedia.org/wiki/%C3%81gua_Comprida
+Água Boa,Minas Gerais,379,12589 hab.,"1320,344km²","9,5hab./km²","0,642",https://pt.wikipedia.org/wiki/%C3%81gua_Boa_(Minas_Gerais)
+Açucena,Minas Gerais,285,8943 hab.,"815,422km²",11hab./km²,"0,610",https://pt.wikipedia.org/wiki/A%C3%A7ucena_(Minas_Gerais)
+Acaiaca,Minas Gerais,154,3909 hab.,"101,886km²","38,4hab./km²","0,678",https://pt.wikipedia.org/wiki/Acaiaca
+Abre Campo,Minas Gerais,216,13927 hab.,"470,551km²","29,6hab./km²","0,719",https://pt.wikipedia.org/wiki/Abre_Campo
+Águas Vermelhas,Minas Gerais,760,14037 hab.,"1256,607km²","11,2hab./km²","0,601",https://pt.wikipedia.org/wiki/%C3%81guas_Vermelhas
+Abaeté,Minas Gerais,220,22675 hab.,"1817,067km²","12,5hab./km²","0,778",https://pt.wikipedia.org/wiki/Abaet%C3%A9
+Abadia dos Dourados,Minas Gerais,502,6272 hab.,"880,461km²","7,1hab./km²","0,689",https://pt.wikipedia.org/wiki/Abadia_dos_Dourados

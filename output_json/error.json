@@ -1,0 +1,22 @@
+[
+{
+    "name": "Coqueiral",
+    "state": "",
+    "distance_to_the_capital": "",
+    "total_population": "",
+    "total_area": "",
+    "density": "",
+    "hdi": "",
+    "url": "https://pt.wikipedia.org/wiki/Coqueiral"
+},
+{
+    "name": "Campos Altos",
+    "state": "",
+    "distance_to_the_capital": "264",
+    "total_population": "14213 hab.",
+    "total_area": "719,121km²",
+    "density": "19,8hab./km²",
+    "hdi": "0,786",
+    "url": "https://pt.wikipedia.org/wiki/Campos_Altos"
+}
+]

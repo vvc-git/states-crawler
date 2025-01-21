@@ -1,0 +1,646 @@
+Name,State,Distance to the Capital (Km),Total Population,Total Area,Density,HDI,URL
+Adamantina,São Paulo,582,35068 hab.,"411,781km²","85,2hab./km²","0,790",https://pt.wikipedia.org/wiki/Adamantina
+Atibaia,São Paulo,67,158647 hab.,"478,521km²","331,5hab./km²","0,765",https://pt.wikipedia.org/wiki/Atibaia
+Areiópolis,São Paulo,278,11186 hab.,"85,947km²","130,1hab./km²","0,695",https://pt.wikipedia.org/wiki/Arei%C3%B3polis
+Areias,São Paulo,254,3886 hab.,"305,227km²","12,7hab./km²","0,723",https://pt.wikipedia.org/wiki/Areias_(S%C3%A3o_Paulo)
+Arealva,São Paulo,388,8299 hab.,"506,465km²","16,4hab./km²","0,79",https://pt.wikipedia.org/wiki/Arealva
+Arco-Íris,São Paulo,532,1856 hab.,"263,214km²","7,1hab./km²","0,708",https://pt.wikipedia.org/wiki/Arco-%C3%8Dris_(S%C3%A3o_Paulo)
+Aspásia,São Paulo,624,1818 hab.,"69,373km²","26,2hab./km²","0,738",https://pt.wikipedia.org/wiki/Asp%C3%A1sia_(S%C3%A3o_Paulo)
+Artur Nogueira,São Paulo,150,51456 hab.,"177,752km²","289,5hab./km²","0,796",https://pt.wikipedia.org/wiki/Artur_Nogueira
+Ariranha,São Paulo,428,9365 hab.,"132,624km²","70,6hab./km²","0,769",https://pt.wikipedia.org/wiki/Ariranha_(S%C3%A3o_Paulo)
+Arujá,São Paulo,41,86678 hab.,"96,167km²","901,3hab./km²","0,784",https://pt.wikipedia.org/wiki/Aruj%C3%A1
+Arapeí,São Paulo,310,2469 hab.,"156,903km²","15,7hab./km²","0,716",https://pt.wikipedia.org/wiki/Arape%C3%AD
+Araras,São Paulo,174,130866 hab.,"644,831km²","202,9hab./km²","0,781",https://pt.wikipedia.org/wiki/Araras_(S%C3%A3o_Paulo)
+Assis,São Paulo,434,101409 hab.,"460,609km²","220,2hab./km²","0,805",https://pt.wikipedia.org/wiki/Assis_(S%C3%A3o_Paulo)
+Arandu,São Paulo,274,7123 hab.,"286,328km²","24,9hab./km²","0,685",https://pt.wikipedia.org/wiki/Arandu
+Araraquara,São Paulo,270,252318,"1003,625km²","243,48 hab./km²","0,815",https://pt.wikipedia.org/wiki/Araraquara
+Zacarias,São Paulo,538,2692 hab.,"319,1km²","8,4hab./km²","0,777",https://pt.wikipedia.org/wiki/Zacarias_(S%C3%A3o_Paulo)
+Votuporanga,São Paulo,527,"100,159 hab.","424,1km²","0,2hab./km²","0,790",https://pt.wikipedia.org/wiki/Votuporanga
+Votorantim,São Paulo,108,137119 hab.,"183,998km²","745,2hab./km²","0,798",https://pt.wikipedia.org/wiki/Votorantim
+Vitória Brasil,São Paulo,604,1737 hab.,"49,7km²","34,9hab./km²","0,747",https://pt.wikipedia.org/wiki/Vit%C3%B3ria_Brasil
+Vista Alegre do Alto,São Paulo,371,8989 hab.,"95,297km²","94,3hab./km²","0,816",https://pt.wikipedia.org/wiki/Vista_Alegre_do_Alto
+Viradouro,São Paulo,416,"19,017 hab.","219,044km²","0,1hab./km²","0,739",https://pt.wikipedia.org/wiki/Viradouro
+Vinhedo,São Paulo,75,76540 hab.,"80,950km²","945,5hab./km²","0,817",https://pt.wikipedia.org/wiki/Vinhedo
+Várzea Paulista,São Paulo,45,119576 hab.,"34,627km²","3453,3hab./km²","0,795",https://pt.wikipedia.org/wiki/V%C3%A1rzea_Paulista
+Vargem Grande Paulista,São Paulo,45,42946 hab.,"33,512km²","1281,5hab./km²","0,770",https://pt.wikipedia.org/wiki/Vargem_Grande_Paulista
+Vargem Grande do Sul,São Paulo,235,"50,000 hab.","266,530km²","0,2hab./km²","0,802",https://pt.wikipedia.org/wiki/Vargem_Grande_do_Sul
+Vargem,São Paulo,97,10805 hab.,"142,595km²","75,8hab./km²","0,699",https://pt.wikipedia.org/wiki/Vargem_(S%C3%A3o_Paulo)
+Valparaíso,São Paulo,563,24241 hab.,"857,661km²","28,3hab./km²","0,807",https://pt.wikipedia.org/wiki/Valpara%C3%ADso_(S%C3%A3o_Paulo)
+Valinhos,São Paulo,82,"126,373 hab.","148,538km²","0,9hab./km²","0,819",https://pt.wikipedia.org/wiki/Valinhos
+Valentim Gentil,São Paulo,536,11036 hab.,"149,7km²","73,7hab./km²","0,785",https://pt.wikipedia.org/wiki/Valentim_Gentil
+Vera Cruz,São Paulo,430,10769 hab.,"247,854km²","43,4hab./km²","0,758",https://pt.wikipedia.org/wiki/Vera_Cruz_(S%C3%A3o_Paulo)
+Ubarana,São Paulo,476,5365 hab.,"209,6km²","25,6hab./km²","0,752",https://pt.wikipedia.org/wiki/Ubarana
+Urupês,São Paulo,470,13744 hab.,"323,7km²","42,5hab./km²","0,795",https://pt.wikipedia.org/wiki/Urup%C3%AAs
+Uru,São Paulo,"418,9",1177 hab.,"147,581km²",8hab./km²,"0,739",https://pt.wikipedia.org/wiki/Uru_(S%C3%A3o_Paulo)
+Urânia,São Paulo,610,8836 hab.,"208,9km²","42,3hab./km²","0,765",https://pt.wikipedia.org/wiki/Ur%C3%A2nia_(S%C3%A3o_Paulo)
+União Paulista,São Paulo,"502,1",1603 hab.,"79,1km²","20,3hab./km²","0,777",https://pt.wikipedia.org/wiki/Uni%C3%A3o_Paulista
+Uchoa,São Paulo,426,10394 hab.,"252,5km²","41,2hab./km²","0,75",https://pt.wikipedia.org/wiki/Uchoa
+Ubirajara,São Paulo,400,4429 hab.,"283,326km²","15,6hab./km²","0,764",https://pt.wikipedia.org/wiki/Ubirajara
+Ubatuba,São Paulo,223,92819 hab.,"708,105km²","131,1hab./km²","0,751",https://pt.wikipedia.org/wiki/Ubatuba
+Turmalina,São Paulo,613,1696 hab.,"147,797km²","11,5hab./km²","0,782",https://pt.wikipedia.org/wiki/Turmalina_(S%C3%A3o_Paulo)
+Turiúba,São Paulo,460,2013 hab.,"153,085km²","13,1hab./km²","0,8",https://pt.wikipedia.org/wiki/Turi%C3%BAba
+Tupi Paulista,São Paulo,673,15404 hab.,"244,770km²","62,9hab./km²","0,769",https://pt.wikipedia.org/wiki/Tupi_Paulista
+Tuiuti,São Paulo,100,6977 hab.,"126,465km²","55,2hab./km²","0,728",https://pt.wikipedia.org/wiki/Tuiuti_(S%C3%A3o_Paulo)
+Três Fronteiras,São Paulo,621,5832 hab.,"151,594km²","38,5hab./km²","0,761",https://pt.wikipedia.org/wiki/Tr%C3%AAs_Fronteiras
+Tremembé,São Paulo,133,51173 hab.,"191,094km²","267,8hab./km²","0,834",https://pt.wikipedia.org/wiki/Trememb%C3%A9
+Trabiju,São Paulo,260,1445 hab.,"63,378km²","22,8hab./km²","0,755",https://pt.wikipedia.org/wiki/Trabiju
+Torrinha,São Paulo,239,9935 hab.,"315,267km²","29,61 hab./km²","0,744",https://pt.wikipedia.org/wiki/Torrinha
+Torre de Pedra,São Paulo,167,2422 hab.,"71,303km²",34hab./km²,"0,777",https://pt.wikipedia.org/wiki/Torre_de_Pedra
+Timburi,São Paulo,364,2646 hab.,"197,220km²","13,4hab./km²","0,749",https://pt.wikipedia.org/wiki/Timburi
+Tupã,São Paulo,514,75264 hab.,"628,51km²","119,72 hab./km²","0,771",https://pt.wikipedia.org/wiki/Tup%C3%A3_(S%C3%A3o_Paulo)
+Tietê,São Paulo,121,37663 hab.,"404,396km²","93,1hab./km²","0,778",https://pt.wikipedia.org/wiki/Tiet%C3%AA
+Terra Roxa,São Paulo,422,8505 hab.,"219,894km²","38,7hab./km²","0,749",https://pt.wikipedia.org/wiki/Terra_Roxa_(S%C3%A3o_Paulo)
+Teodoro Sampaio,São Paulo,660,23273 hab.,"1556,670km²",15hab./km²,"0,741",https://pt.wikipedia.org/wiki/Teodoro_Sampaio_(S%C3%A3o_Paulo)
+Tejupá,São Paulo,331,4809 hab.,"296,343km²","16,2hab./km²","0,668",https://pt.wikipedia.org/wiki/Tejup%C3%A1
+Taubaté,São Paulo,130,321298 hab.,"625,003km²","514,1hab./km²","0,800",https://pt.wikipedia.org/wiki/Taubat%C3%A9
+Tatuí,São Paulo,131,123942 hab.,"523,475km²","236,8hab./km²","0,794",https://pt.wikipedia.org/wiki/Tatu%C3%AD
+Tarumã,São Paulo,460,15183 hab.,"303,503km²",50hab./km²,"0,753",https://pt.wikipedia.org/wiki/Tarum%C3%A3_(S%C3%A3o_Paulo)
+Tarabai,São Paulo,573,7395 hab.,"201,385km²","36,7hab./km²","0,726",https://pt.wikipedia.org/wiki/Tarabai
+Taquarivaí,São Paulo,280,5149 hab.,"232,963km²","22,1hab./km²","0,702",https://pt.wikipedia.org/wiki/Taquariva%C3%AD
+Taquarituba,São Paulo,320,24350 hab.,"447,085km²","54,5hab./km²","0,741",https://pt.wikipedia.org/wiki/Taquarituba
+Taquaritinga,São Paulo,333,56645 hab.,"594,224km²","95,3hab./km²","0,748",https://pt.wikipedia.org/wiki/Taquaritinga
+Taquaral,São Paulo,360,2726 hab.,"53,208km²","51,2hab./km²","0,765",https://pt.wikipedia.org/wiki/Taquaral
+Tapiratiba,São Paulo,270,"12,950 hab.","220,575km²","0,1hab./km²","0,792",https://pt.wikipedia.org/wiki/Tapiratiba
+Tapiraí,São Paulo,135,7850 hab.,"755,100km²","10,4hab./km²","0,681",https://pt.wikipedia.org/wiki/Tapira%C3%AD_(S%C3%A3o_Paulo)
+Tanabi,São Paulo,477,25265 hab.,"745,8km²","33,9hab./km²","0,792",https://pt.wikipedia.org/wiki/Tanabi
+Tambaú,São Paulo,270,23255 hab.,"561,788km²","41,4hab./km²","0,731",https://pt.wikipedia.org/wiki/Tamba%C3%BA
+Taiúva,São Paulo,364,6548 hab.,"132,157km²","49,5hab./km²","0,789",https://pt.wikipedia.org/wiki/Tai%C3%BAva
+Taiaçu,São Paulo,372,6320 hab.,"106,932km²","59,1hab./km²","0,751",https://pt.wikipedia.org/wiki/Taia%C3%A7u
+Taguaí,São Paulo,350,12669 hab.,"145,800km²","86,9hab./km²","0,812",https://pt.wikipedia.org/wiki/Tagua%C3%AD
+Taciba,São Paulo,541,6260 hab.,"608,310km²","10,3hab./km²","0,723",https://pt.wikipedia.org/wiki/Taciba
+Taboão da Serra,São Paulo,,285570 hab.,"20,478km²","13945,2hab./km²","0,769",https://pt.wikipedia.org/wiki/Tabo%C3%A3o_da_Serra
+Tabatinga,São Paulo,292,15881 hab.,"366,456km²","43,3hab./km²","0,704",https://pt.wikipedia.org/wiki/Tabatinga_(S%C3%A3o_Paulo)
+Tabapuã,São Paulo,413,12103 hab.,"345,6km²",35hab./km²,"0,771",https://pt.wikipedia.org/wiki/Tabapu%C3%A3
+Suzano,São Paulo,34,307364 hab.,"206,236km²","1490,4hab./km²","0,765",https://pt.wikipedia.org/wiki/Suzano
+Suzanápolis,São Paulo,641,3383 hab.,"327,889km²","10,3hab./km²","0,743",https://pt.wikipedia.org/wiki/Suzan%C3%A1polis
+Sumaré,São Paulo,126,279545 hab.,"153,465km²","1821,6hab./km²","0,762",https://pt.wikipedia.org/wiki/Sumar%C3%A9
+Sud Mennucci,São Paulo,627,7708 hab.,"590,682km²",13hab./km²,"0,779",https://pt.wikipedia.org/wiki/Sud_Mennucci_(S%C3%A3o_Paulo)
+Socorro,São Paulo,135,41352 hab.,"448,074km²","92,3hab./km²","0,729",https://pt.wikipedia.org/wiki/Socorro_(munic%C3%ADpio)
+Silveiras,São Paulo,231,6302 hab.,"414,782km²","15,2hab./km²","0,721",https://pt.wikipedia.org/wiki/Silveiras_(S%C3%A3o_Paulo)
+Severínia,São Paulo,431,14576 hab.,"140,4km²","103,8hab./km²","0,715",https://pt.wikipedia.org/wiki/Sever%C3%ADnia
+Sete Barras,São Paulo,200,"12,730 hab.","1062,699km²",0hab./km²,"0,673",https://pt.wikipedia.org/wiki/Sete_Barras
+Sorocaba,São Paulo,87,723682 hab.,"450,382km²","1606,8hab./km²","0,798",https://pt.wikipedia.org/wiki/Sorocaba
+Sertãozinho,São Paulo,335,131600 hab.,"403,089km²","326,5hab./km²","0,798",https://pt.wikipedia.org/wiki/Sert%C3%A3ozinho_(S%C3%A3o_Paulo)
+Serrana,São Paulo,315,45408 hab.,"125,744km²","361,1hab./km²","0,729",https://pt.wikipedia.org/wiki/Serrana
+Serra Negra,São Paulo,142,29894 hab.,"203,734km²","146,7hab./km²","0,767",https://pt.wikipedia.org/wiki/Serra_Negra_(S%C3%A3o_Paulo)
+Serra Azul,São Paulo,303,11259 hab.,"283,144km²","39,8hab./km²","0,686",https://pt.wikipedia.org/wiki/Serra_Azul
+Sebastianópolis do Sul,São Paulo,504,3031 hab.,"162,9km²","18,6hab./km²","0,769",https://pt.wikipedia.org/wiki/Sebastian%C3%B3polis_do_Sul
+Sarutaiá,São Paulo,326,3622 hab.,"141,511km²","25,6hab./km²","0,719",https://pt.wikipedia.org/wiki/Sarutai%C3%A1
+Sarapuí,São Paulo,150,10390 hab.,"354,463km²","29,3hab./km²","0,756",https://pt.wikipedia.org/wiki/Sarapu%C3%AD
+São Vicente,São Paulo,70,329911 hab.,"148,151km²","2226,9hab./km²","0,768",https://pt.wikipedia.org/wiki/S%C3%A3o_Vicente_(S%C3%A3o_Paulo)
+São Simão,São Paulo,300,14350 hab.,"617,964km²","23,2hab./km²","0,766",https://pt.wikipedia.org/wiki/S%C3%A3o_Sim%C3%A3o_(S%C3%A3o_Paulo)
+São Sebastião da Grama,São Paulo,270,12100 hab.,"252,181km²",48hab./km²,"0,778",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_da_Grama
+São Sebastião,São Paulo,197,81595 hab.,"402,395km²","202,8hab./km²","0,772",https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_(S%C3%A3o_Paulo)
+São Roque,São Paulo,62,92060 hab.,"307,553km²","299,3hab./km²","0,802",https://pt.wikipedia.org/wiki/S%C3%A3o_Roque_(S%C3%A3o_Paulo)
+São Pedro do Turvo,São Paulo,390,7214 hab.,"731,221km²","9,9hab./km²","0,756",https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro_do_Turvo
+São Pedro,São Paulo,191,33966 hab.,"609,091km²","55,8hab./km²","0,785",https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro_(S%C3%A3o_Paulo)
+São Miguel Arcanjo,São Paulo,180,32039 hab.,"930,012km²","34,5hab./km²","0,770",https://pt.wikipedia.org/wiki/S%C3%A3o_Miguel_Arcanjo_(S%C3%A3o_Paulo)
+São Manuel,São Paulo,268,42200 hab.,"650,734km²","58,92 hab./km²",0778,https://pt.wikipedia.org/wiki/S%C3%A3o_Manuel
+São Luiz do Paraitinga,São Paulo,171,10693 hab.,"617,315km²","17,3hab./km²","0,754",https://pt.wikipedia.org/wiki/S%C3%A3o_Luiz_do_Paraitinga
+São Lourenço da Serra,São Paulo,52,15978 hab.,"186,456km²","85,7hab./km²","0,728",https://pt.wikipedia.org/wiki/S%C3%A3o_Louren%C3%A7o_da_Serra
+São José dos Campos,São Paulo,86,697428 hab.,"1099,409km²","634,4hab./km²","0,807",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos
+São José do Rio Preto,São Paulo,445,501597 hab.,"431,944km²","1161,3hab./km²","0,797",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Rio_Preto
+São Paulo,São Paulo,1015,11451999 hab.,"1521,202km²","7528,3hab./km²","0,805",https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo
+São José do Barreiro,São Paulo,268,4147 hab.,"570,685km²","7,3hab./km²","0,727",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Barreiro
+São José da Bela Vista,São Paulo,360,8885 hab.,"276,964km²","32,1hab./km²","0,753",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_da_Bela_Vista
+São Joaquim da Barra,São Paulo,396,52737 hab.,"412,271km²","127,9hab./km²","0,762",https://pt.wikipedia.org/wiki/S%C3%A3o_Joaquim_da_Barra
+São João do Pau-d'Alho,São Paulo,695,2132 hab.,"117,665km²","18,1hab./km²","0,754",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_do_Pau-d%27Alho
+São José do Rio Pardo,São Paulo,257,54763 hab.,"419,017km²","130,7hab./km²","0,815",https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Rio_Pardo
+São João das Duas Pontes,São Paulo,,2566 hab.,"129,3km²","19,8hab./km²","0,754",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_das_Duas_Pontes
+São João de Iracema,São Paulo,570,2083 hab.,"178,6km²","11,7hab./km²","0,761",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_de_Iracema
+Santópolis do Aguapeí,São Paulo,521,4817 hab.,"128,026km²","37,6hab./km²","0,774",https://pt.wikipedia.org/wiki/Sant%C3%B3polis_do_Aguape%C3%AD
+São João da Boa Vista,São Paulo,218,"92,547 hab.","516,399km²","0,2hab./km²","0,797",https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_da_Boa_Vista
+São Francisco,São Paulo,608,2793 hab.,"75,6km²","36,9hab./km²","0,758",https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_(S%C3%A3o_Paulo)
+São Bento do Sapucaí,São Paulo,209,11674 hab.,"252,579km²","46,2hab./km²","0,776",https://pt.wikipedia.org/wiki/S%C3%A3o_Bento_do_Sapuca%C3%AD
+São Caetano do Sul,São Paulo,13,161127 hab.,"15,331km²","10509,9hab./km²","0,862",https://pt.wikipedia.org/wiki/S%C3%A3o_Caetano_do_Sul
+Santos,São Paulo,77,418608 hab.,"280,674km²","1491,4hab./km²","0,840",https://pt.wikipedia.org/wiki/Santos
+São Bernardo do Campo,São Paulo,22,810729 hab.,"409,532km²","1979,6hab./km²","0,805",https://pt.wikipedia.org/wiki/S%C3%A3o_Bernardo_do_Campo
+São Carlos,São Paulo,231,265294 hab.,"1136,907km²","233,3hab./km²","0,805",https://pt.wikipedia.org/wiki/S%C3%A3o_Carlos_(S%C3%A3o_Paulo)
+Santo Expedito,São Paulo,600,3035 hab.,"93,913km²","32,3hab./km²","0,785",https://pt.wikipedia.org/wiki/Santo_Expedito_(S%C3%A3o_Paulo)
+Santo Antônio do Pinhal,São Paulo,173,7133 hab.,"133,008km²","53,6hab./km²","0,706",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Pinhal
+Santo Antônio do Jardim,São Paulo,200,5943 hab.,"109,956km²",54hab./km²,,https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Jardim
+Santo Antônio do Aracanguá,São Paulo,538,7627 hab.,"1306,082km²","5,8hab./km²","0,754",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Aracangu%C3%A1
+Santo Antônio de Posse,São Paulo,149,23244 hab.,"154,113km²","150,8hab./km²","0,79",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_de_Posse
+Santo Antônio da Alegria,São Paulo,393,6304 hab.,"310,291km²","20,3hab./km²","0,702",https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_da_Alegria
+Santo Anastácio,São Paulo,600,20475 hab.,"552,876km²",37hab./km²,"0,753",https://pt.wikipedia.org/wiki/Santo_Anast%C3%A1cio_(S%C3%A3o_Paulo)
+Santana de Parnaíba,São Paulo,42,145073 hab.,"179,949km²","806,2hab./km²","0,814",https://pt.wikipedia.org/wiki/Santana_de_Parna%C3%ADba
+Santana da Ponte Pensa,São Paulo,629,1467 hab.,"129,888km²","11,3hab./km²","0,773",https://pt.wikipedia.org/wiki/Santana_da_Ponte_Pensa
+Santa Salete,São Paulo,602,1552 hab.,"79,192km²","19,6hab./km²","0,772",https://pt.wikipedia.org/wiki/Santa_Salete
+Santa Rosa de Viterbo,São Paulo,310,25720 hab.,"289,669km²","88,8hab./km²","0,770",https://pt.wikipedia.org/wiki/Santa_Rosa_de_Viterbo_(S%C3%A3o_Paulo)
+Santa Rita d'Oeste,São Paulo,645,2733 hab.,"209,800km²",13hab./km²,"0,761",https://pt.wikipedia.org/wiki/Santa_Rita_d%27Oeste
+Santo André,São Paulo,22,748919 hab.,"175,782km²","4260,5hab./km²","0,815",https://pt.wikipedia.org/wiki/Santo_Andr%C3%A9_(S%C3%A3o_Paulo)
+Santa Rita do Passa Quatro,São Paulo,253,27641 hab.,"754,141km²","36,7hab./km²","0,775",https://pt.wikipedia.org/wiki/Santa_Rita_do_Passa_Quatro
+Santa Mercedes,São Paulo,686,2945 hab.,"166,753km²","17,7hab./km²","0,741",https://pt.wikipedia.org/wiki/Santa_Mercedes
+Santa Maria da Serra,São Paulo,218,6173 hab.,"252,621km²","24,4hab./km²","0,68",https://pt.wikipedia.org/wiki/Santa_Maria_da_Serra
+Santa Lúcia,São Paulo,,8723 hab.,"152,314km²","57,3hab./km²","0,782",https://pt.wikipedia.org/wiki/Santa_L%C3%BAcia_(S%C3%A3o_Paulo)
+Santa Gertrudes,São Paulo,167,30132 hab.,"97,694km²","308,4hab./km²","0,798",https://pt.wikipedia.org/wiki/Santa_Gertrudes_(S%C3%A3o_Paulo)
+Santa Isabel,São Paulo,57,57966 hab.,"363,332km²","159,5hab./km²","0,738",https://pt.wikipedia.org/wiki/Santa_Isabel_(S%C3%A3o_Paulo)
+Santa Fé do Sul,São Paulo,626,34794 hab.,"208,245km²","167,1hab./km²","0,784",https://pt.wikipedia.org/wiki/Santa_F%C3%A9_do_Sul
+Santa Cruz das Palmeiras,São Paulo,250,28864 hab.,"295,698km²","97,6hab./km²","0,728",https://pt.wikipedia.org/wiki/Santa_Cruz_das_Palmeiras
+Santa Cruz da Conceição,São Paulo,215,5100 hab.,"149,432km²","34,1hab./km²","0,79",https://pt.wikipedia.org/wiki/Santa_Cruz_da_Concei%C3%A7%C3%A3o
+Santa Cruz do Rio Pardo,São Paulo,345,46442 hab.,"1114,984km²","41,7hab./km²","0,762",https://pt.wikipedia.org/wiki/Santa_Cruz_do_Rio_Pardo
+Santa Ernestina,São Paulo,324,"6,118 hab.","134,421km²",0hab./km²,"0,738",https://pt.wikipedia.org/wiki/Santa_Ernestina
+Santa Cruz da Esperança,São Paulo,370,2463 hab.,"147,819km²","16,7hab./km²","0,794",https://pt.wikipedia.org/wiki/Santa_Cruz_da_Esperan%C3%A7a
+Santa Clara d'Oeste,São Paulo,653,2113 hab.,"183,458km²","11,5hab./km²","0,754",https://pt.wikipedia.org/wiki/Santa_Clara_d%27Oeste
+Santa Branca,São Paulo,91,14925 hab.,"272,238km²","54,8hab./km²","0,796",https://pt.wikipedia.org/wiki/Santa_Branca
+Santa Albertina,São Paulo,630,6022 hab.,"272,692km²","22,1hab./km²","0,784",https://pt.wikipedia.org/wiki/Santa_Albertina
+Santa Bárbara d'Oeste,São Paulo,138,194390 hab.,"271,492km²",716hab./km²,"0,781",https://pt.wikipedia.org/wiki/Santa_B%C3%A1rbara_d%27Oeste
+Sandovalina,São Paulo,541,3699 hab.,"455,393km²","8,1hab./km²","0,773",https://pt.wikipedia.org/wiki/Sandovalina
+Salto de Pirapora,São Paulo,121,43574 hab.,"280,697km²","155,2hab./km²","0,729",https://pt.wikipedia.org/wiki/Salto_de_Pirapora
+Santa Adélia,São Paulo,371,14333 hab.,"330,9km²","43,3hab./km²","0,776",https://pt.wikipedia.org/wiki/Santa_Ad%C3%A9lia
+Salto Grande,São Paulo,,9050 hab.,"188,441km²",48hab./km²,"0,704",https://pt.wikipedia.org/wiki/Salto_Grande
+Salmourão,São Paulo,593,5187 hab.,"172,745km²",30hab./km²,"0,719",https://pt.wikipedia.org/wiki/Salmour%C3%A3o
+Salesópolis,São Paulo,98,17252 hab.,"424,997km²","40,6hab./km²","0,732",https://pt.wikipedia.org/wiki/Sales%C3%B3polis
+Saltinho,São Paulo,180,8393 hab.,"101,404km²","82,8hab./km²","0,791",https://pt.wikipedia.org/wiki/Saltinho_(S%C3%A3o_Paulo)
+Salto,São Paulo,105,"141,989 hab.","134,258km²","1,1hab./km²","0,809",https://pt.wikipedia.org/wiki/Salto_(S%C3%A3o_Paulo)
+Sales Oliveira,São Paulo,381,11411 hab.,"303,752km²","37,6hab./km²","0,772",https://pt.wikipedia.org/wiki/Sales_Oliveira
+Sales,São Paulo,456,6437 hab.,"308,5km²","20,9hab./km²","0,77",https://pt.wikipedia.org/wiki/Sales_(S%C3%A3o_Paulo)
+Sagres,São Paulo,591,2454 hab.,"148,931km²","16,5hab./km²","0,723",https://pt.wikipedia.org/wiki/Sagres_(S%C3%A3o_Paulo)
+Sabino,São Paulo,466,5226 hab.,"311,663km²","16,8hab./km²","0,792",https://pt.wikipedia.org/wiki/Sabino
+Rubinéia,São Paulo,648,3170 hab.,"242,877km²","13,1hab./km²","0,788",https://pt.wikipedia.org/wiki/Rubin%C3%A9ia
+Rubiácea,São Paulo,490,2729 hab.,"236,907km²","11,5hab./km²","0,781",https://pt.wikipedia.org/wiki/Rubi%C3%A1cea_(S%C3%A3o_Paulo)
+Roseira,São Paulo,155,"10,712 hab.","130,654km²","0,1hab./km²","0,777",https://pt.wikipedia.org/wiki/Roseira
+Rosana,São Paulo,755,19691 hab.,"741,216km²","26,6hab./km²","0,815",https://pt.wikipedia.org/wiki/Rosana
+Riversul,São Paulo,380,6163 hab.,"386,195km²",16hab./km²,"0,664",https://pt.wikipedia.org/wiki/Riversul
+Riolândia,São Paulo,572,11429 hab.,"633,4km²",18hab./km²,"0,737",https://pt.wikipedia.org/wiki/Riol%C3%A2ndia
+Rio Grande da Serra,São Paulo,49,52009 hab.,"36,671km²","1418,3hab./km²","0,749",https://pt.wikipedia.org/wiki/Rio_Grande_da_Serra
+Rio das Pedras,São Paulo,172,35738 hab.,"226,939km²","157,5hab./km²","0,791",https://pt.wikipedia.org/wiki/Rio_das_Pedras
+Rio Claro,São Paulo,173,201418 hab.,"498,422km²","404,1hab./km²","0,803",https://pt.wikipedia.org/wiki/Rio_Claro_(S%C3%A3o_Paulo)
+Rinópolis,São Paulo,525,"9,259 hab.","358,500km²",0hab./km²,0723,https://pt.wikipedia.org/wiki/Rin%C3%B3polis
+Rincão,São Paulo,270,9098 hab.,"316,639km²","28,7hab./km²","0,734",https://pt.wikipedia.org/wiki/Rinc%C3%A3o
+Rifaina,São Paulo,,4049 hab.,"171,583km²","23,6hab./km²","0,740",https://pt.wikipedia.org/wiki/Rifaina
+Ribeirão Pires,São Paulo,35,125238 hab.,"99,175km²","1262,8hab./km²","0,784",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Pires
+Ribeirão Grande,São Paulo,230,7450 hab.,"332,071km²","22,4hab./km²","0,705",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Grande
+Ribeirão dos Índios,São Paulo,630,2187 hab.,"196,991km²","11,1hab./km²","0,754",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_dos_%C3%8Dndios
+Ribeirão do Sul,São Paulo,400,4574 hab.,"203,356km²","22,5hab./km²","0,762",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_do_Sul
+Ribeirão Corrente,São Paulo,426,4273 hab.,"150,456km²","28,4hab./km²","0,751",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Corrente
+Ribeirão Branco,São Paulo,310,18627 hab.,"697,5km²","26,7hab./km²","0,639",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Branco
+Ribeirão Bonito,São Paulo,270,12831 hab.,"471,498km²","27,2hab./km²","0,781",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Bonito
+Ribeirão Preto,São Paulo,315,728400 hab.,"650,916km²",1119hab./km²,"0,800",https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Preto
+Ribeira,São Paulo,354,3358 hab.,"335,029km²",10hab./km²,"0,678",https://pt.wikipedia.org/wiki/Ribeira_(S%C3%A3o_Paulo)
+Restinga,São Paulo,415,6404 hab.,"245,599km²","26,1hab./km²","0,757",https://pt.wikipedia.org/wiki/Restinga_(S%C3%A3o_Paulo)
+Registro,São Paulo,189,56322 hab.,"722,411km²",78hab./km²,"0,754",https://pt.wikipedia.org/wiki/Registro_(S%C3%A3o_Paulo)
+Rancharia,São Paulo,520,29305 hab.,"1587,498km²","18,5hab./km²","0,751",https://pt.wikipedia.org/wiki/Rancharia
+Rafard,São Paulo,142,9004 hab.,"132,471km²",68hab./km²,"0,745",https://pt.wikipedia.org/wiki/Rafard
+Quintana,São Paulo,495,7038 hab.,"318,937km²","22,1hab./km²","0,732",https://pt.wikipedia.org/wiki/Quintana
+Queluz,São Paulo,220,9159 hab.,"249,399km²","36,7hab./km²","0,722",https://pt.wikipedia.org/wiki/Queluz_(S%C3%A3o_Paulo)
+Queiroz,São Paulo,543,2808 hab.,"235,496km²","11,9hab./km²","0,73",https://pt.wikipedia.org/wiki/Queiroz
+Regente Feijó,São Paulo,547,"22,00 hab.","265,087km²","0,1hab./km²","0,797",https://pt.wikipedia.org/wiki/Regente_Feij%C3%B3_(S%C3%A3o_Paulo)
+Reginópolis,São Paulo,325,9042 hab.,"409,914km²","22,1hab./km²","0,763",https://pt.wikipedia.org/wiki/Regin%C3%B3polis
+Redenção da Serra,São Paulo,165,"4,494 hab.","309,441km²",0hab./km²,"0,736",https://pt.wikipedia.org/wiki/Reden%C3%A7%C3%A3o_da_Serra
+Quatá,São Paulo,498,12828 hab.,"652,744km²","19,7hab./km²","0,792",https://pt.wikipedia.org/wiki/Quat%C3%A1
+Quadra,São Paulo,161,"3,854 hab.","205,033km²",0hab./km²,"0,755",https://pt.wikipedia.org/wiki/Quadra_(S%C3%A3o_Paulo)
+Promissão,São Paulo,451,41211 hab.,"781,5km²","52,7hab./km²","0,817",https://pt.wikipedia.org/wiki/Promiss%C3%A3o
+Presidente Venceslau,São Paulo,565,"39,583 hab.","755,010km²","0,1hab./km²","0,818",https://pt.wikipedia.org/wiki/Presidente_Venceslau
+Presidente Epitácio,São Paulo,647,44200 hab.,"1281,779km²","34,5hab./km²","0,750",https://pt.wikipedia.org/wiki/Presidente_Epit%C3%A1cio
+Presidente Bernardes,São Paulo,578,13494 hab.,"749,234km²",18hab./km²,"0,79",https://pt.wikipedia.org/wiki/Presidente_Bernardes_(S%C3%A3o_Paulo)
+Presidente Alves,São Paulo,382,4167 hab.,"288,570km²","14,4hab./km²","0,763",https://pt.wikipedia.org/wiki/Presidente_Alves
+Presidente Prudente,São Paulo,558,234083 hab.,"562,794km²","415,9hab./km²","0,806",https://pt.wikipedia.org/wiki/Presidente_Prudente
+Pratânia,São Paulo,272,4599 hab.,"179,817km²","25,6hab./km²","0,745",https://pt.wikipedia.org/wiki/Prat%C3%A2nia
+Praia Grande,São Paulo,72,365577 hab.,"149,652km²","2442,8hab./km²","0,754",https://pt.wikipedia.org/wiki/Praia_Grande_(S%C3%A3o_Paulo)
+Pradópolis,São Paulo,318,17078 hab.,"167,202km²","102,1hab./km²","0,733",https://pt.wikipedia.org/wiki/Prad%C3%B3polis
+Pracinha,São Paulo,500,3659 hab.,"63,047km²",58hab./km²,"0,744",https://pt.wikipedia.org/wiki/Pracinha_(S%C3%A3o_Paulo)
+Potirendaba,São Paulo,440,18496 hab.,"342,4km²",54hab./km²,"0,805",https://pt.wikipedia.org/wiki/Potirendaba
+Potim,São Paulo,167,24643 hab.,"44,468km²","554,2hab./km²","0,697",https://pt.wikipedia.org/wiki/Potim
+Porto Ferreira,São Paulo,227,52649 hab.,"243,906km²","215,9hab./km²","0,751",https://pt.wikipedia.org/wiki/Porto_Ferreira
+Porto Feliz,São Paulo,112,52785 hab.,"556,706km²","94,8hab./km²","0,758",https://pt.wikipedia.org/wiki/Porto_Feliz
+Porangaba,São Paulo,168,10067 hab.,"266,565km²","37,8hab./km²","0,768",https://pt.wikipedia.org/wiki/Porangaba
+Populina,São Paulo,625,4223 hab.,"315,9km²","13,4hab./km²","0,755",https://pt.wikipedia.org/wiki/Populina
+Pontes Gestal,São Paulo,553,2518 hab.,"217,4km²","11,6hab./km²","0,749",https://pt.wikipedia.org/wiki/Pontes_Gestal
+Pontalinda,São Paulo,585,4074 hab.,"210,2km²","19,4hab./km²","0,731",https://pt.wikipedia.org/wiki/Pontalinda
+Pontal,São Paulo,357,37607 hab.,"356,371km²","105,5hab./km²","0,725",https://pt.wikipedia.org/wiki/Pontal
+Pongaí,São Paulo,,3432 hab.,"183,382km²","18,7hab./km²","0,794",https://pt.wikipedia.org/wiki/Ponga%C3%AD
+Pompeia,São Paulo,474,21850 hab.,"784,674km²","27,8hab./km²","0,786",https://pt.wikipedia.org/wiki/Pompeia_(S%C3%A3o_Paulo)
+Poá,São Paulo,34,103765 hab.,"17,496km²","5930,8hab./km²","0,771",https://pt.wikipedia.org/wiki/Po%C3%A1
+Platina,São Paulo,,3606 hab.,"327,826km²",11hab./km²,"0,735",https://pt.wikipedia.org/wiki/Platina_(S%C3%A3o_Paulo)
+Planalto,São Paulo,535,4389 hab.,"290,1km²","15,1hab./km²","0,744",https://pt.wikipedia.org/wiki/Planalto_(S%C3%A3o_Paulo)
+Pitangueiras,São Paulo,369,34416 hab.,"430,638km²","79,9hab./km²","0,723",https://pt.wikipedia.org/wiki/Pitangueiras_(S%C3%A3o_Paulo)
+Piratininga,São Paulo,343,12968 hab.,"397,207km²","32,6hab./km²","0,797",https://pt.wikipedia.org/wiki/Piratininga
+Pirassununga,São Paulo,208,76877 hab.,"726,942km²","105,8hab./km²","0,801",https://pt.wikipedia.org/wiki/Pirassununga
+Pirapozinho,São Paulo,574,26810 hab.,"480,795km²","55,8hab./km²","0,776",https://pt.wikipedia.org/wiki/Pirapozinho
+Poloni,São Paulo,487,5592 hab.,"133,5km²","41,9hab./km²","0,766",https://pt.wikipedia.org/wiki/Poloni
+Pirapora do Bom Jesus,São Paulo,61,15727 hab.,"108,257km²","145,3hab./km²","0,727",https://pt.wikipedia.org/wiki/Pirapora_do_Bom_Jesus
+Pirangi,São Paulo,383,11167 hab.,"215,809km²","51,7hab./km²","0,779",https://pt.wikipedia.org/wiki/Pirangi
+Pirajuí,São Paulo,400,25939 hab.,"819,432km²","31,7hab./km²","0,779",https://pt.wikipedia.org/wiki/Piraju%C3%AD
+Piraju,São Paulo,300,29436 hab.,"504,591km²","58,3hab./km²","0,791",https://pt.wikipedia.org/wiki/Piraju
+Piracaia,São Paulo,89,27462 hab.,"384,729km²","71,4hab./km²","0,739",https://pt.wikipedia.org/wiki/Piracaia
+Piquete (São Paulo),São Paulo,180,12490 hab.,"175,996km²",71hab./km²,"0,757",https://pt.wikipedia.org/wiki/Piquete_(S%C3%A3o_Paulo)
+Piquerobi,São Paulo,619,3686 hab.,"482,506km²","7,6hab./km²","0,744",https://pt.wikipedia.org/wiki/Piquerobi
+Piracicaba,São Paulo,160,438827 hab.,"1378,069km²","318,4hab./km²","0,785",https://pt.wikipedia.org/wiki/Piracicaba
+Pinhalzinho,São Paulo,114,15388 hab.,"154,948km²","99,3hab./km²","0,725",https://pt.wikipedia.org/wiki/Pinhalzinho_(S%C3%A3o_Paulo)
+Pindorama,São Paulo,370,"14,542 hab.","184,8km²","0,1hab./km²","0,737",https://pt.wikipedia.org/wiki/Pindorama_(S%C3%A3o_Paulo)
+Pindamonhangaba,São Paulo,146,165428 hab.,"731,355km²","226,2hab./km²","0,773",https://pt.wikipedia.org/wiki/Pindamonhangaba
+Pilar do Sul,São Paulo,142,30095 hab.,"682,395km²","44,1hab./km²","0,774",https://pt.wikipedia.org/wiki/Pilar_do_Sul
+Piedade,São Paulo,100,55348 hab.,"746,868km²","74,1hab./km²","0,757",https://pt.wikipedia.org/wiki/Piedade_(S%C3%A3o_Paulo)
+Piacatu,São Paulo,530,5287 hab.,"232,543km²","22,7hab./km²","0,757",https://pt.wikipedia.org/wiki/Piacatu
+Peruíbe,São Paulo,141,68352 hab.,"326,216km²","209,5hab./km²","0,749",https://pt.wikipedia.org/wiki/Peru%C3%ADbe
+Pereiras,São Paulo,166,8875 hab.,"223,136km²","39,8hab./km²","0,736",https://pt.wikipedia.org/wiki/Pereiras
+Pereira Barreto,São Paulo,635,24095 hab.,"978,884km²","24,6hab./km²","0,766",https://pt.wikipedia.org/wiki/Pereira_Barreto
+Penápolis,São Paulo,490,"61,679 hab.","711,314km²","0,1hab./km²","0,759",https://pt.wikipedia.org/wiki/Pen%C3%A1polis
+Pedro de Toledo,São Paulo,149,11331 hab.,"670,440km²","16,9hab./km²","0,696",https://pt.wikipedia.org/wiki/Pedro_de_Toledo
+Pedrinhas Paulista,São Paulo,480,2936 hab.,"152,173km²","19,3hab./km²","0,819",https://pt.wikipedia.org/wiki/Pedrinhas_Paulista
+Pedregulho,São Paulo,455,15699 hab.,"701,886km²","22,4hab./km²","0,794",https://pt.wikipedia.org/wiki/Pedregulho
+Pedranópolis,São Paulo,,2558 hab.,"260,2km²","9,8hab./km²","0,778",https://pt.wikipedia.org/wiki/Pedran%C3%B3polis
+Pedra Bela,São Paulo,117,6110 hab.,"157,184km²","38,9hab./km²","0,677",https://pt.wikipedia.org/wiki/Pedra_Bela
+Pederneiras,São Paulo,320,44498 hab.,729km²,61hab./km²,"0,739",https://pt.wikipedia.org/wiki/Pederneiras
+Paulo de Faria,São Paulo,540,7400 hab.,"738,3km²",10hab./km²,"0,754",https://pt.wikipedia.org/wiki/Paulo_de_Faria
+Paulistânia,São Paulo,343,1837 hab.,"256,553km²","7,2hab./km²","0,774",https://pt.wikipedia.org/wiki/Paulist%C3%A2nia
+Pedreira,São Paulo,135,47361 hab.,"109,710km²","431,7hab./km²","0,810",https://pt.wikipedia.org/wiki/Pedreira_(munic%C3%ADpio)
+Paulínia,São Paulo,119,106776 hab.,"139,332km²","766,3hab./km²","0,795",https://pt.wikipedia.org/wiki/Paul%C3%ADnia
+Paulicéia,São Paulo,695,7147 hab.,"374,091km²","19,1hab./km²","0,754",https://pt.wikipedia.org/wiki/Paulic%C3%A9ia
+Patrocínio Paulista,São Paulo,420,14807 hab.,"602,848km²","24,6hab./km²","0,730",https://pt.wikipedia.org/wiki/Patroc%C3%ADnio_Paulista
+Parisi,São Paulo,533,2032 hab.,"84,5km²",24hab./km²,"0,756",https://pt.wikipedia.org/wiki/Parisi
+Pariquera-Açu,São Paulo,220,19316 hab.,"359,691km²","53,7hab./km²","0,73",https://pt.wikipedia.org/wiki/Pariquera-A%C3%A7u
+Pardinho,São Paulo,180,5582 hab.,"210,036km²","26,6hab./km²","0,788",https://pt.wikipedia.org/wiki/Pardinho
+Parapuã,São Paulo,560,11085 hab.,"365,224km²","30,4hab./km²","0,792",https://pt.wikipedia.org/wiki/Parapu%C3%A3
+Paranapuã,São Paulo,607,4095 hab.,"140,354km²","29,2hab./km²","0,775",https://pt.wikipedia.org/wiki/Paranapu%C3%A3
+Paranapanema,São Paulo,256,20588 hab.,"1019,841km²","20,2hab./km²","0,755",https://pt.wikipedia.org/wiki/Paranapanema
+Palestina,São Paulo,490,11476 hab.,"697,701km²","16,4hab./km²","0,732",https://pt.wikipedia.org/wiki/Palestina_(S%C3%A3o_Paulo)
+Paraíso,São Paulo,397,6369 hab.,"155,186km²",41hab./km²,"0,749",https://pt.wikipedia.org/wiki/Para%C3%ADso_(S%C3%A3o_Paulo)
+Paraibuna,São Paulo,125,17667 hab.,"809,576km²","21,8hab./km²","0,719",https://pt.wikipedia.org/wiki/Paraibuna
+Paraguaçu Paulista,São Paulo,422,45703 hab.,"1001,094km²","45,7hab./km²","0,762",https://pt.wikipedia.org/wiki/Paragua%C3%A7u_Paulista
+Palmares Paulista,São Paulo,412,13058 hab.,91km²,"143,5hab./km²","0,989",https://pt.wikipedia.org/wiki/Palmares_Paulista
+Panorama,São Paulo,670,15539 hab.,"353,137km²",44hab./km²,"0,722",https://pt.wikipedia.org/wiki/Panorama_(S%C3%A3o_Paulo)
+Palmeira d'Oeste,São Paulo,621,9227 hab.,"318,740km²","28,9hab./km²","0,765",https://pt.wikipedia.org/wiki/Palmeira_d%27Oeste
+Palmital,São Paulo,415,19594 hab.,"549,040km²","35,7hab./km²","0,746",https://pt.wikipedia.org/wiki/Palmital_(S%C3%A3o_Paulo)
+Ouroeste,São Paulo,602,9897 hab.,"288,8km²","34,3hab./km²","0,787",https://pt.wikipedia.org/wiki/Ouroeste
+Ouro Verde,São Paulo,651,8503 hab.,"266,452km²","31,9hab./km²","0,723",https://pt.wikipedia.org/wiki/Ouro_Verde_(S%C3%A3o_Paulo)
+Ourinhos,São Paulo,370,106877 hab.,"296,203km²","360,8hab./km²","0,778",https://pt.wikipedia.org/wiki/Ourinhos
+Osvaldo Cruz,São Paulo,570,32593 hab.,"247,941km²","131,5hab./km²","0,798",https://pt.wikipedia.org/wiki/Osvaldo_Cruz_(S%C3%A3o_Paulo)
+Oscar Bressane,São Paulo,,2539 hab.,"221,429km²","11,5hab./km²","0,752",https://pt.wikipedia.org/wiki/Oscar_Bressane
+Orlândia,São Paulo,364,44028 hab.,"296,431km²","148,5hab./km²","0,780",https://pt.wikipedia.org/wiki/Orl%C3%A2ndia
+Pacaembu,São Paulo,617,14024 hab.,"339,722km²","41,3hab./km²","0,763",https://pt.wikipedia.org/wiki/Pacaembu_(munic%C3%ADpio)
+Osasco,São Paulo,"15,5",728615 hab.,"64,935km²","11220,7hab./km²","0,776",https://pt.wikipedia.org/wiki/Osasco
+Orindiúva,São Paulo,522,6024 hab.,"248,1km²","24,3hab./km²","0,776",https://pt.wikipedia.org/wiki/Orindi%C3%BAva
+Oriente,São Paulo,456,6542 hab.,"218,668km²","29,9hab./km²","0,791",https://pt.wikipedia.org/wiki/Oriente_(S%C3%A3o_Paulo)
+Onda Verde,São Paulo,480,4771 hab.,"243,1km²","19,6hab./km²","0,777",https://pt.wikipedia.org/wiki/Onda_Verde
+Óleo,São Paulo,300,2832 hab.,"197,974km²","14,3hab./km²","0,737",https://pt.wikipedia.org/wiki/%C3%93leo_(S%C3%A3o_Paulo)
+ Olímpia,São Paulo,448,55075 hab.,"802,555km²","68,6hab./km²","0,773",https://pt.wikipedia.org/wiki/Ol%C3%ADmpia_(S%C3%A3o_Paulo)
+Ocauçu,São Paulo,425,4305 hab.,"301,036km²","14,3hab./km²","0,717",https://pt.wikipedia.org/wiki/Ocau%C3%A7u
+Nuporanga,São Paulo,376,7391 hab.,"348,265km²","21,2hab./km²","0,746",https://pt.wikipedia.org/wiki/Nuporanga
+Novo Horizonte,São Paulo,410,38324 hab.,"931,743km²","41,1hab./km²","0,753",https://pt.wikipedia.org/wiki/Novo_Horizonte_(S%C3%A3o_Paulo)
+Novais,São Paulo,409,4592 hab.,"117,8km²",39hab./km²,"0,759",https://pt.wikipedia.org/wiki/Novais_(S%C3%A3o_Paulo)
+Nova Luzitânia,São Paulo,548,2837 hab.,"74,1km²","38,3hab./km²","0,74",https://pt.wikipedia.org/wiki/Nova_Luzit%C3%A2nia
+Nova Independência,São Paulo,658,5507 hab.,"265,282km²","20,8hab./km²","0,737",https://pt.wikipedia.org/wiki/Nova_Independ%C3%AAncia
+Nova Guataporanga,São Paulo,681,2308 hab.,"34,116km²","67,7hab./km²","0,74",https://pt.wikipedia.org/wiki/Nova_Guataporanga
+Nova Granada,São Paulo,472,19419 hab.,"531,9km²","36,5hab./km²","0,79",https://pt.wikipedia.org/wiki/Nova_Granada_(S%C3%A3o_Paulo)
+Nova Europa,São Paulo,318,11519 hab.,"160,250km²","71,9hab./km²","0,765",https://pt.wikipedia.org/wiki/Nova_Europa
+Nova Castilho,São Paulo,570,1303 hab.,"183,2km²","7,1hab./km²","0,761",https://pt.wikipedia.org/wiki/Nova_Castilho
+Nova Canaã Paulista,São Paulo,,1852 hab.,"124,473km²","14,9hab./km²","0,726",https://pt.wikipedia.org/wiki/Nova_Cana%C3%A3_Paulista
+Nova Odessa,São Paulo,124,62019 hab.,"73,788km²","840,5hab./km²","0,791",https://pt.wikipedia.org/wiki/Nova_Odessa
+Nova Campina,São Paulo,320,8497 hab.,"385,328km²","22,1hab./km²","0,651",https://pt.wikipedia.org/wiki/Nova_Campina
+Nova Aliança,São Paulo,443,6693 hab.,"217,3km²","30,8hab./km²","0,806",https://pt.wikipedia.org/wiki/Nova_Alian%C3%A7a
+Nipoã,São Paulo,436,4750 hab.,"137,8km²","34,5hab./km²","0,775",https://pt.wikipedia.org/wiki/Nipo%C3%A3
+Nhandeara,São Paulo,508,10725 hab.,"435,8km²","24,6hab./km²","0,806",https://pt.wikipedia.org/wiki/Nhandeara
+Neves Paulista,São Paulo,469,9690 hab.,"218,3km²","44,4hab./km²","0,804",https://pt.wikipedia.org/wiki/Neves_Paulista
+Narandiba,São Paulo,605,4702 hab.,"358,139km²","13,1hab./km²","0,763",https://pt.wikipedia.org/wiki/Narandiba
+Nantes,São Paulo,525,2707 hab.,"285,415km²","9,5hab./km²","0,722",https://pt.wikipedia.org/wiki/Nantes_(S%C3%A3o_Paulo)
+Murutinga do Sul,São Paulo,629,3737 hab.,"248,278km²","15,1hab./km²","0,78",https://pt.wikipedia.org/wiki/Murutinga_do_Sul
+Motuca,São Paulo,327,4642 hab.,"228,700km²","20,3hab./km²","0,761",https://pt.wikipedia.org/wiki/Motuca
+Morungaba,São Paulo,108,13622 hab.,"146,752km²","92,8hab./km²","0,788",https://pt.wikipedia.org/wiki/Morungaba
+Morro Agudo,São Paulo,395,32968 hab.,"1386,176km²","23,8hab./km²","0,712",https://pt.wikipedia.org/wiki/Morro_Agudo
+Natividade da Serra,São Paulo,185,6999 hab.,"833,372km²","8,4hab./km²","0,655",https://pt.wikipedia.org/wiki/Natividade_da_Serra
+Nazaré Paulista,São Paulo,90,18698 hab.,"326,542km²","57,3hab./km²","0,678",https://pt.wikipedia.org/wiki/Nazar%C3%A9_Paulista
+Monteiro Lobato,São Paulo,132,4739 hab.,"332,742km²","14,2hab./km²","0,775",https://pt.wikipedia.org/wiki/Monteiro_Lobato_(S%C3%A3o_Paulo)
+Monte Mor,São Paulo,122,59772 hab.,"240,566km²","248,5hab./km²","0,783",https://pt.wikipedia.org/wiki/Monte_Mor
+Monte Castelo,São Paulo,681,4222 hab.,"233,547km²","18,1hab./km²","0,743",https://pt.wikipedia.org/wiki/Monte_Castelo_(S%C3%A3o_Paulo)
+Monte Aprazível,São Paulo,484,22280 hab.,"496,9km²","44,8hab./km²","0,808",https://pt.wikipedia.org/wiki/Monte_Apraz%C3%ADvel
+Monte Azul Paulista,São Paulo,420,19050 hab.,"263,492km²","72,3hab./km²","0,753",https://pt.wikipedia.org/wiki/Monte_Azul_Paulista
+Monte Alto,São Paulo,350,47574 hab.,"347,119km²","137,1hab./km²","0,813",https://pt.wikipedia.org/wiki/Monte_Alto
+Monte Alegre do Sul,São Paulo,130,8627 hab.,"110,860km²","77,8hab./km²","0,759",https://pt.wikipedia.org/wiki/Monte_Alegre_do_Sul
+Mongaguá,São Paulo,93,61951 hab.,"143,205km²","432,6hab./km²","0,754",https://pt.wikipedia.org/wiki/Mongagu%C3%A1
+Monções,São Paulo,531,2132 hab.,"104,2km²","20,5hab./km²","0,771",https://pt.wikipedia.org/wiki/Mon%C3%A7%C3%B5es_(S%C3%A3o_Paulo)
+Mombuca,São Paulo,157,3266 hab.,"133,198km²","24,5hab./km²","0,75",https://pt.wikipedia.org/wiki/Mombuca
+Mogi Mirim,São Paulo,155,94098 hab.,499km²,"188,6hab./km²","0,784",https://pt.wikipedia.org/wiki/Mogi_Mirim
+Mogi Guaçu,São Paulo,166,153658 hab.,"812,75km²","189,1hab./km²","0,774",https://pt.wikipedia.org/wiki/Mogi_Gua%C3%A7u
+Mogi das Cruzes,São Paulo,61,449955 hab.,"712,541km²","631,5hab./km²","0,783",https://pt.wikipedia.org/wiki/Mogi_das_Cruzes
+Mococa,São Paulo,266,"67,681 hab.","855,16km²","0,1hab./km²","0,762",https://pt.wikipedia.org/wiki/Mococa
+Mirassolândia,São Paulo,480,4669 hab.,"166,2km²","28,1hab./km²","0,764",https://pt.wikipedia.org/wiki/Mirassol%C3%A2ndia
+Mirassol,São Paulo,453,63337 hab.,"243,228km²","260,4hab./km²","0,762",https://pt.wikipedia.org/wiki/Mirassol
+Mirante do Paranapanema,São Paulo,616,18338 hab.,"1237,847km²","14,8hab./km²","0,735",https://pt.wikipedia.org/wiki/Mirante_do_Paranapanema
+Mirandópolis,São Paulo,594,27983 hab.,"917,694km²","30,5hab./km²","0,751",https://pt.wikipedia.org/wiki/Mirand%C3%B3polis
+Miracatu,São Paulo,129,19919 hab.,"1000,736km²","19,9hab./km²","0,748",https://pt.wikipedia.org/wiki/Miracatu
+Mira Estrela,São Paulo,590,2820 hab.,"216,8km²",13hab./km²,"0,771",https://pt.wikipedia.org/wiki/Mira_Estrela
+Mineiros do Tietê,São Paulo,297,12038 hab.,"211,892km²","56,8hab./km²","0,730",https://pt.wikipedia.org/wiki/Mineiros_do_Tiet%C3%AA
+Miguelópolis,São Paulo,410,20442 hab.,"826,889km²","24,7hab./km²","0,791",https://pt.wikipedia.org/wiki/Miguel%C3%B3polis
+Mesópolis,São Paulo,636,"1,952 hab.","148,9km²",0hab./km²,"0,732",https://pt.wikipedia.org/wiki/Mes%C3%B3polis
+Meridiano,São Paulo,546,3855 hab.,"229,2km²","16,8hab./km²","0,762",https://pt.wikipedia.org/wiki/Meridiano_(S%C3%A3o_Paulo)
+Mendonça,São Paulo,454,6159 hab.,195km²,"31,6hab./km²","0,771",https://pt.wikipedia.org/wiki/Mendon%C3%A7a
+Martinópolis,São Paulo,539,24260 hab.,"1253,158km²","19,4hab./km²","0,750",https://pt.wikipedia.org/wiki/Martin%C3%B3polis
+Mauá,São Paulo,26,"472,912 hab.","61,909km²","7,6hab./km²","0,781",https://pt.wikipedia.org/wiki/Mau%C3%A1
+Mariápolis,São Paulo,602,4079 hab.,"186,098km²","21,9hab./km²","0,739",https://pt.wikipedia.org/wiki/Mari%C3%A1polis
+Matão,São Paulo,305,82307 hab.,"524,899km²","156,8hab./km²","0,806",https://pt.wikipedia.org/wiki/Mat%C3%A3o
+Marinópolis,São Paulo,623,2113 hab.,"77,8km²","27,2hab./km²","0,74",https://pt.wikipedia.org/wiki/Marin%C3%B3polis
+Marília,São Paulo,438,237627 hab.,"1170,515km²",203hab./km²,"0,798",https://pt.wikipedia.org/wiki/Mar%C3%ADlia
+Marapoama,São Paulo,450,2633 hab.,"111,3km²","23,7hab./km²","0,78",https://pt.wikipedia.org/wiki/Marapoama
+Maracaí,São Paulo,473,13344 hab.,"533,024km²",25hab./km²,"0,773",https://pt.wikipedia.org/wiki/Maraca%C3%AD
+Marabá Paulista,São Paulo,635,5345 hab.,"917,119km²","5,8hab./km²","0,677",https://pt.wikipedia.org/wiki/Marab%C3%A1_Paulista
+Manduri,São Paulo,300,9529 hab.,"228,866km²","41,6hab./km²","0,772",https://pt.wikipedia.org/wiki/Manduri_(S%C3%A3o_Paulo)
+Mairiporã,São Paulo,41,97399 hab.,"320,697km²","303,7hab./km²","0,788",https://pt.wikipedia.org/wiki/Mairipor%C3%A3
+Mairinque,São Paulo,65,47150 hab.,"209,757km²","224,8hab./km²","0,801",https://pt.wikipedia.org/wiki/Mairinque
+Magda,São Paulo,544,3230 hab.,"311,7km²","10,4hab./km²","0,753",https://pt.wikipedia.org/wiki/Magda
+Macedônia,São Paulo,581,3664 hab.,"327,7km²","11,2hab./km²","0,757",https://pt.wikipedia.org/wiki/Maced%C3%B4nia_(S%C3%A3o_Paulo)
+Macaubal,São Paulo,500,7481 hab.,"510,1km²","14,7hab./km²","0,781",https://pt.wikipedia.org/wiki/Macaubal
+Macatuba,São Paulo,280,16829 hab.,"224,514km²",75hab./km²,"0,777",https://pt.wikipedia.org/wiki/Macatuba
+Lutécia,São Paulo,492,2703 hab.,"474,627km²","5,7hab./km²","0,755",https://pt.wikipedia.org/wiki/Lut%C3%A9cia
+Lupércio,São Paulo,426,4549 hab.,"155,025km²","29,3hab./km²","0,736",https://pt.wikipedia.org/wiki/Lup%C3%A9rcio_(S%C3%A3o_Paulo)
+Luiziânia,São Paulo,515,5790 hab.,"166,576km²","34,8hab./km²","0,762",https://pt.wikipedia.org/wiki/Luizi%C3%A2nia
+Luiz Antônio,São Paulo,276,14947 hab.,"598,439km²",25hab./km²,"0,731",https://pt.wikipedia.org/wiki/Luiz_Ant%C3%B4nio
+Lucianópolis,São Paulo,400,2255 hab.,"190,908km²","11,8hab./km²","0,754",https://pt.wikipedia.org/wiki/Lucian%C3%B3polis
+Lucélia,São Paulo,589,20061 hab.,"314,455km²","63,8hab./km²","0,782",https://pt.wikipedia.org/wiki/Luc%C3%A9lia
+Louveira,São Paulo,72,51883 hab.,"55,349km²","937,4hab./km²","0,8",https://pt.wikipedia.org/wiki/Louveira_(S%C3%A3o_Paulo)
+Lourdes,São Paulo,Distância em linha reta: 626 km,2140 hab.,"113,743km²","18,8hab./km²","0,742",https://pt.wikipedia.org/wiki/Lourdes_(S%C3%A3o_Paulo)
+Lorena,São Paulo,180,84855 hab.,"414,160km²","204,9hab./km²","0,766",https://pt.wikipedia.org/wiki/Lorena_(S%C3%A3o_Paulo)
+Lins,São Paulo,429,74068 hab.,"570,2km²","129,9hab./km²","0,786",https://pt.wikipedia.org/wiki/Lins
+Lindoia,São Paulo,156,7014 hab.,"48,756km²","143,9hab./km²","0,742",https://pt.wikipedia.org/wiki/Lindoia
+Limeira,São Paulo,143,300728 hab.,"580,711km²","517,9hab./km²","0,775",https://pt.wikipedia.org/wiki/Limeira
+Lençóis Paulista,São Paulo,280,66505 hab.,"809,541km²","82,2hab./km²","0,764",https://pt.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Paulista
+Leme,São Paulo,190,103391 hab.,"403,077km²","256,5hab./km²","0,796",https://pt.wikipedia.org/wiki/Leme
+Lavrinhas,São Paulo,223,7361 hab.,"167,067km²","44,1hab./km²","0,729",https://pt.wikipedia.org/wiki/Lavrinhas
+Lavínia,São Paulo,593,8782 hab.,"538,523km²","16,3hab./km²","0,765",https://pt.wikipedia.org/wiki/Lav%C3%ADnia_(S%C3%A3o_Paulo)
+Laranjal Paulista,São Paulo,173,25251 hab.,"384,274km²","65,7hab./km²","0,729",https://pt.wikipedia.org/wiki/Laranjal_Paulista
+Lagoinha,São Paulo,190,4896 hab.,"255,472km²","19,2hab./km²","0,693",https://pt.wikipedia.org/wiki/Lagoinha_(S%C3%A3o_Paulo)
+Juquitiba,São Paulo,70,27404 hab.,"521,598km²","52,5hab./km²","0,709",https://pt.wikipedia.org/wiki/Juquitiba
+Juquiá,São Paulo,161,17154 hab.,"812,799km²","21,1hab./km²","0,700",https://pt.wikipedia.org/wiki/Juqui%C3%A1
+Junqueirópolis,São Paulo,641,20353 hab.,"582,565km²","34,9hab./km²","0,745",https://pt.wikipedia.org/wiki/Junqueir%C3%B3polis
+Jumirim,São Paulo,164,3418 hab.,"56,685km²","60,3hab./km²","0,741",https://pt.wikipedia.org/wiki/Jumirim
+Júlio Mesquita,São Paulo,433,4430 hab.,"128,209km²","34,6hab./km²","0,755",https://pt.wikipedia.org/wiki/J%C3%BAlio_Mesquita
+Jundiaí,São Paulo,950,443221 hab.,"431,204km²","1027,9hab./km²","0,822",https://pt.wikipedia.org/wiki/Jundia%C3%AD
+João Ramalho,São Paulo,505,4138 hab.,"416,035km²","9,9hab./km²","0,776",https://pt.wikipedia.org/wiki/Jo%C3%A3o_Ramalho_(S%C3%A3o_Paulo)
+José Bonifácio,São Paulo,483,36633 hab.,"859,947km²","42,6hab./km²","0,777",https://pt.wikipedia.org/wiki/Jos%C3%A9_Bonif%C3%A1cio_(S%C3%A3o_Paulo)
+Joanópolis,São Paulo,118,12815 hab.,"374,293km²","34,2hab./km²","0,699",https://pt.wikipedia.org/wiki/Joan%C3%B3polis
+Jeriquara,São Paulo,,4873 hab.,"140,992km²","34,6hab./km²","0,748",https://pt.wikipedia.org/wiki/Jeriquara
+Jaú,São Paulo,296,133497 hab.,"687,103km²","194,3hab./km²","0,778",https://pt.wikipedia.org/wiki/Ja%C3%BA
+Jarinu,São Paulo,76,31173 hab.,"207,671km²","150,1hab./km²","0,759",https://pt.wikipedia.org/wiki/Jarinu
+Jardinópolis,São Paulo,330,46868 hab.,"501,870km²","93,4hab./km²","0,735",https://pt.wikipedia.org/wiki/Jardin%C3%B3polis_(S%C3%A3o_Paulo)
+Jambeiro,São Paulo,122,6828 hab.,"184,413km²",37hab./km²,"0,779",https://pt.wikipedia.org/wiki/Jambeiro_(S%C3%A3o_Paulo)
+Jandira,São Paulo,32,124937 hab.,"17,523km²","7129,9hab./km²","0,760",https://pt.wikipedia.org/wiki/Jandira
+Jaguariúna,São Paulo,125,59347 hab.,"141,391km²","419,7hab./km²","0,829",https://pt.wikipedia.org/wiki/Jaguari%C3%BAna
+Jacupiranga,São Paulo,217,16116 hab.,"708,382km²","22,8hab./km²","0,76",https://pt.wikipedia.org/wiki/Jacupiranga
+Jaci,São Paulo,471,7613 hab.,"145,133km²","52,5hab./km²","0,723",https://pt.wikipedia.org/wiki/Jaci_(S%C3%A3o_Paulo)
+Jacareí,São Paulo,82,240275 hab.,"464,272km²","517,5hab./km²","0,777",https://pt.wikipedia.org/wiki/Jacare%C3%AD
+Jaboticabal,São Paulo,358,71821 hab.,"706,602km²","101,6hab./km²","0,778",https://pt.wikipedia.org/wiki/Jaboticabal
+Jaborandi,São Paulo,417,6917 hab.,"274,219km²","25,2hab./km²","0,711",https://pt.wikipedia.org/wiki/Jaborandi_(S%C3%A3o_Paulo)
+Jales,São Paulo,586,50017 hab.,"368,574km²","135,7hab./km²","0,804",https://pt.wikipedia.org/wiki/Jales
+Ituverava,São Paulo,413,37571 hab.,"704,659km²","53,3hab./km²","0,765",https://pt.wikipedia.org/wiki/Ituverava
+Itupeva,São Paulo,60,70616 hab.,"200,816km²","351,6hab./km²","0,762",https://pt.wikipedia.org/wiki/Itupeva
+Itu,São Paulo,102,174561 hab.,"640,719km²","272,4hab./km²","0,773",https://pt.wikipedia.org/wiki/Itu
+Itobi,São Paulo,249,7546 hab.,"138,610km²","54,4hab./km²","0,782",https://pt.wikipedia.org/wiki/Itobi
+Itirapuã,São Paulo,440,8226 hab.,"161,490km²","50,9hab./km²","0,76",https://pt.wikipedia.org/wiki/Itirapu%C3%A3
+Itirapina,São Paulo,214,16938 hab.,"564,261km²",30hab./km²,"0,783",https://pt.wikipedia.org/wiki/Itirapina
+Itatinga,São Paulo,221,24752 hab.,"979,872km²","25,3hab./km²","0,799",https://pt.wikipedia.org/wiki/Itatinga
+Itatiba,São Paulo,85,"121,590 hab.","322,230km²","0,4hab./km²","0,7780",https://pt.wikipedia.org/wiki/Itatiba
+Itaquaquecetuba,São Paulo,41,369275 hab.,"82,622km²","4469,5hab./km²","0,714",https://pt.wikipedia.org/wiki/Itaquaquecetuba
+Itaporanga,São Paulo,"291,1",14085 hab.,"507,737km²","27,7hab./km²","0,719",https://pt.wikipedia.org/wiki/Itaporanga_(S%C3%A3o_Paulo)
+Itariri,São Paulo,157,16602 hab.,"272,777km²","60,9hab./km²","0,75",https://pt.wikipedia.org/wiki/Itariri
+Itapirapuã Paulista,São Paulo,381,3884 hab.,"406,306km²","9,6hab./km²","0,661",https://pt.wikipedia.org/wiki/Itapirapu%C3%A3_Paulista
+Itararé,São Paulo,345,44438 hab.,"1003,860km²","44,3hab./km²","0,732",https://pt.wikipedia.org/wiki/Itarar%C3%A9
+Itapuí,São Paulo,320,13659 hab.,"140,023km²","97,5hab./km²","0,725",https://pt.wikipedia.org/wiki/Itapu%C3%AD
+Itapura,São Paulo,677,4674 hab.,"307,265km²","15,2hab./km²","0,739",https://pt.wikipedia.org/wiki/Itapura
+Itápolis,São Paulo,360,43536 hab.,"996,747km²","43,7hab./km²","0,785",https://pt.wikipedia.org/wiki/It%C3%A1polis
+Itapecerica da Serra,São Paulo,33,158522 hab.,"151,458km²","1046,6hab./km²","0,742",https://pt.wikipedia.org/wiki/Itapecerica_da_Serra
+Itapira,São Paulo,173,74299 hab.,"518,416km²","143,3hab./km²","0,762",https://pt.wikipedia.org/wiki/Itapira
+Itapetininga,São Paulo,171,157790 hab.,"1789,350km²","88,2hab./km²","0,763",https://pt.wikipedia.org/wiki/Itapetininga
+Itaju,São Paulo,338,3556 hab.,"228,777km²","15,5hab./km²","0,705",https://pt.wikipedia.org/wiki/Itaju
+Itanhaém,São Paulo,109,112476 hab.,"601,711km²","186,9hab./km²","0,745",https://pt.wikipedia.org/wiki/Itanha%C3%A9m
+Itapeva,São Paulo,292,89728 hab.,"1826,26km²","49,1hab./km²","0,732",https://pt.wikipedia.org/wiki/Itapeva_(S%C3%A3o_Paulo)
+Itapevi,São Paulo,35,232513 hab.,"82,659km²","2812,95 hab./km²","0,735",https://pt.wikipedia.org/wiki/Itapevi
+Itaoca,São Paulo,343 km,3228 hab.,"182,495km²","17,7hab./km²","0,65",https://pt.wikipedia.org/wiki/Itaoca
+Itaberá,São Paulo,318,17983 hab.,"1100,247km²","16,3hab./km²","0,735",https://pt.wikipedia.org/wiki/Itaber%C3%A1
+Itajobi,São Paulo,400,16989 hab.,"502,1km²","33,8hab./km²","0,798",https://pt.wikipedia.org/wiki/Itajobi
+Itaí,São Paulo,300,25180 hab.,"1092,884km²",23hab./km²,"0,728",https://pt.wikipedia.org/wiki/Ita%C3%AD
+Iracemápolis,São Paulo,153,20029 hab.,"115,118km²",174hab./km²,"0,776",https://pt.wikipedia.org/wiki/Iracem%C3%A1polis
+Ipuã,São Paulo,411,14454 hab.,"466,461km²",31hab./km²,"0,749",https://pt.wikipedia.org/wiki/Ipu%C3%A3
+Irapuã,São Paulo,425,6867 hab.,"257,612km²","26,7hab./km²","0,766",https://pt.wikipedia.org/wiki/Irapu%C3%A3_(S%C3%A3o_Paulo)
+Iporanga,São Paulo,360,4046 hab.,"1152,06km²","3,5hab./km²","0,703",https://pt.wikipedia.org/wiki/Iporanga
+Irapuru,São Paulo,648,8217 hab.,"213,403km²","38,5hab./km²","0,76",https://pt.wikipedia.org/wiki/Irapuru_(S%C3%A3o_Paulo)
+Ipiguá,São Paulo,471,6761 hab.,"136,028km²","49,7hab./km²","0,79",https://pt.wikipedia.org/wiki/Ipigu%C3%A1
+Ipeúna,São Paulo,200,6016 hab.,"190,534km²","31,6hab./km²","0,786",https://pt.wikipedia.org/wiki/Ipe%C3%BAna
+Iperó,São Paulo,120,37133 hab.,"170,940km²","217,2hab./km²","0,779",https://pt.wikipedia.org/wiki/Iper%C3%B3
+Ipaussu,São Paulo,315,13663 hab.,"209,141km²","65,3hab./km²","0,795",https://pt.wikipedia.org/wiki/Ipaussu
+Inúbia Paulista,São Paulo,580,3907 hab.,"86,710km²","45,1hab./km²","0,786",https://pt.wikipedia.org/wiki/In%C3%BAbia_Paulista
+Indiaporã,São Paulo,600,3903 hab.,"279,88km²","13,9hab./km²","0,751",https://pt.wikipedia.org/wiki/Indiapor%C3%A3
+Ilha Solteira,São Paulo,674,25549 hab.,"661,3km²","38,6hab./km²","0,812",https://pt.wikipedia.org/wiki/Ilha_Solteira
+Indaiatuba,São Paulo,99,260690 hab.,"311,545km²","836,8hab./km²","0,788",https://pt.wikipedia.org/wiki/Indaiatuba
+Indiana,São Paulo,498 (em linha reta),4873 hab.,129367km²,0hab./km²,"0,789",https://pt.wikipedia.org/wiki/Indiana_(S%C3%A3o_Paulo)
+Ilha Comprida,São Paulo,209,"13,447 hab.","192,09km²","0,1hab./km²","0,725",https://pt.wikipedia.org/wiki/Ilha_Comprida
+Iguape,São Paulo,202,29115 hab.,"1978,795km²","14,7hab./km²","0,726",https://pt.wikipedia.org/wiki/Iguape
+Ilhabela,São Paulo,212,36194 hab.,"346,389km²","104,5hab./km²","0,756",https://pt.wikipedia.org/wiki/Ilhabela
+Igarapava,São Paulo,447,"26,212 hab.","468,355km²","0,1hab./km²","0,768",https://pt.wikipedia.org/wiki/Igarapava
+Igaraçu do Tietê,São Paulo,294,24376 hab.,"96,618km²","252,3hab./km²","0,77",https://pt.wikipedia.org/wiki/Igara%C3%A7u_do_Tiet%C3%AA
+Igaratá,São Paulo,89,9631 hab.,"293,953km²","32,8hab./km²","0,764",https://pt.wikipedia.org/wiki/Igarat%C3%A1
+Iepê,São Paulo,525,"7,619 hab.","594,974km²","12,80 hab./km²","0,75",https://pt.wikipedia.org/wiki/Iep%C3%AA
+Icém,São Paulo,530,7819 hab.,"362,355km²","21,6hab./km²","0,720",https://pt.wikipedia.org/wiki/Ic%C3%A9m
+Ibiúna,São Paulo,70,80062 hab.,"1059,689km²","75,6hab./km²","0,746",https://pt.wikipedia.org/wiki/Ibi%C3%BAna
+Ibitinga,São Paulo,360,61150 hab.,"689,391km²","88,7hab./km²","0,747",https://pt.wikipedia.org/wiki/Ibitinga
+Ibirarema,São Paulo,407,6725 hab.,"228,453km²","29,4hab./km²","0,775",https://pt.wikipedia.org/wiki/Ibirarema
+Ibirá,São Paulo,420,11690 hab.,"271,912km²",43hab./km²,"0,801",https://pt.wikipedia.org/wiki/Ibir%C3%A1
+Ibaté,São Paulo,247,32810 hab.,"289,544km²","113,3hab./km²","0,79",https://pt.wikipedia.org/wiki/Ibat%C3%A9
+Iaras,São Paulo,285,7704 hab.,"401,371km²","19,2hab./km²","0,742",https://pt.wikipedia.org/wiki/Iaras
+Iacri,São Paulo,550,"6,131 hab.","321,948km²",0hab./km²,"0,733",https://pt.wikipedia.org/wiki/Iacri
+Iacanga,São Paulo,376,11858 hab.,"548,029km²","21,6hab./km²","0,779",https://pt.wikipedia.org/wiki/Iacanga
+Holambra,São Paulo,120,15605 hab.,"64,277km²","242,8hab./km²","0,793",https://pt.wikipedia.org/wiki/Holambra
+Herculândia,São Paulo,511,9526 hab.,"365,136km²","26,1hab./km²","0,738",https://pt.wikipedia.org/wiki/Hercul%C3%A2ndia
+Hortolândia,São Paulo,114,236641 hab.,"62,276km²","3799,9hab./km²","0,756",https://pt.wikipedia.org/wiki/Hortol%C3%A2ndia
+Guatapará,São Paulo,,7496 hab.,"412,637km²","18,2hab./km²","0,743",https://pt.wikipedia.org/wiki/Guatapar%C3%A1
+Guarulhos,São Paulo,"14,35",1291784 hab.,"318,675km²","4053,6hab./km²","0,763",https://pt.wikipedia.org/wiki/Guarulhos
+Guaratinguetá,São Paulo,175,121798 hab.,"752,636km²","161,8hab./km²","0,798",https://pt.wikipedia.org/wiki/Guaratinguet%C3%A1
+Guararema,São Paulo,81,30465 hab.,"270,816km²","112,5hab./km²","0,731",https://pt.wikipedia.org/wiki/Guararema
+Guareí,São Paulo,186,15013 hab.,"566,260km²","26,5hab./km²","0,746",https://pt.wikipedia.org/wiki/Guare%C3%AD
+Guarujá,São Paulo,95,320459 hab.,"142,589km²","2247,4hab./km²","0,751",https://pt.wikipedia.org/wiki/Guaruj%C3%A1
+Guariba,São Paulo,342,"37,498 hab.","270,289km²","0,1hab./km²","0,756",https://pt.wikipedia.org/wiki/Guariba_(S%C3%A3o_Paulo)
+Guzolândia,São Paulo,590,5307 hab.,"252,47km²",21hab./km²,"0,729",https://pt.wikipedia.org/wiki/Guzol%C3%A2ndia
+Guararapes,São Paulo,545,30732 hab.,"956,580km²","32,1hab./km²","0,802",https://pt.wikipedia.org/wiki/Guararapes_(S%C3%A3o_Paulo)
+Guarantã,São Paulo,405,"6,675 hab.","461,795km²",0hab./km²,"0,727",https://pt.wikipedia.org/wiki/Guarant%C3%A3_(S%C3%A3o_Paulo)
+Guará,São Paulo,405,"18,606 hab.","362,183km²","0,1hab./km²","0,718",https://pt.wikipedia.org/wiki/Guar%C3%A1_(S%C3%A3o_Paulo)
+Guapiara,São Paulo,230,17071 hab.,"408,292km²","41,8hab./km²","0,675",https://pt.wikipedia.org/wiki/Guapiara
+Guapiaçu,São Paulo,450,21711 hab.,"325,126km²","66,8hab./km²","0,725",https://pt.wikipedia.org/wiki/Guapia%C3%A7u
+Guarani d'Oeste,São Paulo,595,1970 hab.,"85,5km²",23hab./km²,"0,757",https://pt.wikipedia.org/wiki/Guarani_d%27Oeste
+Guaraci,São Paulo,465,10350 hab.,"641,501km²","16,1hab./km²","0,737",https://pt.wikipedia.org/wiki/Guaraci_(S%C3%A3o_Paulo)
+Guaraçaí,São Paulo,616,8435 hab.,"568,397km²","14,8hab./km²","0,719",https://pt.wikipedia.org/wiki/Guara%C3%A7a%C3%AD_(S%C3%A3o_Paulo)
+Guaimbê,São Paulo,467,5425 hab.,"217,448km²","24,9hab./km²","0,728",https://pt.wikipedia.org/wiki/Guaimb%C3%AA
+Guaiçara,São Paulo,470,10671 hab.,"269,300km²","39,6hab./km²","0,778",https://pt.wikipedia.org/wiki/Guai%C3%A7ara
+Glicério,São Paulo,443,4138 hab.,"272,80km²","15,2hab./km²","0,735",https://pt.wikipedia.org/wiki/Glic%C3%A9rio_(S%C3%A3o_Paulo)
+Getulina,São Paulo,466,10777 hab.,"675,428km²",16hab./km²,"0,77",https://pt.wikipedia.org/wiki/Getulina
+General Salgado,São Paulo,548,10669 hab.,"493,3km²","21,6hab./km²","0,762",https://pt.wikipedia.org/wiki/General_Salgado
+Gavião Peixoto,São Paulo,304,4420 hab.,"243,711km²","18,1hab./km²","0,763",https://pt.wikipedia.org/wiki/Gavi%C3%A3o_Peixoto
+Gastão Vidigal,São Paulo,,4193 hab.,"180,9km²","23,2hab./km²","0,768",https://pt.wikipedia.org/wiki/Gast%C3%A3o_Vidigal_(S%C3%A3o_Paulo)
+Guaíra,São Paulo,450,42480 hab.,"1258,476km²","33,8hab./km²","0,753",https://pt.wikipedia.org/wiki/Gua%C3%ADra_(S%C3%A3o_Paulo)
+Garça,São Paulo,405,43115 hab.,"555,807km²","77,6hab./km²","0,769",https://pt.wikipedia.org/wiki/Gar%C3%A7a_(S%C3%A3o_Paulo)
+Gália,São Paulo,401,6380 hab.,355914km²,0hab./km²,"0,745",https://pt.wikipedia.org/wiki/G%C3%A1lia_(S%C3%A3o_Paulo)
+Gabriel Monteiro,São Paulo,550,2705 hab.,"138,533km²","19,5hab./km²","0,768",https://pt.wikipedia.org/wiki/Gabriel_Monteiro
+Franco da Rocha,São Paulo,27,158438 hab.,"132,775km²","1193,3hab./km²","0,731",https://pt.wikipedia.org/wiki/Franco_da_Rocha
+Francisco Morato,São Paulo,32,165139 hab.,"49,164km²","3358,9hab./km²","0,703",https://pt.wikipedia.org/wiki/Francisco_Morato
+Florínea,São Paulo,484,2829 hab.,"227,359km²","12,4hab./km²","0,713",https://pt.wikipedia.org/wiki/Flor%C3%ADnea
+Flórida Paulista,São Paulo,607,12958 hab.,"524,138km²","24,7hab./km²","0,715",https://pt.wikipedia.org/wiki/Fl%C3%B3rida_Paulista
+Floreal,São Paulo,521,3003 hab.,"204,3km²","14,7hab./km²","0,8",https://pt.wikipedia.org/wiki/Floreal
+Franca,São Paulo,400,364331 hab.,"605,679km²","601,5hab./km²","0,780",https://pt.wikipedia.org/wiki/Franca
+Flora Rica,São Paulo,535,1602 hab.,"225,115km²","7,1hab./km²","0,747",https://pt.wikipedia.org/wiki/Flora_Rica
+Ferraz de Vasconcelos,São Paulo,23,196500 hab.,"30,071km²","6534,5hab./km²","0,738",https://pt.wikipedia.org/wiki/Ferraz_de_Vasconcelos
+Fernão,São Paulo,"189,2 km",1656 hab.,"100,297km²","16,5hab./km²","0,748",https://pt.wikipedia.org/wiki/Fern%C3%A3o_(S%C3%A3o_Paulo)
+Fernandópolis,São Paulo,557,71186 hab.,"549,797km²","129,5hab./km²","0,797",https://pt.wikipedia.org/wiki/Fernand%C3%B3polis
+Fernando Prestes,São Paulo,365,5534 hab.,"170,112km²","32,5hab./km²","0,776",https://pt.wikipedia.org/wiki/Fernando_Prestes
+Fartura,São Paulo,357,16641 hab.,"429,464km²","38,7hab./km²","0,732",https://pt.wikipedia.org/wiki/Fartura
+Euclides da Cunha Paulista,São Paulo,708,9600 hab.,"577,122km²","16,6hab./km²","0,738",https://pt.wikipedia.org/wiki/Euclides_da_Cunha_Paulista
+Estrela d'Oeste,São Paulo,572,8208 hab.,"296,4km²","27,7hab./km²","0,792",https://pt.wikipedia.org/wiki/Estrela_d%27Oeste
+Estrela do Norte,São Paulo,,2661 hab.,"263,273km²","10,1hab./km²","0,767",https://pt.wikipedia.org/wiki/Estrela_do_Norte_(S%C3%A3o_Paulo)
+Estiva Gerbi,São Paulo,175,10772 hab.,"73,723km²","146,1hab./km²","0,740",https://pt.wikipedia.org/wiki/Estiva_Gerbi
+Espírito Santo do Turvo,São Paulo,320,4246 hab.,"191,294km²","22,2hab./km²","0,755",https://pt.wikipedia.org/wiki/Esp%C3%ADrito_Santo_do_Turvo
+Espírito Santo do Pinhal,São Paulo,202,44607 hab.,"390,413km²","114,3hab./km²","0,787",https://pt.wikipedia.org/wiki/Esp%C3%ADrito_Santo_do_Pinhal
+Engenheiro Coelho,São Paulo,167,19566 hab.,"109,798km²","178,2hab./km²","0,792",https://pt.wikipedia.org/wiki/Engenheiro_Coelho
+Emilianópolis,São Paulo,610,3186 hab.,"223,311km²","14,3hab./km²","0,751",https://pt.wikipedia.org/wiki/Emilian%C3%B3polis
+Embu-Guaçu,São Paulo,48,69385 hab.,"155,641km²","445,8hab./km²","0,749",https://pt.wikipedia.org/wiki/Embu-Gua%C3%A7u
+Embaúba,São Paulo,,2423 hab.,"83,1km²","29,2hab./km²","0,757",https://pt.wikipedia.org/wiki/Emba%C3%BAba_(S%C3%A3o_Paulo)
+Elisiário,São Paulo,402,3120 hab.,94km²,"33,2hab./km²","0,764",https://pt.wikipedia.org/wiki/Elisi%C3%A1rio
+Elias Fausto,São Paulo,131,15796 hab.,"201,471km²","78,4hab./km²","0,768",https://pt.wikipedia.org/wiki/Elias_Fausto
+Eldorado,São Paulo,249,13069 hab.,"1,654,256km²","7901,5hab./km²","0,733",https://pt.wikipedia.org/wiki/Eldorado_(S%C3%A3o_Paulo)
+Echaporã,São Paulo,464,6205 hab.,"515,244km²",12hab./km²,"0,745",https://pt.wikipedia.org/wiki/Echapor%C3%A3
+Dumont,São Paulo,333,10023 hab.,"110,866km²","90,4hab./km²","0,744",https://pt.wikipedia.org/wiki/Dumont
+Duartina,São Paulo,366,"12,328 hab.","264,557km²",0hab./km²,"0,748",https://pt.wikipedia.org/wiki/Duartina
+Embu das Artes,São Paulo,36,"250,691 hab.","70,398km²","3,6hab./km²","0,735",https://pt.wikipedia.org/wiki/Embu_das_Artes
+Dracena,São Paulo,650,47287 hab.,"488,041km²","96,9hab./km²","0,776",https://pt.wikipedia.org/wiki/Dracena
+Dourado,São Paulo,260,8890 hab.,"205,981km²","43,2hab./km²","0,78",https://pt.wikipedia.org/wiki/Dourado_(S%C3%A3o_Paulo)
+Dolcinópolis,São Paulo,620,2096 hab.,"78,3km²","26,8hab./km²","0,76",https://pt.wikipedia.org/wiki/Dolcin%C3%B3polis
+Dois Córregos,São Paulo,265,27704 hab.,"632,973km²","43,8hab./km²","0,725",https://pt.wikipedia.org/wiki/Dois_C%C3%B3rregos
+Dobrada,São Paulo,320,7939 hab.,"150,085km²","52,9hab./km²","0,745",https://pt.wikipedia.org/wiki/Dobrada
+Divinolândia,São Paulo,285,11209 hab.,"222,257km²","50,4hab./km²","0,788",https://pt.wikipedia.org/wiki/Divinol%C3%A2ndia
+Dirce Reis,São Paulo,700,1799 hab.,"88,133km²","20,4hab./km²","0,737",https://pt.wikipedia.org/wiki/Dirce_Reis
+Diadema,São Paulo,17,393237 hab.,"30,732km²","12795,7hab./km²","0,757",https://pt.wikipedia.org/wiki/Diadema
+Descalvado,São Paulo,242,31916 hab.,"753,706km²","42,3hab./km²","0,75",https://pt.wikipedia.org/wiki/Descalvado
+Cunha,São Paulo,228,21547 hab.,"1407,25km²","15,3hab./km²","0,684",https://pt.wikipedia.org/wiki/Cunha_(S%C3%A3o_Paulo)
+Cubatão,São Paulo,68,133821 hab.,"142,879km²","936,6hab./km²","0,735",https://pt.wikipedia.org/wiki/Cubat%C3%A3o
+Cruzeiro,São Paulo,220,74961 hab.,"305,699km²","245,2hab./km²","0,788",https://pt.wikipedia.org/wiki/Cruzeiro_(S%C3%A3o_Paulo)
+Cruzália,São Paulo,480,2270 hab.,"149,173km²","15,2hab./km²","0,786",https://pt.wikipedia.org/wiki/Cruz%C3%A1lia
+Cristais Paulista,São Paulo,405,8631 hab.,"385,230km²","22,4hab./km²","0,771",https://pt.wikipedia.org/wiki/Cristais_Paulista
+Cravinhos,São Paulo,297,34252 hab.,"311,341km²",110hab./km²,"0,756",https://pt.wikipedia.org/wiki/Cravinhos
+Coroados,São Paulo,,5986 hab.,"246,544km²","24,3hab./km²","0,802",https://pt.wikipedia.org/wiki/Coroados_(S%C3%A3o_Paulo)
+Cosmorama,São Paulo,504,7214 hab.,"443,8km²","16,3hab./km²","0,755",https://pt.wikipedia.org/wiki/Cosmorama
+Coronel Macedo,São Paulo,330,4280 hab.,"304,505km²","14,1hab./km²","0,711",https://pt.wikipedia.org/wiki/Coronel_Macedo
+Cosmópolis,São Paulo,130,59773 hab.,"154,730km²","386,3hab./km²","0,799",https://pt.wikipedia.org/wiki/Cosm%C3%B3polis
+Corumbataí,São Paulo,202,4027 hab.,"278,143km²","14,5hab./km²","0,78",https://pt.wikipedia.org/wiki/Corumbata%C3%AD
+Conchas,São Paulo,210,16288 hab.,466km²,35hab./km²,"0,736",https://pt.wikipedia.org/wiki/Conchas
+Cotia,São Paulo,34,"274,413 hab.","323,994km²","0,8hab./km²","0,780",https://pt.wikipedia.org/wiki/Cotia
+Cordeirópolis,São Paulo,160,25116 hab.,"137,579km²","182,6hab./km²","0,758",https://pt.wikipedia.org/wiki/Cordeir%C3%B3polis
+Conchal,São Paulo,176,28105 hab.,"183,826km²","152,9hab./km²","0,77",https://pt.wikipedia.org/wiki/Conchal
+Colômbia,São Paulo,482,6203 hab.,"729,252km²","8,5hab./km²","0,710",https://pt.wikipedia.org/wiki/Col%C3%B4mbia_(S%C3%A3o_Paulo)
+Colina,São Paulo,405,18245 hab.,"422,303km²","43,2hab./km²","0,824",https://pt.wikipedia.org/wiki/Colina_(S%C3%A3o_Paulo)
+Chavantes,São Paulo,370,12482 hab.,"188,212km²","66,3hab./km²","0,776",https://pt.wikipedia.org/wiki/Chavantes
+Clementina,São Paulo,524,7992 hab.,"168,739km²","47,4hab./km²","0,792",https://pt.wikipedia.org/wiki/Clementina_(S%C3%A3o_Paulo)
+Charqueada,São Paulo,180,15086 hab.,"175,998km²","85,7hab./km²","0,736",https://pt.wikipedia.org/wiki/Charqueada_(S%C3%A3o_Paulo)
+Cerquilho,São Paulo,143,44695 hab.,"127,803km²","349,7hab./km²","0,782",https://pt.wikipedia.org/wiki/Cerquilho
+Cesário Lange,São Paulo,146,17915 hab.,"190,189km²","94,2hab./km²","0,767",https://pt.wikipedia.org/wiki/Ces%C3%A1rio_Lange
+Cerqueira César,São Paulo,293,21469 hab.,"511,621km²",42hab./km²,"0,729",https://pt.wikipedia.org/wiki/Cerqueira_C%C3%A9sar
+Cedral,São Paulo,430,12618 hab.,"197,838km²","63,8hab./km²","0,803",https://pt.wikipedia.org/wiki/Cedral_(S%C3%A3o_Paulo)
+Catiguá,São Paulo,414,10127 hab.,"148,4km²","68,2hab./km²","0,787",https://pt.wikipedia.org/wiki/Catigu%C3%A1
+Catanduva,São Paulo,384,114953 hab.,"290,596km²","395,6hab./km²","0,785",https://pt.wikipedia.org/wiki/Catanduva
+Castilho,São Paulo,642,20418 hab.,"1065,318km²","19,2hab./km²","0,76",https://pt.wikipedia.org/wiki/Castilho_(S%C3%A3o_Paulo)
+Cássia dos Coqueiros,São Paulo,351,2627 hab.,"190,916km²","13,8hab./km²","0,796",https://pt.wikipedia.org/wiki/C%C3%A1ssia_dos_Coqueiros
+Casa Branca,São Paulo,230,28312 hab.,"865,544km²","32,7hab./km²","0,730",https://pt.wikipedia.org/wiki/Casa_Branca_(S%C3%A3o_Paulo)
+Cardoso,São Paulo,560,12305 hab.,"639,7km²","19,2hab./km²","0,756",https://pt.wikipedia.org/wiki/Cardoso
+Carapicuíba,São Paulo,21,"400,927 hab.","34,967km²","11,5hab./km²","0,749",https://pt.wikipedia.org/wiki/Carapicu%C3%ADba
+Caraguatatuba,São Paulo,178,134873 hab.,"484,947km²","278,1hab./km²","0,759",https://pt.wikipedia.org/wiki/Caraguatatuba
+Capivari,São Paulo,108,56973 hab.,"322,878km²","176,5hab./km²","0,750",https://pt.wikipedia.org/wiki/Capivari
+Capela do Alto,São Paulo,112,20706 hab.,"169,981km²","121,8hab./km²","0,748",https://pt.wikipedia.org/wiki/Capela_do_Alto
+Capão Bonito,São Paulo,223,46337 hab.,"1641,229km²","28,2hab./km²","0,721",https://pt.wikipedia.org/wiki/Cap%C3%A3o_Bonito
+Canitar,São Paulo,368,4369 hab.,"57,380km²","76,1hab./km²","0,738",https://pt.wikipedia.org/wiki/Canitar
+Canas,São Paulo,190,5138 hab.,"53,261km²","96,5hab./km²","0,753",https://pt.wikipedia.org/wiki/Canas_(S%C3%A3o_Paulo)
+Cândido Rodrigues,São Paulo,353,2668 hab.,"69,523km²","38,4hab./km²","0,789",https://pt.wikipedia.org/wiki/C%C3%A2ndido_Rodrigues
+Campos do Jordão,São Paulo,173,46974 hab.,"290,52km²","161,7hab./km²","0,749",https://pt.wikipedia.org/wiki/Campos_do_Jord%C3%A3o
+Campo Limpo Paulista,São Paulo,45,77632 hab.,"80,048km²","969,8hab./km²","0,805",https://pt.wikipedia.org/wiki/Campo_Limpo_Paulista
+Campos Novos Paulista,São Paulo,415,4932 hab.,"484,577km²","10,2hab./km²","0,761",https://pt.wikipedia.org/wiki/Campos_Novos_Paulista
+Cândido Mota,São Paulo,428,31410 hab.,"595,911km²","52,7hab./km²","0,79",https://pt.wikipedia.org/wiki/C%C3%A2ndido_Mota
+Cananéia,São Paulo,265,12542 hab.,"1237,354km²","10,1hab./km²","0,720",https://pt.wikipedia.org/wiki/Canan%C3%A9ia
+Campinas,São Paulo,99,1139047 hab.,"794,571km²","1433,5hab./km²","0,805",https://pt.wikipedia.org/wiki/Campinas
+Campina do Monte Alegre,São Paulo,229,6088 hab.,"184,077km²","33,1hab./km²","0,742",https://pt.wikipedia.org/wiki/Campina_do_Monte_Alegre
+Cajuru,São Paulo,305,26167 hab.,"660,687km²","39,6hab./km²","0,783",https://pt.wikipedia.org/wiki/Cajuru
+Cajobi,São Paulo,430,9768 hab.,"176,9km²","55,2hab./km²","0,775",https://pt.wikipedia.org/wiki/Cajobi
+Cajamar,São Paulo,43,"92,689 hab.","131,386km²","0,7hab./km²","0,728",https://pt.wikipedia.org/wiki/Cajamar
+Caieiras,São Paulo,35,"95,032 hab.","97,642km²",1hab./km²,"0,781",https://pt.wikipedia.org/wiki/Caieiras
+Caiabu,São Paulo,559,4072 hab.,"251,949km²","16,2hab./km²","0,779",https://pt.wikipedia.org/wiki/Caiabu
+Cafelândia,São Paulo,411,"16,654 hab.","919,860km²",0hab./km²,"0,788",https://pt.wikipedia.org/wiki/Cafel%C3%A2ndia_(S%C3%A3o_Paulo)
+Cajati,São Paulo,: 232,28441 hab.,"454,436km²","62,6hab./km²","0,694",https://pt.wikipedia.org/wiki/Cajati_(S%C3%A3o_Paulo)
+Caiuá,São Paulo,624,5039 hab.,"535,522km²","9,4hab./km²","0,71",https://pt.wikipedia.org/wiki/Caiu%C3%A1
+Caconde,São Paulo,290,18985 hab.,"470,487km²","40,4hab./km²","0,782",https://pt.wikipedia.org/wiki/Caconde
+Cachoeira Paulista,São Paulo,193,33327 hab.,"287,990km²","115,7hab./km²","0,794",https://pt.wikipedia.org/wiki/Cachoeira_Paulista
+Caçapava,São Paulo,113,95752 hab.,"368,99km²","259,5hab./km²","0,788",https://pt.wikipedia.org/wiki/Ca%C3%A7apava
+Cabreúva,São Paulo,78,47011 hab.,"260,234km²","180,6hab./km²","0,774",https://pt.wikipedia.org/wiki/Cabre%C3%BAva_(S%C3%A3o_Paulo)
+Cabrália Paulista,São Paulo,363,4410 hab.,"239,210km²","18,4hab./km²","0,743",https://pt.wikipedia.org/wiki/Cabr%C3%A1lia_Paulista
+Buritizal,São Paulo,451,4356 hab.,"266,420km²","16,4hab./km²","0,735",https://pt.wikipedia.org/wiki/Buritizal
+Buritama,São Paulo,542,17414 hab.,"326,921km²","53,3hab./km²","0,79",https://pt.wikipedia.org/wiki/Buritama
+Buri,São Paulo,263,20250 hab.,"1194,977km²","16,9hab./km²","0,701",https://pt.wikipedia.org/wiki/Buri
+Brotas,São Paulo,235,24403 hab.,"1101,468km²","22,2hab./km²","0,740",https://pt.wikipedia.org/wiki/Brotas_(S%C3%A3o_Paulo)
+Brodowski,São Paulo,337,25277 hab.,"278,458km²","90,8hab./km²","0,755",https://pt.wikipedia.org/wiki/Brodowski
+Brejo Alegre,São Paulo,,2573 hab.,"104,832km²","24,5hab./km²","0,748",https://pt.wikipedia.org/wiki/Brejo_Alegre
+Braúna,São Paulo,512,5686 hab.,"195,516km²","29,1hab./km²","0,796",https://pt.wikipedia.org/wiki/Bra%C3%BAna_(S%C3%A3o_Paulo)
+Bragança Paulista,São Paulo,88,184634 hab.,"512,584km²","360,2hab./km²","0,776",https://pt.wikipedia.org/wiki/Bragan%C3%A7a_Paulista
+Botucatu,São Paulo,235,145155 hab.,"1482,874km²","97,9hab./km²","0,800",https://pt.wikipedia.org/wiki/Botucatu
+Borebi,São Paulo,306,2713 hab.,"347,989km²","7,8hab./km²","0,7405",https://pt.wikipedia.org/wiki/Borebi
+Borborema,São Paulo,390,16164 hab.,"552,604km²","29,3hab./km²","0,771",https://pt.wikipedia.org/wiki/Borborema_(S%C3%A3o_Paulo)
+Boraceia,São Paulo,330,4268 hab.,"120,796km²","35,3hab./km²","0,783",https://pt.wikipedia.org/wiki/Boraceia
+Borá,São Paulo,486,907 hab.,"118,951km²","7,6hab./km²","0,794",https://pt.wikipedia.org/wiki/Bor%C3%A1
+Bom Sucesso de Itararé,São Paulo,270,3571 hab.,"133,221km²","26,8hab./km²","0,660",https://pt.wikipedia.org/wiki/Bom_Sucesso_de_Itarar%C3%A9
+Bom Jesus dos Perdões,São Paulo,87,21942 hab.,"108,513km²","202,2hab./km²","0,713",https://pt.wikipedia.org/wiki/Bom_Jesus_dos_Perd%C3%B5es
+Boituva,São Paulo,116,60997 hab.,"248,954km²",245hab./km²,"0,780",https://pt.wikipedia.org/wiki/Boituva
+Bofete,São Paulo,192,11921 hab.,"653,360km²","18,2hab./km²","0,791",https://pt.wikipedia.org/wiki/Bofete
+Bocaina,São Paulo,300,11810 hab.,"364,044km²","32,4hab./km²","0,807",https://pt.wikipedia.org/wiki/Bocaina_(S%C3%A3o_Paulo)
+Boa Esperança do Sul,São Paulo,303,14923 hab.,"690,748km²","21,6hab./km²","0,681",https://pt.wikipedia.org/wiki/Boa_Esperan%C3%A7a_do_Sul
+Biritiba Mirim,São Paulo,84,"29,676 hab.","317,406km²","0,1hab./km²","0,712",https://pt.wikipedia.org/wiki/Biritiba_Mirim
+Birigui,São Paulo,507,126094 hab.,"530,031km²","237,9hab./km²","0,780",https://pt.wikipedia.org/wiki/Birigui
+Bertioga,São Paulo,80,66154 hab.,"491,546km²","134,6hab./km²","0,730",https://pt.wikipedia.org/wiki/Bertioga
+Bernardino de Campos,São Paulo,327,11158 hab.,"244,018km²","45,7hab./km²","0,734",https://pt.wikipedia.org/wiki/Bernardino_de_Campos
+Bento de Abreu,São Paulo,560,2674 hab.,"301,395km²","8,9hab./km²","0,802",https://pt.wikipedia.org/wiki/Bento_de_Abreu
+Bebedouro,São Paulo,379,76373 hab.,"683,192km²","111,8hab./km²","0,780",https://pt.wikipedia.org/wiki/Bebedouro_(S%C3%A3o_Paulo)
+Batatais,São Paulo,355,58402 hab.,"850,718km²","68,7hab./km²","0,761",https://pt.wikipedia.org/wiki/Batatais
+Bastos,São Paulo,550,21516 hab.,"170,454km²","126,2hab./km²","0,798",https://pt.wikipedia.org/wiki/Bastos
+Bilac,São Paulo,540,7052 hab.,"157,278km²","44,8hab./km²","0,809",https://pt.wikipedia.org/wiki/Bilac
+Bauru,São Paulo,300,379146 hab.,"667,684km²","567,9hab./km²","0,801",https://pt.wikipedia.org/wiki/Bauru
+Barrinha,São Paulo,322,32812 hab.,"146,025km²","224,7hab./km²","0,725",https://pt.wikipedia.org/wiki/Barrinha
+Barra do Chapéu,São Paulo,360,5550 hab.,"407,286km²","13,6hab./km²","0,660",https://pt.wikipedia.org/wiki/Barra_do_Chap%C3%A9u
+Bariri,São Paulo,330,35264 hab.,"440,600km²",80hab./km²,"0,83",https://pt.wikipedia.org/wiki/Bariri
+Barretos,São Paulo,421,122485 hab.,"1566,161km²","78,2hab./km²","0,789",https://pt.wikipedia.org/wiki/Barretos
+Barra do Turvo,São Paulo,335,6875 hab.,"1007,285km²","6,8hab./km²","0,663",https://pt.wikipedia.org/wiki/Barra_do_Turvo
+Barra Bonita,São Paulo,288,36321 hab.,"150,180km²","241,8hab./km²","0,788",https://pt.wikipedia.org/wiki/Barra_Bonita_(S%C3%A3o_Paulo)
+Barueri,São Paulo,26,"316,473 hab.","65,701km²","4,8hab./km²","0,786",https://pt.wikipedia.org/wiki/Barueri
+Barbosa,São Paulo,482,6593 hab.,"205,131km²","32,1hab./km²","0,746",https://pt.wikipedia.org/wiki/Barbosa_(S%C3%A3o_Paulo)
+Barão de Antonina,São Paulo,380,3116 hab.,"154,922km²","20,1hab./km²","0,706",https://pt.wikipedia.org/wiki/Bar%C3%A3o_de_Antonina
+Bananal,São Paulo,316,9969 hab.,"616,429km²","16,2hab./km²","0,733",https://pt.wikipedia.org/wiki/Bananal
+Bálsamo,São Paulo,464,9854 hab.,"150,6km²","65,4hab./km²",,https://pt.wikipedia.org/wiki/B%C3%A1lsamo_(S%C3%A3o_Paulo)
+Balbinos,São Paulo,405,3932 hab.,"90,858km²","43,3hab./km²","0,761",https://pt.wikipedia.org/wiki/Balbinos
+Bady Bassitt,São Paulo,465,27260 hab.,"110,372km²",247hab./km²,"0,812",https://pt.wikipedia.org/wiki/Bady_Bassitt
+Avaré,São Paulo,267,92805 hab.,"1213,055km²","76,5hab./km²","0,767",https://pt.wikipedia.org/wiki/Avar%C3%A9
+Auriflama,São Paulo,569,15123 hab.,434km²,"34,8hab./km²","0,787",https://pt.wikipedia.org/wiki/Auriflama
+Aramina,São Paulo,439,5152 hab.,"202,704km²","25,4hab./km²","0,794",https://pt.wikipedia.org/wiki/Aramina
+Araçoiaba da Serra,São Paulo,123,35389 hab.,"255,305km²","138,6hab./km²","0,776",https://pt.wikipedia.org/wiki/Ara%C3%A7oiaba_da_Serra
+Araçariguama,São Paulo,44,32964 hab.,"146,331km²","225,3hab./km²","0,770",https://pt.wikipedia.org/wiki/Ara%C3%A7ariguama
+Apiaí,São Paulo,320,24374 hab.,"968,841km²","25,2hab./km²","0,710",https://pt.wikipedia.org/wiki/Apia%C3%AD
+Avanhandava,São Paulo,467,14063 hab.,"340,338km²","41,3hab./km²","0,768",https://pt.wikipedia.org/wiki/Avanhandava
+Avaí,São Paulo,368,5403 hab.,"540,689km²",10hab./km²,"0,748",https://pt.wikipedia.org/wiki/Ava%C3%AD_(S%C3%A3o_Paulo)
+Araçatuba,São Paulo,: 873 km,207775 hab.,"1167,126km²",178hab./km²,"0,788",https://pt.wikipedia.org/wiki/Ara%C3%A7atuba
+Andradina,São Paulo,630,57157 hab.,"960,095km²","59,5hab./km²","0,798",https://pt.wikipedia.org/wiki/Andradina
+Aparecida d'Oeste,São Paulo,645,4086 hab.,"179,004km²","22,8hab./km²","0,759",https://pt.wikipedia.org/wiki/Aparecida_d%27Oeste
+Aparecida,São Paulo,168,32569 hab.,"120,890km²","269,4hab./km²","0,755",https://pt.wikipedia.org/wiki/Aparecida_(S%C3%A3o_Paulo)
+Anhumas,São Paulo,560,3738 hab.,"320,926km²","11,6hab./km²","0,752",https://pt.wikipedia.org/wiki/Anhumas
+Anhembi,São Paulo,240,6215 hab.,"736,463km²","8,4hab./km²","0,768",https://pt.wikipedia.org/wiki/Anhembi
+Angatuba,São Paulo,: 1 066 km,24022 hab.,"1028,702km²","23,4hab./km²","0,719",https://pt.wikipedia.org/wiki/Angatuba
+Analândia,São Paulo,221,4995 hab.,"326,630km²","15,3hab./km²","0,804",https://pt.wikipedia.org/wiki/Anal%C3%A2ndia
+Amparo,São Paulo,138,73145 hab.,"446,009km²",164hab./km²,"0,785",https://pt.wikipedia.org/wiki/Amparo_(S%C3%A3o_Paulo)
+Américo de Campos,São Paulo,533,5706 hab.,"253,1km²","22,5hab./km²","0,774",https://pt.wikipedia.org/wiki/Am%C3%A9rico_de_Campos
+Américo Brasiliense,São Paulo,280,"33,019 hab.",123km²,"0,3hab./km²","0,788",https://pt.wikipedia.org/wiki/Am%C3%A9rico_Brasiliense
+Alvinlândia,São Paulo,450,3056 hab.,89km²,"34,3hab./km²","0,741",https://pt.wikipedia.org/wiki/Alvinl%C3%A2ndia
+Álvaro de Carvalho,São Paulo,433,4896 hab.,"152,623km²","32,1hab./km²","0,73",https://pt.wikipedia.org/wiki/%C3%81lvaro_de_Carvalho
+Álvares Machado,São Paulo,576,27255 hab.,"347,647km²","78,4hab./km²","0,772",https://pt.wikipedia.org/wiki/%C3%81lvares_Machado
+Álvares Florence,São Paulo,538,3897 hab.,"362,9km²","10,7hab./km²","0,771",https://pt.wikipedia.org/wiki/%C3%81lvares_Florence
+Alumínio,São Paulo,74,17301 hab.,"83,660km²","206,8hab./km²","0,787",https://pt.wikipedia.org/wiki/Alum%C3%ADnio_(S%C3%A3o_Paulo)
+Americana,São Paulo,126,237240 hab.,"133,930km²","1771,4hab./km²","0,811",https://pt.wikipedia.org/wiki/Americana_(S%C3%A3o_Paulo)
+Alto Alegre,São Paulo,491,4105 hab.,"318,216km²","12,9hab./km²","0,774",https://pt.wikipedia.org/wiki/Alto_Alegre_(S%C3%A3o_Paulo)
+Altinópolis,São Paulo,346,15609 hab.,"929,426km²","16,8hab./km²","0,730",https://pt.wikipedia.org/wiki/Altin%C3%B3polis
+Altair,São Paulo,473,3451 hab.,"313,007km²",11hab./km²,"0,687",https://pt.wikipedia.org/wiki/Altair_(S%C3%A3o_Paulo)
+Alfredo Marcondes,São Paulo,596,"4,445 hab.","119,504km²",0hab./km²,"0,741",https://pt.wikipedia.org/wiki/Alfredo_Marcondes
+Alambari,São Paulo,156,6141 hab.,"159,600km²","38,5hab./km²","0,748",https://pt.wikipedia.org/wiki/Alambari
+Agudos,São Paulo,330,37214 hab.,"966,708km²","38,5hab./km²","0,786",https://pt.wikipedia.org/wiki/Agudos
+Águas de Santa Bárbara,São Paulo,287,7177 hab.,"408,471km²","17,6hab./km²","0,757",https://pt.wikipedia.org/wiki/%C3%81guas_de_Santa_B%C3%A1rbara
+Águas da Prata,São Paulo,225,8180 hab.,"142,588km²","57,4hab./km²","0,781",https://pt.wikipedia.org/wiki/%C3%81guas_da_Prata
+Águas de Lindóia,São Paulo,159 (Via,17930 hab.,"60,126km²","298,2hab./km²","0,745",https://pt.wikipedia.org/wiki/%C3%81guas_de_Lind%C3%B3ia
+Aguaí,São Paulo,200,36305 hab.,"474,741km²","76,5hab./km²","0,715",https://pt.wikipedia.org/wiki/Agua%C3%AD
+Adolfo,São Paulo,464,4351 hab.,"211,1km²","20,6hab./km²","0,795",https://pt.wikipedia.org/wiki/Adolfo_(S%C3%A3o_Paulo)
+Águas de São Pedro,São Paulo,187,3451 hab.,"3,612km²","955,4hab./km²","0,854",https://pt.wikipedia.org/wiki/%C3%81guas_de_S%C3%A3o_Pedro

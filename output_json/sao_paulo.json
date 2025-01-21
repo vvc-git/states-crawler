@@ -1,0 +1,6452 @@
+[
+{
+    "name": "Adamantina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "582",
+    "total_population": "35068 hab.",
+    "total_area": "411,781km²",
+    "density": "85,2hab./km²",
+    "hdi": "0,790",
+    "url": "https://pt.wikipedia.org/wiki/Adamantina"
+},
+{
+    "name": "Atibaia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "67",
+    "total_population": "158647 hab.",
+    "total_area": "478,521km²",
+    "density": "331,5hab./km²",
+    "hdi": "0,765",
+    "url": "https://pt.wikipedia.org/wiki/Atibaia"
+},
+{
+    "name": "Areiópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "278",
+    "total_population": "11186 hab.",
+    "total_area": "85,947km²",
+    "density": "130,1hab./km²",
+    "hdi": "0,695",
+    "url": "https://pt.wikipedia.org/wiki/Arei%C3%B3polis"
+},
+{
+    "name": "Areias",
+    "state": "São Paulo",
+    "distance_to_the_capital": "254",
+    "total_population": "3886 hab.",
+    "total_area": "305,227km²",
+    "density": "12,7hab./km²",
+    "hdi": "0,723",
+    "url": "https://pt.wikipedia.org/wiki/Areias_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Arealva",
+    "state": "São Paulo",
+    "distance_to_the_capital": "388",
+    "total_population": "8299 hab.",
+    "total_area": "506,465km²",
+    "density": "16,4hab./km²",
+    "hdi": "0,79",
+    "url": "https://pt.wikipedia.org/wiki/Arealva"
+},
+{
+    "name": "Arco-Íris",
+    "state": "São Paulo",
+    "distance_to_the_capital": "532",
+    "total_population": "1856 hab.",
+    "total_area": "263,214km²",
+    "density": "7,1hab./km²",
+    "hdi": "0,708",
+    "url": "https://pt.wikipedia.org/wiki/Arco-%C3%8Dris_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Aspásia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "624",
+    "total_population": "1818 hab.",
+    "total_area": "69,373km²",
+    "density": "26,2hab./km²",
+    "hdi": "0,738",
+    "url": "https://pt.wikipedia.org/wiki/Asp%C3%A1sia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Artur Nogueira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "150",
+    "total_population": "51456 hab.",
+    "total_area": "177,752km²",
+    "density": "289,5hab./km²",
+    "hdi": "0,796",
+    "url": "https://pt.wikipedia.org/wiki/Artur_Nogueira"
+},
+{
+    "name": "Ariranha",
+    "state": "São Paulo",
+    "distance_to_the_capital": "428",
+    "total_population": "9365 hab.",
+    "total_area": "132,624km²",
+    "density": "70,6hab./km²",
+    "hdi": "0,769",
+    "url": "https://pt.wikipedia.org/wiki/Ariranha_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Arujá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "41",
+    "total_population": "86678 hab.",
+    "total_area": "96,167km²",
+    "density": "901,3hab./km²",
+    "hdi": "0,784",
+    "url": "https://pt.wikipedia.org/wiki/Aruj%C3%A1"
+},
+{
+    "name": "Arapeí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "310",
+    "total_population": "2469 hab.",
+    "total_area": "156,903km²",
+    "density": "15,7hab./km²",
+    "hdi": "0,716",
+    "url": "https://pt.wikipedia.org/wiki/Arape%C3%AD"
+},
+{
+    "name": "Araras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "174",
+    "total_population": "130866 hab.",
+    "total_area": "644,831km²",
+    "density": "202,9hab./km²",
+    "hdi": "0,781",
+    "url": "https://pt.wikipedia.org/wiki/Araras_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Assis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "434",
+    "total_population": "101409 hab.",
+    "total_area": "460,609km²",
+    "density": "220,2hab./km²",
+    "hdi": "0,805",
+    "url": "https://pt.wikipedia.org/wiki/Assis_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Arandu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "274",
+    "total_population": "7123 hab.",
+    "total_area": "286,328km²",
+    "density": "24,9hab./km²",
+    "hdi": "0,685",
+    "url": "https://pt.wikipedia.org/wiki/Arandu"
+},
+{
+    "name": "Araraquara",
+    "state": "São Paulo",
+    "distance_to_the_capital": "270",
+    "total_population": "252318",
+    "total_area": "1003,625km²",
+    "density": "243,48 hab./km²",
+    "hdi": "0,815",
+    "url": "https://pt.wikipedia.org/wiki/Araraquara"
+},
+{
+    "name": "Zacarias",
+    "state": "São Paulo",
+    "distance_to_the_capital": "538",
+    "total_population": "2692 hab.",
+    "total_area": "319,1km²",
+    "density": "8,4hab./km²",
+    "hdi": "0,777",
+    "url": "https://pt.wikipedia.org/wiki/Zacarias_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Votuporanga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "527",
+    "total_population": "100,159 hab.",
+    "total_area": "424,1km²",
+    "density": "0,2hab./km²",
+    "hdi": "0,790",
+    "url": "https://pt.wikipedia.org/wiki/Votuporanga"
+},
+{
+    "name": "Votorantim",
+    "state": "São Paulo",
+    "distance_to_the_capital": "108",
+    "total_population": "137119 hab.",
+    "total_area": "183,998km²",
+    "density": "745,2hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Votorantim"
+},
+{
+    "name": "Vitória Brasil",
+    "state": "São Paulo",
+    "distance_to_the_capital": "604",
+    "total_population": "1737 hab.",
+    "total_area": "49,7km²",
+    "density": "34,9hab./km²",
+    "hdi": "0,747",
+    "url": "https://pt.wikipedia.org/wiki/Vit%C3%B3ria_Brasil"
+},
+{
+    "name": "Vista Alegre do Alto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "371",
+    "total_population": "8989 hab.",
+    "total_area": "95,297km²",
+    "density": "94,3hab./km²",
+    "hdi": "0,816",
+    "url": "https://pt.wikipedia.org/wiki/Vista_Alegre_do_Alto"
+},
+{
+    "name": "Viradouro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "416",
+    "total_population": "19,017 hab.",
+    "total_area": "219,044km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,739",
+    "url": "https://pt.wikipedia.org/wiki/Viradouro"
+},
+{
+    "name": "Vinhedo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "75",
+    "total_population": "76540 hab.",
+    "total_area": "80,950km²",
+    "density": "945,5hab./km²",
+    "hdi": "0,817",
+    "url": "https://pt.wikipedia.org/wiki/Vinhedo"
+},
+{
+    "name": "Várzea Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "45",
+    "total_population": "119576 hab.",
+    "total_area": "34,627km²",
+    "density": "3453,3hab./km²",
+    "hdi": "0,795",
+    "url": "https://pt.wikipedia.org/wiki/V%C3%A1rzea_Paulista"
+},
+{
+    "name": "Vargem Grande Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "45",
+    "total_population": "42946 hab.",
+    "total_area": "33,512km²",
+    "density": "1281,5hab./km²",
+    "hdi": "0,770",
+    "url": "https://pt.wikipedia.org/wiki/Vargem_Grande_Paulista"
+},
+{
+    "name": "Vargem Grande do Sul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "235",
+    "total_population": "50,000 hab.",
+    "total_area": "266,530km²",
+    "density": "0,2hab./km²",
+    "hdi": "0,802",
+    "url": "https://pt.wikipedia.org/wiki/Vargem_Grande_do_Sul"
+},
+{
+    "name": "Vargem",
+    "state": "São Paulo",
+    "distance_to_the_capital": "97",
+    "total_population": "10805 hab.",
+    "total_area": "142,595km²",
+    "density": "75,8hab./km²",
+    "hdi": "0,699",
+    "url": "https://pt.wikipedia.org/wiki/Vargem_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Valparaíso",
+    "state": "São Paulo",
+    "distance_to_the_capital": "563",
+    "total_population": "24241 hab.",
+    "total_area": "857,661km²",
+    "density": "28,3hab./km²",
+    "hdi": "0,807",
+    "url": "https://pt.wikipedia.org/wiki/Valpara%C3%ADso_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Valinhos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "82",
+    "total_population": "126,373 hab.",
+    "total_area": "148,538km²",
+    "density": "0,9hab./km²",
+    "hdi": "0,819",
+    "url": "https://pt.wikipedia.org/wiki/Valinhos"
+},
+{
+    "name": "Valentim Gentil",
+    "state": "São Paulo",
+    "distance_to_the_capital": "536",
+    "total_population": "11036 hab.",
+    "total_area": "149,7km²",
+    "density": "73,7hab./km²",
+    "hdi": "0,785",
+    "url": "https://pt.wikipedia.org/wiki/Valentim_Gentil"
+},
+{
+    "name": "Vera Cruz",
+    "state": "São Paulo",
+    "distance_to_the_capital": "430",
+    "total_population": "10769 hab.",
+    "total_area": "247,854km²",
+    "density": "43,4hab./km²",
+    "hdi": "0,758",
+    "url": "https://pt.wikipedia.org/wiki/Vera_Cruz_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Ubarana",
+    "state": "São Paulo",
+    "distance_to_the_capital": "476",
+    "total_population": "5365 hab.",
+    "total_area": "209,6km²",
+    "density": "25,6hab./km²",
+    "hdi": "0,752",
+    "url": "https://pt.wikipedia.org/wiki/Ubarana"
+},
+{
+    "name": "Urupês",
+    "state": "São Paulo",
+    "distance_to_the_capital": "470",
+    "total_population": "13744 hab.",
+    "total_area": "323,7km²",
+    "density": "42,5hab./km²",
+    "hdi": "0,795",
+    "url": "https://pt.wikipedia.org/wiki/Urup%C3%AAs"
+},
+{
+    "name": "Uru",
+    "state": "São Paulo",
+    "distance_to_the_capital": "418,9",
+    "total_population": "1177 hab.",
+    "total_area": "147,581km²",
+    "density": "8hab./km²",
+    "hdi": "0,739",
+    "url": "https://pt.wikipedia.org/wiki/Uru_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Urânia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "610",
+    "total_population": "8836 hab.",
+    "total_area": "208,9km²",
+    "density": "42,3hab./km²",
+    "hdi": "0,765",
+    "url": "https://pt.wikipedia.org/wiki/Ur%C3%A2nia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "União Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "502,1",
+    "total_population": "1603 hab.",
+    "total_area": "79,1km²",
+    "density": "20,3hab./km²",
+    "hdi": "0,777",
+    "url": "https://pt.wikipedia.org/wiki/Uni%C3%A3o_Paulista"
+},
+{
+    "name": "Uchoa",
+    "state": "São Paulo",
+    "distance_to_the_capital": "426",
+    "total_population": "10394 hab.",
+    "total_area": "252,5km²",
+    "density": "41,2hab./km²",
+    "hdi": "0,75",
+    "url": "https://pt.wikipedia.org/wiki/Uchoa"
+},
+{
+    "name": "Ubirajara",
+    "state": "São Paulo",
+    "distance_to_the_capital": "400",
+    "total_population": "4429 hab.",
+    "total_area": "283,326km²",
+    "density": "15,6hab./km²",
+    "hdi": "0,764",
+    "url": "https://pt.wikipedia.org/wiki/Ubirajara"
+},
+{
+    "name": "Ubatuba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "223",
+    "total_population": "92819 hab.",
+    "total_area": "708,105km²",
+    "density": "131,1hab./km²",
+    "hdi": "0,751",
+    "url": "https://pt.wikipedia.org/wiki/Ubatuba"
+},
+{
+    "name": "Turmalina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "613",
+    "total_population": "1696 hab.",
+    "total_area": "147,797km²",
+    "density": "11,5hab./km²",
+    "hdi": "0,782",
+    "url": "https://pt.wikipedia.org/wiki/Turmalina_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Turiúba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "460",
+    "total_population": "2013 hab.",
+    "total_area": "153,085km²",
+    "density": "13,1hab./km²",
+    "hdi": "0,8",
+    "url": "https://pt.wikipedia.org/wiki/Turi%C3%BAba"
+},
+{
+    "name": "Tupi Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "673",
+    "total_population": "15404 hab.",
+    "total_area": "244,770km²",
+    "density": "62,9hab./km²",
+    "hdi": "0,769",
+    "url": "https://pt.wikipedia.org/wiki/Tupi_Paulista"
+},
+{
+    "name": "Tuiuti",
+    "state": "São Paulo",
+    "distance_to_the_capital": "100",
+    "total_population": "6977 hab.",
+    "total_area": "126,465km²",
+    "density": "55,2hab./km²",
+    "hdi": "0,728",
+    "url": "https://pt.wikipedia.org/wiki/Tuiuti_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Três Fronteiras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "621",
+    "total_population": "5832 hab.",
+    "total_area": "151,594km²",
+    "density": "38,5hab./km²",
+    "hdi": "0,761",
+    "url": "https://pt.wikipedia.org/wiki/Tr%C3%AAs_Fronteiras"
+},
+{
+    "name": "Tremembé",
+    "state": "São Paulo",
+    "distance_to_the_capital": "133",
+    "total_population": "51173 hab.",
+    "total_area": "191,094km²",
+    "density": "267,8hab./km²",
+    "hdi": "0,834",
+    "url": "https://pt.wikipedia.org/wiki/Trememb%C3%A9"
+},
+{
+    "name": "Trabiju",
+    "state": "São Paulo",
+    "distance_to_the_capital": "260",
+    "total_population": "1445 hab.",
+    "total_area": "63,378km²",
+    "density": "22,8hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/Trabiju"
+},
+{
+    "name": "Torrinha",
+    "state": "São Paulo",
+    "distance_to_the_capital": "239",
+    "total_population": "9935 hab.",
+    "total_area": "315,267km²",
+    "density": "29,61 hab./km²",
+    "hdi": "0,744",
+    "url": "https://pt.wikipedia.org/wiki/Torrinha"
+},
+{
+    "name": "Torre de Pedra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "167",
+    "total_population": "2422 hab.",
+    "total_area": "71,303km²",
+    "density": "34hab./km²",
+    "hdi": "0,777",
+    "url": "https://pt.wikipedia.org/wiki/Torre_de_Pedra"
+},
+{
+    "name": "Timburi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "364",
+    "total_population": "2646 hab.",
+    "total_area": "197,220km²",
+    "density": "13,4hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Timburi"
+},
+{
+    "name": "Tupã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "514",
+    "total_population": "75264 hab.",
+    "total_area": "628,51km²",
+    "density": "119,72 hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/Tup%C3%A3_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Tietê",
+    "state": "São Paulo",
+    "distance_to_the_capital": "121",
+    "total_population": "37663 hab.",
+    "total_area": "404,396km²",
+    "density": "93,1hab./km²",
+    "hdi": "0,778",
+    "url": "https://pt.wikipedia.org/wiki/Tiet%C3%AA"
+},
+{
+    "name": "Terra Roxa",
+    "state": "São Paulo",
+    "distance_to_the_capital": "422",
+    "total_population": "8505 hab.",
+    "total_area": "219,894km²",
+    "density": "38,7hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Terra_Roxa_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Teodoro Sampaio",
+    "state": "São Paulo",
+    "distance_to_the_capital": "660",
+    "total_population": "23273 hab.",
+    "total_area": "1556,670km²",
+    "density": "15hab./km²",
+    "hdi": "0,741",
+    "url": "https://pt.wikipedia.org/wiki/Teodoro_Sampaio_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Tejupá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "331",
+    "total_population": "4809 hab.",
+    "total_area": "296,343km²",
+    "density": "16,2hab./km²",
+    "hdi": "0,668",
+    "url": "https://pt.wikipedia.org/wiki/Tejup%C3%A1"
+},
+{
+    "name": "Taubaté",
+    "state": "São Paulo",
+    "distance_to_the_capital": "130",
+    "total_population": "321298 hab.",
+    "total_area": "625,003km²",
+    "density": "514,1hab./km²",
+    "hdi": "0,800",
+    "url": "https://pt.wikipedia.org/wiki/Taubat%C3%A9"
+},
+{
+    "name": "Tatuí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "131",
+    "total_population": "123942 hab.",
+    "total_area": "523,475km²",
+    "density": "236,8hab./km²",
+    "hdi": "0,794",
+    "url": "https://pt.wikipedia.org/wiki/Tatu%C3%AD"
+},
+{
+    "name": "Tarumã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "460",
+    "total_population": "15183 hab.",
+    "total_area": "303,503km²",
+    "density": "50hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/Tarum%C3%A3_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Tarabai",
+    "state": "São Paulo",
+    "distance_to_the_capital": "573",
+    "total_population": "7395 hab.",
+    "total_area": "201,385km²",
+    "density": "36,7hab./km²",
+    "hdi": "0,726",
+    "url": "https://pt.wikipedia.org/wiki/Tarabai"
+},
+{
+    "name": "Taquarivaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "280",
+    "total_population": "5149 hab.",
+    "total_area": "232,963km²",
+    "density": "22,1hab./km²",
+    "hdi": "0,702",
+    "url": "https://pt.wikipedia.org/wiki/Taquariva%C3%AD"
+},
+{
+    "name": "Taquarituba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "320",
+    "total_population": "24350 hab.",
+    "total_area": "447,085km²",
+    "density": "54,5hab./km²",
+    "hdi": "0,741",
+    "url": "https://pt.wikipedia.org/wiki/Taquarituba"
+},
+{
+    "name": "Taquaritinga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "333",
+    "total_population": "56645 hab.",
+    "total_area": "594,224km²",
+    "density": "95,3hab./km²",
+    "hdi": "0,748",
+    "url": "https://pt.wikipedia.org/wiki/Taquaritinga"
+},
+{
+    "name": "Taquaral",
+    "state": "São Paulo",
+    "distance_to_the_capital": "360",
+    "total_population": "2726 hab.",
+    "total_area": "53,208km²",
+    "density": "51,2hab./km²",
+    "hdi": "0,765",
+    "url": "https://pt.wikipedia.org/wiki/Taquaral"
+},
+{
+    "name": "Tapiratiba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "270",
+    "total_population": "12,950 hab.",
+    "total_area": "220,575km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,792",
+    "url": "https://pt.wikipedia.org/wiki/Tapiratiba"
+},
+{
+    "name": "Tapiraí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "135",
+    "total_population": "7850 hab.",
+    "total_area": "755,100km²",
+    "density": "10,4hab./km²",
+    "hdi": "0,681",
+    "url": "https://pt.wikipedia.org/wiki/Tapira%C3%AD_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Tanabi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "477",
+    "total_population": "25265 hab.",
+    "total_area": "745,8km²",
+    "density": "33,9hab./km²",
+    "hdi": "0,792",
+    "url": "https://pt.wikipedia.org/wiki/Tanabi"
+},
+{
+    "name": "Tambaú",
+    "state": "São Paulo",
+    "distance_to_the_capital": "270",
+    "total_population": "23255 hab.",
+    "total_area": "561,788km²",
+    "density": "41,4hab./km²",
+    "hdi": "0,731",
+    "url": "https://pt.wikipedia.org/wiki/Tamba%C3%BA"
+},
+{
+    "name": "Taiúva",
+    "state": "São Paulo",
+    "distance_to_the_capital": "364",
+    "total_population": "6548 hab.",
+    "total_area": "132,157km²",
+    "density": "49,5hab./km²",
+    "hdi": "0,789",
+    "url": "https://pt.wikipedia.org/wiki/Tai%C3%BAva"
+},
+{
+    "name": "Taiaçu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "372",
+    "total_population": "6320 hab.",
+    "total_area": "106,932km²",
+    "density": "59,1hab./km²",
+    "hdi": "0,751",
+    "url": "https://pt.wikipedia.org/wiki/Taia%C3%A7u"
+},
+{
+    "name": "Taguaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "350",
+    "total_population": "12669 hab.",
+    "total_area": "145,800km²",
+    "density": "86,9hab./km²",
+    "hdi": "0,812",
+    "url": "https://pt.wikipedia.org/wiki/Tagua%C3%AD"
+},
+{
+    "name": "Taciba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "541",
+    "total_population": "6260 hab.",
+    "total_area": "608,310km²",
+    "density": "10,3hab./km²",
+    "hdi": "0,723",
+    "url": "https://pt.wikipedia.org/wiki/Taciba"
+},
+{
+    "name": "Taboão da Serra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "285570 hab.",
+    "total_area": "20,478km²",
+    "density": "13945,2hab./km²",
+    "hdi": "0,769",
+    "url": "https://pt.wikipedia.org/wiki/Tabo%C3%A3o_da_Serra"
+},
+{
+    "name": "Tabatinga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "292",
+    "total_population": "15881 hab.",
+    "total_area": "366,456km²",
+    "density": "43,3hab./km²",
+    "hdi": "0,704",
+    "url": "https://pt.wikipedia.org/wiki/Tabatinga_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Tabapuã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "413",
+    "total_population": "12103 hab.",
+    "total_area": "345,6km²",
+    "density": "35hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/Tabapu%C3%A3"
+},
+{
+    "name": "Suzano",
+    "state": "São Paulo",
+    "distance_to_the_capital": "34",
+    "total_population": "307364 hab.",
+    "total_area": "206,236km²",
+    "density": "1490,4hab./km²",
+    "hdi": "0,765",
+    "url": "https://pt.wikipedia.org/wiki/Suzano"
+},
+{
+    "name": "Suzanápolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "641",
+    "total_population": "3383 hab.",
+    "total_area": "327,889km²",
+    "density": "10,3hab./km²",
+    "hdi": "0,743",
+    "url": "https://pt.wikipedia.org/wiki/Suzan%C3%A1polis"
+},
+{
+    "name": "Sumaré",
+    "state": "São Paulo",
+    "distance_to_the_capital": "126",
+    "total_population": "279545 hab.",
+    "total_area": "153,465km²",
+    "density": "1821,6hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Sumar%C3%A9"
+},
+{
+    "name": "Sud Mennucci",
+    "state": "São Paulo",
+    "distance_to_the_capital": "627",
+    "total_population": "7708 hab.",
+    "total_area": "590,682km²",
+    "density": "13hab./km²",
+    "hdi": "0,779",
+    "url": "https://pt.wikipedia.org/wiki/Sud_Mennucci_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Socorro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "135",
+    "total_population": "41352 hab.",
+    "total_area": "448,074km²",
+    "density": "92,3hab./km²",
+    "hdi": "0,729",
+    "url": "https://pt.wikipedia.org/wiki/Socorro_(munic%C3%ADpio)"
+},
+{
+    "name": "Silveiras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "231",
+    "total_population": "6302 hab.",
+    "total_area": "414,782km²",
+    "density": "15,2hab./km²",
+    "hdi": "0,721",
+    "url": "https://pt.wikipedia.org/wiki/Silveiras_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Severínia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "431",
+    "total_population": "14576 hab.",
+    "total_area": "140,4km²",
+    "density": "103,8hab./km²",
+    "hdi": "0,715",
+    "url": "https://pt.wikipedia.org/wiki/Sever%C3%ADnia"
+},
+{
+    "name": "Sete Barras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "200",
+    "total_population": "12,730 hab.",
+    "total_area": "1062,699km²",
+    "density": "0hab./km²",
+    "hdi": "0,673",
+    "url": "https://pt.wikipedia.org/wiki/Sete_Barras"
+},
+{
+    "name": "Sorocaba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "87",
+    "total_population": "723682 hab.",
+    "total_area": "450,382km²",
+    "density": "1606,8hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Sorocaba"
+},
+{
+    "name": "Sertãozinho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "335",
+    "total_population": "131600 hab.",
+    "total_area": "403,089km²",
+    "density": "326,5hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Sert%C3%A3ozinho_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Serrana",
+    "state": "São Paulo",
+    "distance_to_the_capital": "315",
+    "total_population": "45408 hab.",
+    "total_area": "125,744km²",
+    "density": "361,1hab./km²",
+    "hdi": "0,729",
+    "url": "https://pt.wikipedia.org/wiki/Serrana"
+},
+{
+    "name": "Serra Negra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "142",
+    "total_population": "29894 hab.",
+    "total_area": "203,734km²",
+    "density": "146,7hab./km²",
+    "hdi": "0,767",
+    "url": "https://pt.wikipedia.org/wiki/Serra_Negra_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Serra Azul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "303",
+    "total_population": "11259 hab.",
+    "total_area": "283,144km²",
+    "density": "39,8hab./km²",
+    "hdi": "0,686",
+    "url": "https://pt.wikipedia.org/wiki/Serra_Azul"
+},
+{
+    "name": "Sebastianópolis do Sul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "504",
+    "total_population": "3031 hab.",
+    "total_area": "162,9km²",
+    "density": "18,6hab./km²",
+    "hdi": "0,769",
+    "url": "https://pt.wikipedia.org/wiki/Sebastian%C3%B3polis_do_Sul"
+},
+{
+    "name": "Sarutaiá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "326",
+    "total_population": "3622 hab.",
+    "total_area": "141,511km²",
+    "density": "25,6hab./km²",
+    "hdi": "0,719",
+    "url": "https://pt.wikipedia.org/wiki/Sarutai%C3%A1"
+},
+{
+    "name": "Sarapuí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "150",
+    "total_population": "10390 hab.",
+    "total_area": "354,463km²",
+    "density": "29,3hab./km²",
+    "hdi": "0,756",
+    "url": "https://pt.wikipedia.org/wiki/Sarapu%C3%AD"
+},
+{
+    "name": "São Vicente",
+    "state": "São Paulo",
+    "distance_to_the_capital": "70",
+    "total_population": "329911 hab.",
+    "total_area": "148,151km²",
+    "density": "2226,9hab./km²",
+    "hdi": "0,768",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Vicente_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "São Simão",
+    "state": "São Paulo",
+    "distance_to_the_capital": "300",
+    "total_population": "14350 hab.",
+    "total_area": "617,964km²",
+    "density": "23,2hab./km²",
+    "hdi": "0,766",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Sim%C3%A3o_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "São Sebastião da Grama",
+    "state": "São Paulo",
+    "distance_to_the_capital": "270",
+    "total_population": "12100 hab.",
+    "total_area": "252,181km²",
+    "density": "48hab./km²",
+    "hdi": "0,778",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_da_Grama"
+},
+{
+    "name": "São Sebastião",
+    "state": "São Paulo",
+    "distance_to_the_capital": "197",
+    "total_population": "81595 hab.",
+    "total_area": "402,395km²",
+    "density": "202,8hab./km²",
+    "hdi": "0,772",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Sebasti%C3%A3o_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "São Roque",
+    "state": "São Paulo",
+    "distance_to_the_capital": "62",
+    "total_population": "92060 hab.",
+    "total_area": "307,553km²",
+    "density": "299,3hab./km²",
+    "hdi": "0,802",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Roque_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "São Pedro do Turvo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "390",
+    "total_population": "7214 hab.",
+    "total_area": "731,221km²",
+    "density": "9,9hab./km²",
+    "hdi": "0,756",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro_do_Turvo"
+},
+{
+    "name": "São Pedro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "191",
+    "total_population": "33966 hab.",
+    "total_area": "609,091km²",
+    "density": "55,8hab./km²",
+    "hdi": "0,785",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Pedro_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "São Miguel Arcanjo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "180",
+    "total_population": "32039 hab.",
+    "total_area": "930,012km²",
+    "density": "34,5hab./km²",
+    "hdi": "0,770",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Miguel_Arcanjo_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "São Manuel",
+    "state": "São Paulo",
+    "distance_to_the_capital": "268",
+    "total_population": "42200 hab.",
+    "total_area": "650,734km²",
+    "density": "58,92 hab./km²",
+    "hdi": "0778",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Manuel"
+},
+{
+    "name": "São Luiz do Paraitinga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "171",
+    "total_population": "10693 hab.",
+    "total_area": "617,315km²",
+    "density": "17,3hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Luiz_do_Paraitinga"
+},
+{
+    "name": "São Lourenço da Serra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "52",
+    "total_population": "15978 hab.",
+    "total_area": "186,456km²",
+    "density": "85,7hab./km²",
+    "hdi": "0,728",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Louren%C3%A7o_da_Serra"
+},
+{
+    "name": "São José dos Campos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "86",
+    "total_population": "697428 hab.",
+    "total_area": "1099,409km²",
+    "density": "634,4hab./km²",
+    "hdi": "0,807",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_dos_Campos"
+},
+{
+    "name": "São José do Rio Preto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "445",
+    "total_population": "501597 hab.",
+    "total_area": "431,944km²",
+    "density": "1161,3hab./km²",
+    "hdi": "0,797",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Rio_Preto"
+},
+{
+    "name": "São Paulo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "1015",
+    "total_population": "11451999 hab.",
+    "total_area": "1521,202km²",
+    "density": "7528,3hab./km²",
+    "hdi": "0,805",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Paulo"
+},
+{
+    "name": "São José do Barreiro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "268",
+    "total_population": "4147 hab.",
+    "total_area": "570,685km²",
+    "density": "7,3hab./km²",
+    "hdi": "0,727",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Barreiro"
+},
+{
+    "name": "São José da Bela Vista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "360",
+    "total_population": "8885 hab.",
+    "total_area": "276,964km²",
+    "density": "32,1hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_da_Bela_Vista"
+},
+{
+    "name": "São Joaquim da Barra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "396",
+    "total_population": "52737 hab.",
+    "total_area": "412,271km²",
+    "density": "127,9hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Joaquim_da_Barra"
+},
+{
+    "name": "São João do Pau-d'Alho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "695",
+    "total_population": "2132 hab.",
+    "total_area": "117,665km²",
+    "density": "18,1hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_do_Pau-d%27Alho"
+},
+{
+    "name": "São José do Rio Pardo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "257",
+    "total_population": "54763 hab.",
+    "total_area": "419,017km²",
+    "density": "130,7hab./km²",
+    "hdi": "0,815",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jos%C3%A9_do_Rio_Pardo"
+},
+{
+    "name": "São João das Duas Pontes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "2566 hab.",
+    "total_area": "129,3km²",
+    "density": "19,8hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_das_Duas_Pontes"
+},
+{
+    "name": "São João de Iracema",
+    "state": "São Paulo",
+    "distance_to_the_capital": "570",
+    "total_population": "2083 hab.",
+    "total_area": "178,6km²",
+    "density": "11,7hab./km²",
+    "hdi": "0,761",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_de_Iracema"
+},
+{
+    "name": "Santópolis do Aguapeí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "521",
+    "total_population": "4817 hab.",
+    "total_area": "128,026km²",
+    "density": "37,6hab./km²",
+    "hdi": "0,774",
+    "url": "https://pt.wikipedia.org/wiki/Sant%C3%B3polis_do_Aguape%C3%AD"
+},
+{
+    "name": "São João da Boa Vista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "218",
+    "total_population": "92,547 hab.",
+    "total_area": "516,399km²",
+    "density": "0,2hab./km²",
+    "hdi": "0,797",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_da_Boa_Vista"
+},
+{
+    "name": "São Francisco",
+    "state": "São Paulo",
+    "distance_to_the_capital": "608",
+    "total_population": "2793 hab.",
+    "total_area": "75,6km²",
+    "density": "36,9hab./km²",
+    "hdi": "0,758",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Francisco_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "São Bento do Sapucaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "209",
+    "total_population": "11674 hab.",
+    "total_area": "252,579km²",
+    "density": "46,2hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Bento_do_Sapuca%C3%AD"
+},
+{
+    "name": "São Caetano do Sul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "13",
+    "total_population": "161127 hab.",
+    "total_area": "15,331km²",
+    "density": "10509,9hab./km²",
+    "hdi": "0,862",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Caetano_do_Sul"
+},
+{
+    "name": "Santos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "77",
+    "total_population": "418608 hab.",
+    "total_area": "280,674km²",
+    "density": "1491,4hab./km²",
+    "hdi": "0,840",
+    "url": "https://pt.wikipedia.org/wiki/Santos"
+},
+{
+    "name": "São Bernardo do Campo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "22",
+    "total_population": "810729 hab.",
+    "total_area": "409,532km²",
+    "density": "1979,6hab./km²",
+    "hdi": "0,805",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Bernardo_do_Campo"
+},
+{
+    "name": "São Carlos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "231",
+    "total_population": "265294 hab.",
+    "total_area": "1136,907km²",
+    "density": "233,3hab./km²",
+    "hdi": "0,805",
+    "url": "https://pt.wikipedia.org/wiki/S%C3%A3o_Carlos_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Santo Expedito",
+    "state": "São Paulo",
+    "distance_to_the_capital": "600",
+    "total_population": "3035 hab.",
+    "total_area": "93,913km²",
+    "density": "32,3hab./km²",
+    "hdi": "0,785",
+    "url": "https://pt.wikipedia.org/wiki/Santo_Expedito_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Santo Antônio do Pinhal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "173",
+    "total_population": "7133 hab.",
+    "total_area": "133,008km²",
+    "density": "53,6hab./km²",
+    "hdi": "0,706",
+    "url": "https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Pinhal"
+},
+{
+    "name": "Santo Antônio do Jardim",
+    "state": "São Paulo",
+    "distance_to_the_capital": "200",
+    "total_population": "5943 hab.",
+    "total_area": "109,956km²",
+    "density": "54hab./km²",
+    "hdi": "",
+    "url": "https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Jardim"
+},
+{
+    "name": "Santo Antônio do Aracanguá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "538",
+    "total_population": "7627 hab.",
+    "total_area": "1306,082km²",
+    "density": "5,8hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_do_Aracangu%C3%A1"
+},
+{
+    "name": "Santo Antônio de Posse",
+    "state": "São Paulo",
+    "distance_to_the_capital": "149",
+    "total_population": "23244 hab.",
+    "total_area": "154,113km²",
+    "density": "150,8hab./km²",
+    "hdi": "0,79",
+    "url": "https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_de_Posse"
+},
+{
+    "name": "Santo Antônio da Alegria",
+    "state": "São Paulo",
+    "distance_to_the_capital": "393",
+    "total_population": "6304 hab.",
+    "total_area": "310,291km²",
+    "density": "20,3hab./km²",
+    "hdi": "0,702",
+    "url": "https://pt.wikipedia.org/wiki/Santo_Ant%C3%B4nio_da_Alegria"
+},
+{
+    "name": "Santo Anastácio",
+    "state": "São Paulo",
+    "distance_to_the_capital": "600",
+    "total_population": "20475 hab.",
+    "total_area": "552,876km²",
+    "density": "37hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/Santo_Anast%C3%A1cio_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Santana de Parnaíba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "42",
+    "total_population": "145073 hab.",
+    "total_area": "179,949km²",
+    "density": "806,2hab./km²",
+    "hdi": "0,814",
+    "url": "https://pt.wikipedia.org/wiki/Santana_de_Parna%C3%ADba"
+},
+{
+    "name": "Santana da Ponte Pensa",
+    "state": "São Paulo",
+    "distance_to_the_capital": "629",
+    "total_population": "1467 hab.",
+    "total_area": "129,888km²",
+    "density": "11,3hab./km²",
+    "hdi": "0,773",
+    "url": "https://pt.wikipedia.org/wiki/Santana_da_Ponte_Pensa"
+},
+{
+    "name": "Santa Salete",
+    "state": "São Paulo",
+    "distance_to_the_capital": "602",
+    "total_population": "1552 hab.",
+    "total_area": "79,192km²",
+    "density": "19,6hab./km²",
+    "hdi": "0,772",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Salete"
+},
+{
+    "name": "Santa Rosa de Viterbo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "310",
+    "total_population": "25720 hab.",
+    "total_area": "289,669km²",
+    "density": "88,8hab./km²",
+    "hdi": "0,770",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Rosa_de_Viterbo_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Santa Rita d'Oeste",
+    "state": "São Paulo",
+    "distance_to_the_capital": "645",
+    "total_population": "2733 hab.",
+    "total_area": "209,800km²",
+    "density": "13hab./km²",
+    "hdi": "0,761",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Rita_d%27Oeste"
+},
+{
+    "name": "Santo André",
+    "state": "São Paulo",
+    "distance_to_the_capital": "22",
+    "total_population": "748919 hab.",
+    "total_area": "175,782km²",
+    "density": "4260,5hab./km²",
+    "hdi": "0,815",
+    "url": "https://pt.wikipedia.org/wiki/Santo_Andr%C3%A9_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Santa Rita do Passa Quatro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "253",
+    "total_population": "27641 hab.",
+    "total_area": "754,141km²",
+    "density": "36,7hab./km²",
+    "hdi": "0,775",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Rita_do_Passa_Quatro"
+},
+{
+    "name": "Santa Mercedes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "686",
+    "total_population": "2945 hab.",
+    "total_area": "166,753km²",
+    "density": "17,7hab./km²",
+    "hdi": "0,741",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Mercedes"
+},
+{
+    "name": "Santa Maria da Serra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "218",
+    "total_population": "6173 hab.",
+    "total_area": "252,621km²",
+    "density": "24,4hab./km²",
+    "hdi": "0,68",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Maria_da_Serra"
+},
+{
+    "name": "Santa Lúcia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "8723 hab.",
+    "total_area": "152,314km²",
+    "density": "57,3hab./km²",
+    "hdi": "0,782",
+    "url": "https://pt.wikipedia.org/wiki/Santa_L%C3%BAcia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Santa Gertrudes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "167",
+    "total_population": "30132 hab.",
+    "total_area": "97,694km²",
+    "density": "308,4hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Gertrudes_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Santa Isabel",
+    "state": "São Paulo",
+    "distance_to_the_capital": "57",
+    "total_population": "57966 hab.",
+    "total_area": "363,332km²",
+    "density": "159,5hab./km²",
+    "hdi": "0,738",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Isabel_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Santa Fé do Sul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "626",
+    "total_population": "34794 hab.",
+    "total_area": "208,245km²",
+    "density": "167,1hab./km²",
+    "hdi": "0,784",
+    "url": "https://pt.wikipedia.org/wiki/Santa_F%C3%A9_do_Sul"
+},
+{
+    "name": "Santa Cruz das Palmeiras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "250",
+    "total_population": "28864 hab.",
+    "total_area": "295,698km²",
+    "density": "97,6hab./km²",
+    "hdi": "0,728",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Cruz_das_Palmeiras"
+},
+{
+    "name": "Santa Cruz da Conceição",
+    "state": "São Paulo",
+    "distance_to_the_capital": "215",
+    "total_population": "5100 hab.",
+    "total_area": "149,432km²",
+    "density": "34,1hab./km²",
+    "hdi": "0,79",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Cruz_da_Concei%C3%A7%C3%A3o"
+},
+{
+    "name": "Santa Cruz do Rio Pardo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "345",
+    "total_population": "46442 hab.",
+    "total_area": "1114,984km²",
+    "density": "41,7hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Cruz_do_Rio_Pardo"
+},
+{
+    "name": "Santa Ernestina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "324",
+    "total_population": "6,118 hab.",
+    "total_area": "134,421km²",
+    "density": "0hab./km²",
+    "hdi": "0,738",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Ernestina"
+},
+{
+    "name": "Santa Cruz da Esperança",
+    "state": "São Paulo",
+    "distance_to_the_capital": "370",
+    "total_population": "2463 hab.",
+    "total_area": "147,819km²",
+    "density": "16,7hab./km²",
+    "hdi": "0,794",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Cruz_da_Esperan%C3%A7a"
+},
+{
+    "name": "Santa Clara d'Oeste",
+    "state": "São Paulo",
+    "distance_to_the_capital": "653",
+    "total_population": "2113 hab.",
+    "total_area": "183,458km²",
+    "density": "11,5hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Clara_d%27Oeste"
+},
+{
+    "name": "Santa Branca",
+    "state": "São Paulo",
+    "distance_to_the_capital": "91",
+    "total_population": "14925 hab.",
+    "total_area": "272,238km²",
+    "density": "54,8hab./km²",
+    "hdi": "0,796",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Branca"
+},
+{
+    "name": "Santa Albertina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "630",
+    "total_population": "6022 hab.",
+    "total_area": "272,692km²",
+    "density": "22,1hab./km²",
+    "hdi": "0,784",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Albertina"
+},
+{
+    "name": "Santa Bárbara d'Oeste",
+    "state": "São Paulo",
+    "distance_to_the_capital": "138",
+    "total_population": "194390 hab.",
+    "total_area": "271,492km²",
+    "density": "716hab./km²",
+    "hdi": "0,781",
+    "url": "https://pt.wikipedia.org/wiki/Santa_B%C3%A1rbara_d%27Oeste"
+},
+{
+    "name": "Sandovalina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "541",
+    "total_population": "3699 hab.",
+    "total_area": "455,393km²",
+    "density": "8,1hab./km²",
+    "hdi": "0,773",
+    "url": "https://pt.wikipedia.org/wiki/Sandovalina"
+},
+{
+    "name": "Salto de Pirapora",
+    "state": "São Paulo",
+    "distance_to_the_capital": "121",
+    "total_population": "43574 hab.",
+    "total_area": "280,697km²",
+    "density": "155,2hab./km²",
+    "hdi": "0,729",
+    "url": "https://pt.wikipedia.org/wiki/Salto_de_Pirapora"
+},
+{
+    "name": "Santa Adélia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "371",
+    "total_population": "14333 hab.",
+    "total_area": "330,9km²",
+    "density": "43,3hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Santa_Ad%C3%A9lia"
+},
+{
+    "name": "Salto Grande",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "9050 hab.",
+    "total_area": "188,441km²",
+    "density": "48hab./km²",
+    "hdi": "0,704",
+    "url": "https://pt.wikipedia.org/wiki/Salto_Grande"
+},
+{
+    "name": "Salmourão",
+    "state": "São Paulo",
+    "distance_to_the_capital": "593",
+    "total_population": "5187 hab.",
+    "total_area": "172,745km²",
+    "density": "30hab./km²",
+    "hdi": "0,719",
+    "url": "https://pt.wikipedia.org/wiki/Salmour%C3%A3o"
+},
+{
+    "name": "Salesópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "98",
+    "total_population": "17252 hab.",
+    "total_area": "424,997km²",
+    "density": "40,6hab./km²",
+    "hdi": "0,732",
+    "url": "https://pt.wikipedia.org/wiki/Sales%C3%B3polis"
+},
+{
+    "name": "Saltinho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "180",
+    "total_population": "8393 hab.",
+    "total_area": "101,404km²",
+    "density": "82,8hab./km²",
+    "hdi": "0,791",
+    "url": "https://pt.wikipedia.org/wiki/Saltinho_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Salto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "105",
+    "total_population": "141,989 hab.",
+    "total_area": "134,258km²",
+    "density": "1,1hab./km²",
+    "hdi": "0,809",
+    "url": "https://pt.wikipedia.org/wiki/Salto_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Sales Oliveira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "381",
+    "total_population": "11411 hab.",
+    "total_area": "303,752km²",
+    "density": "37,6hab./km²",
+    "hdi": "0,772",
+    "url": "https://pt.wikipedia.org/wiki/Sales_Oliveira"
+},
+{
+    "name": "Sales",
+    "state": "São Paulo",
+    "distance_to_the_capital": "456",
+    "total_population": "6437 hab.",
+    "total_area": "308,5km²",
+    "density": "20,9hab./km²",
+    "hdi": "0,77",
+    "url": "https://pt.wikipedia.org/wiki/Sales_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Sagres",
+    "state": "São Paulo",
+    "distance_to_the_capital": "591",
+    "total_population": "2454 hab.",
+    "total_area": "148,931km²",
+    "density": "16,5hab./km²",
+    "hdi": "0,723",
+    "url": "https://pt.wikipedia.org/wiki/Sagres_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Sabino",
+    "state": "São Paulo",
+    "distance_to_the_capital": "466",
+    "total_population": "5226 hab.",
+    "total_area": "311,663km²",
+    "density": "16,8hab./km²",
+    "hdi": "0,792",
+    "url": "https://pt.wikipedia.org/wiki/Sabino"
+},
+{
+    "name": "Rubinéia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "648",
+    "total_population": "3170 hab.",
+    "total_area": "242,877km²",
+    "density": "13,1hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Rubin%C3%A9ia"
+},
+{
+    "name": "Rubiácea",
+    "state": "São Paulo",
+    "distance_to_the_capital": "490",
+    "total_population": "2729 hab.",
+    "total_area": "236,907km²",
+    "density": "11,5hab./km²",
+    "hdi": "0,781",
+    "url": "https://pt.wikipedia.org/wiki/Rubi%C3%A1cea_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Roseira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "155",
+    "total_population": "10,712 hab.",
+    "total_area": "130,654km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,777",
+    "url": "https://pt.wikipedia.org/wiki/Roseira"
+},
+{
+    "name": "Rosana",
+    "state": "São Paulo",
+    "distance_to_the_capital": "755",
+    "total_population": "19691 hab.",
+    "total_area": "741,216km²",
+    "density": "26,6hab./km²",
+    "hdi": "0,815",
+    "url": "https://pt.wikipedia.org/wiki/Rosana"
+},
+{
+    "name": "Riversul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "380",
+    "total_population": "6163 hab.",
+    "total_area": "386,195km²",
+    "density": "16hab./km²",
+    "hdi": "0,664",
+    "url": "https://pt.wikipedia.org/wiki/Riversul"
+},
+{
+    "name": "Riolândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "572",
+    "total_population": "11429 hab.",
+    "total_area": "633,4km²",
+    "density": "18hab./km²",
+    "hdi": "0,737",
+    "url": "https://pt.wikipedia.org/wiki/Riol%C3%A2ndia"
+},
+{
+    "name": "Rio Grande da Serra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "49",
+    "total_population": "52009 hab.",
+    "total_area": "36,671km²",
+    "density": "1418,3hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Rio_Grande_da_Serra"
+},
+{
+    "name": "Rio das Pedras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "172",
+    "total_population": "35738 hab.",
+    "total_area": "226,939km²",
+    "density": "157,5hab./km²",
+    "hdi": "0,791",
+    "url": "https://pt.wikipedia.org/wiki/Rio_das_Pedras"
+},
+{
+    "name": "Rio Claro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "173",
+    "total_population": "201418 hab.",
+    "total_area": "498,422km²",
+    "density": "404,1hab./km²",
+    "hdi": "0,803",
+    "url": "https://pt.wikipedia.org/wiki/Rio_Claro_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Rinópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "525",
+    "total_population": "9,259 hab.",
+    "total_area": "358,500km²",
+    "density": "0hab./km²",
+    "hdi": "0723",
+    "url": "https://pt.wikipedia.org/wiki/Rin%C3%B3polis"
+},
+{
+    "name": "Rincão",
+    "state": "São Paulo",
+    "distance_to_the_capital": "270",
+    "total_population": "9098 hab.",
+    "total_area": "316,639km²",
+    "density": "28,7hab./km²",
+    "hdi": "0,734",
+    "url": "https://pt.wikipedia.org/wiki/Rinc%C3%A3o"
+},
+{
+    "name": "Rifaina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "4049 hab.",
+    "total_area": "171,583km²",
+    "density": "23,6hab./km²",
+    "hdi": "0,740",
+    "url": "https://pt.wikipedia.org/wiki/Rifaina"
+},
+{
+    "name": "Ribeirão Pires",
+    "state": "São Paulo",
+    "distance_to_the_capital": "35",
+    "total_population": "125238 hab.",
+    "total_area": "99,175km²",
+    "density": "1262,8hab./km²",
+    "hdi": "0,784",
+    "url": "https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Pires"
+},
+{
+    "name": "Ribeirão Grande",
+    "state": "São Paulo",
+    "distance_to_the_capital": "230",
+    "total_population": "7450 hab.",
+    "total_area": "332,071km²",
+    "density": "22,4hab./km²",
+    "hdi": "0,705",
+    "url": "https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Grande"
+},
+{
+    "name": "Ribeirão dos Índios",
+    "state": "São Paulo",
+    "distance_to_the_capital": "630",
+    "total_population": "2187 hab.",
+    "total_area": "196,991km²",
+    "density": "11,1hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_dos_%C3%8Dndios"
+},
+{
+    "name": "Ribeirão do Sul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "400",
+    "total_population": "4574 hab.",
+    "total_area": "203,356km²",
+    "density": "22,5hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_do_Sul"
+},
+{
+    "name": "Ribeirão Corrente",
+    "state": "São Paulo",
+    "distance_to_the_capital": "426",
+    "total_population": "4273 hab.",
+    "total_area": "150,456km²",
+    "density": "28,4hab./km²",
+    "hdi": "0,751",
+    "url": "https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Corrente"
+},
+{
+    "name": "Ribeirão Branco",
+    "state": "São Paulo",
+    "distance_to_the_capital": "310",
+    "total_population": "18627 hab.",
+    "total_area": "697,5km²",
+    "density": "26,7hab./km²",
+    "hdi": "0,639",
+    "url": "https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Branco"
+},
+{
+    "name": "Ribeirão Bonito",
+    "state": "São Paulo",
+    "distance_to_the_capital": "270",
+    "total_population": "12831 hab.",
+    "total_area": "471,498km²",
+    "density": "27,2hab./km²",
+    "hdi": "0,781",
+    "url": "https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Bonito"
+},
+{
+    "name": "Ribeirão Preto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "315",
+    "total_population": "728400 hab.",
+    "total_area": "650,916km²",
+    "density": "1119hab./km²",
+    "hdi": "0,800",
+    "url": "https://pt.wikipedia.org/wiki/Ribeir%C3%A3o_Preto"
+},
+{
+    "name": "Ribeira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "354",
+    "total_population": "3358 hab.",
+    "total_area": "335,029km²",
+    "density": "10hab./km²",
+    "hdi": "0,678",
+    "url": "https://pt.wikipedia.org/wiki/Ribeira_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Restinga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "415",
+    "total_population": "6404 hab.",
+    "total_area": "245,599km²",
+    "density": "26,1hab./km²",
+    "hdi": "0,757",
+    "url": "https://pt.wikipedia.org/wiki/Restinga_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Registro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "189",
+    "total_population": "56322 hab.",
+    "total_area": "722,411km²",
+    "density": "78hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/Registro_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Rancharia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "520",
+    "total_population": "29305 hab.",
+    "total_area": "1587,498km²",
+    "density": "18,5hab./km²",
+    "hdi": "0,751",
+    "url": "https://pt.wikipedia.org/wiki/Rancharia"
+},
+{
+    "name": "Rafard",
+    "state": "São Paulo",
+    "distance_to_the_capital": "142",
+    "total_population": "9004 hab.",
+    "total_area": "132,471km²",
+    "density": "68hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/Rafard"
+},
+{
+    "name": "Quintana",
+    "state": "São Paulo",
+    "distance_to_the_capital": "495",
+    "total_population": "7038 hab.",
+    "total_area": "318,937km²",
+    "density": "22,1hab./km²",
+    "hdi": "0,732",
+    "url": "https://pt.wikipedia.org/wiki/Quintana"
+},
+{
+    "name": "Queluz",
+    "state": "São Paulo",
+    "distance_to_the_capital": "220",
+    "total_population": "9159 hab.",
+    "total_area": "249,399km²",
+    "density": "36,7hab./km²",
+    "hdi": "0,722",
+    "url": "https://pt.wikipedia.org/wiki/Queluz_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Queiroz",
+    "state": "São Paulo",
+    "distance_to_the_capital": "543",
+    "total_population": "2808 hab.",
+    "total_area": "235,496km²",
+    "density": "11,9hab./km²",
+    "hdi": "0,73",
+    "url": "https://pt.wikipedia.org/wiki/Queiroz"
+},
+{
+    "name": "Regente Feijó",
+    "state": "São Paulo",
+    "distance_to_the_capital": "547",
+    "total_population": "22,00 hab.",
+    "total_area": "265,087km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,797",
+    "url": "https://pt.wikipedia.org/wiki/Regente_Feij%C3%B3_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Reginópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "325",
+    "total_population": "9042 hab.",
+    "total_area": "409,914km²",
+    "density": "22,1hab./km²",
+    "hdi": "0,763",
+    "url": "https://pt.wikipedia.org/wiki/Regin%C3%B3polis"
+},
+{
+    "name": "Redenção da Serra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "165",
+    "total_population": "4,494 hab.",
+    "total_area": "309,441km²",
+    "density": "0hab./km²",
+    "hdi": "0,736",
+    "url": "https://pt.wikipedia.org/wiki/Reden%C3%A7%C3%A3o_da_Serra"
+},
+{
+    "name": "Quatá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "498",
+    "total_population": "12828 hab.",
+    "total_area": "652,744km²",
+    "density": "19,7hab./km²",
+    "hdi": "0,792",
+    "url": "https://pt.wikipedia.org/wiki/Quat%C3%A1"
+},
+{
+    "name": "Quadra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "161",
+    "total_population": "3,854 hab.",
+    "total_area": "205,033km²",
+    "density": "0hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/Quadra_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Promissão",
+    "state": "São Paulo",
+    "distance_to_the_capital": "451",
+    "total_population": "41211 hab.",
+    "total_area": "781,5km²",
+    "density": "52,7hab./km²",
+    "hdi": "0,817",
+    "url": "https://pt.wikipedia.org/wiki/Promiss%C3%A3o"
+},
+{
+    "name": "Presidente Venceslau",
+    "state": "São Paulo",
+    "distance_to_the_capital": "565",
+    "total_population": "39,583 hab.",
+    "total_area": "755,010km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,818",
+    "url": "https://pt.wikipedia.org/wiki/Presidente_Venceslau"
+},
+{
+    "name": "Presidente Epitácio",
+    "state": "São Paulo",
+    "distance_to_the_capital": "647",
+    "total_population": "44200 hab.",
+    "total_area": "1281,779km²",
+    "density": "34,5hab./km²",
+    "hdi": "0,750",
+    "url": "https://pt.wikipedia.org/wiki/Presidente_Epit%C3%A1cio"
+},
+{
+    "name": "Presidente Bernardes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "578",
+    "total_population": "13494 hab.",
+    "total_area": "749,234km²",
+    "density": "18hab./km²",
+    "hdi": "0,79",
+    "url": "https://pt.wikipedia.org/wiki/Presidente_Bernardes_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Presidente Alves",
+    "state": "São Paulo",
+    "distance_to_the_capital": "382",
+    "total_population": "4167 hab.",
+    "total_area": "288,570km²",
+    "density": "14,4hab./km²",
+    "hdi": "0,763",
+    "url": "https://pt.wikipedia.org/wiki/Presidente_Alves"
+},
+{
+    "name": "Presidente Prudente",
+    "state": "São Paulo",
+    "distance_to_the_capital": "558",
+    "total_population": "234083 hab.",
+    "total_area": "562,794km²",
+    "density": "415,9hab./km²",
+    "hdi": "0,806",
+    "url": "https://pt.wikipedia.org/wiki/Presidente_Prudente"
+},
+{
+    "name": "Pratânia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "272",
+    "total_population": "4599 hab.",
+    "total_area": "179,817km²",
+    "density": "25,6hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/Prat%C3%A2nia"
+},
+{
+    "name": "Praia Grande",
+    "state": "São Paulo",
+    "distance_to_the_capital": "72",
+    "total_population": "365577 hab.",
+    "total_area": "149,652km²",
+    "density": "2442,8hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/Praia_Grande_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Pradópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "318",
+    "total_population": "17078 hab.",
+    "total_area": "167,202km²",
+    "density": "102,1hab./km²",
+    "hdi": "0,733",
+    "url": "https://pt.wikipedia.org/wiki/Prad%C3%B3polis"
+},
+{
+    "name": "Pracinha",
+    "state": "São Paulo",
+    "distance_to_the_capital": "500",
+    "total_population": "3659 hab.",
+    "total_area": "63,047km²",
+    "density": "58hab./km²",
+    "hdi": "0,744",
+    "url": "https://pt.wikipedia.org/wiki/Pracinha_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Potirendaba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "440",
+    "total_population": "18496 hab.",
+    "total_area": "342,4km²",
+    "density": "54hab./km²",
+    "hdi": "0,805",
+    "url": "https://pt.wikipedia.org/wiki/Potirendaba"
+},
+{
+    "name": "Potim",
+    "state": "São Paulo",
+    "distance_to_the_capital": "167",
+    "total_population": "24643 hab.",
+    "total_area": "44,468km²",
+    "density": "554,2hab./km²",
+    "hdi": "0,697",
+    "url": "https://pt.wikipedia.org/wiki/Potim"
+},
+{
+    "name": "Porto Ferreira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "227",
+    "total_population": "52649 hab.",
+    "total_area": "243,906km²",
+    "density": "215,9hab./km²",
+    "hdi": "0,751",
+    "url": "https://pt.wikipedia.org/wiki/Porto_Ferreira"
+},
+{
+    "name": "Porto Feliz",
+    "state": "São Paulo",
+    "distance_to_the_capital": "112",
+    "total_population": "52785 hab.",
+    "total_area": "556,706km²",
+    "density": "94,8hab./km²",
+    "hdi": "0,758",
+    "url": "https://pt.wikipedia.org/wiki/Porto_Feliz"
+},
+{
+    "name": "Porangaba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "168",
+    "total_population": "10067 hab.",
+    "total_area": "266,565km²",
+    "density": "37,8hab./km²",
+    "hdi": "0,768",
+    "url": "https://pt.wikipedia.org/wiki/Porangaba"
+},
+{
+    "name": "Populina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "625",
+    "total_population": "4223 hab.",
+    "total_area": "315,9km²",
+    "density": "13,4hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/Populina"
+},
+{
+    "name": "Pontes Gestal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "553",
+    "total_population": "2518 hab.",
+    "total_area": "217,4km²",
+    "density": "11,6hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Pontes_Gestal"
+},
+{
+    "name": "Pontalinda",
+    "state": "São Paulo",
+    "distance_to_the_capital": "585",
+    "total_population": "4074 hab.",
+    "total_area": "210,2km²",
+    "density": "19,4hab./km²",
+    "hdi": "0,731",
+    "url": "https://pt.wikipedia.org/wiki/Pontalinda"
+},
+{
+    "name": "Pontal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "357",
+    "total_population": "37607 hab.",
+    "total_area": "356,371km²",
+    "density": "105,5hab./km²",
+    "hdi": "0,725",
+    "url": "https://pt.wikipedia.org/wiki/Pontal"
+},
+{
+    "name": "Pongaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "3432 hab.",
+    "total_area": "183,382km²",
+    "density": "18,7hab./km²",
+    "hdi": "0,794",
+    "url": "https://pt.wikipedia.org/wiki/Ponga%C3%AD"
+},
+{
+    "name": "Pompeia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "474",
+    "total_population": "21850 hab.",
+    "total_area": "784,674km²",
+    "density": "27,8hab./km²",
+    "hdi": "0,786",
+    "url": "https://pt.wikipedia.org/wiki/Pompeia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Poá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "34",
+    "total_population": "103765 hab.",
+    "total_area": "17,496km²",
+    "density": "5930,8hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/Po%C3%A1"
+},
+{
+    "name": "Platina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "3606 hab.",
+    "total_area": "327,826km²",
+    "density": "11hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Platina_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Planalto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "535",
+    "total_population": "4389 hab.",
+    "total_area": "290,1km²",
+    "density": "15,1hab./km²",
+    "hdi": "0,744",
+    "url": "https://pt.wikipedia.org/wiki/Planalto_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Pitangueiras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "369",
+    "total_population": "34416 hab.",
+    "total_area": "430,638km²",
+    "density": "79,9hab./km²",
+    "hdi": "0,723",
+    "url": "https://pt.wikipedia.org/wiki/Pitangueiras_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Piratininga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "343",
+    "total_population": "12968 hab.",
+    "total_area": "397,207km²",
+    "density": "32,6hab./km²",
+    "hdi": "0,797",
+    "url": "https://pt.wikipedia.org/wiki/Piratininga"
+},
+{
+    "name": "Pirassununga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "208",
+    "total_population": "76877 hab.",
+    "total_area": "726,942km²",
+    "density": "105,8hab./km²",
+    "hdi": "0,801",
+    "url": "https://pt.wikipedia.org/wiki/Pirassununga"
+},
+{
+    "name": "Pirapozinho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "574",
+    "total_population": "26810 hab.",
+    "total_area": "480,795km²",
+    "density": "55,8hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Pirapozinho"
+},
+{
+    "name": "Poloni",
+    "state": "São Paulo",
+    "distance_to_the_capital": "487",
+    "total_population": "5592 hab.",
+    "total_area": "133,5km²",
+    "density": "41,9hab./km²",
+    "hdi": "0,766",
+    "url": "https://pt.wikipedia.org/wiki/Poloni"
+},
+{
+    "name": "Pirapora do Bom Jesus",
+    "state": "São Paulo",
+    "distance_to_the_capital": "61",
+    "total_population": "15727 hab.",
+    "total_area": "108,257km²",
+    "density": "145,3hab./km²",
+    "hdi": "0,727",
+    "url": "https://pt.wikipedia.org/wiki/Pirapora_do_Bom_Jesus"
+},
+{
+    "name": "Pirangi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "383",
+    "total_population": "11167 hab.",
+    "total_area": "215,809km²",
+    "density": "51,7hab./km²",
+    "hdi": "0,779",
+    "url": "https://pt.wikipedia.org/wiki/Pirangi"
+},
+{
+    "name": "Pirajuí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "400",
+    "total_population": "25939 hab.",
+    "total_area": "819,432km²",
+    "density": "31,7hab./km²",
+    "hdi": "0,779",
+    "url": "https://pt.wikipedia.org/wiki/Piraju%C3%AD"
+},
+{
+    "name": "Piraju",
+    "state": "São Paulo",
+    "distance_to_the_capital": "300",
+    "total_population": "29436 hab.",
+    "total_area": "504,591km²",
+    "density": "58,3hab./km²",
+    "hdi": "0,791",
+    "url": "https://pt.wikipedia.org/wiki/Piraju"
+},
+{
+    "name": "Piracaia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "89",
+    "total_population": "27462 hab.",
+    "total_area": "384,729km²",
+    "density": "71,4hab./km²",
+    "hdi": "0,739",
+    "url": "https://pt.wikipedia.org/wiki/Piracaia"
+},
+{
+    "name": "Piquete (São Paulo)",
+    "state": "São Paulo",
+    "distance_to_the_capital": "180",
+    "total_population": "12490 hab.",
+    "total_area": "175,996km²",
+    "density": "71hab./km²",
+    "hdi": "0,757",
+    "url": "https://pt.wikipedia.org/wiki/Piquete_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Piquerobi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "619",
+    "total_population": "3686 hab.",
+    "total_area": "482,506km²",
+    "density": "7,6hab./km²",
+    "hdi": "0,744",
+    "url": "https://pt.wikipedia.org/wiki/Piquerobi"
+},
+{
+    "name": "Piracicaba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "160",
+    "total_population": "438827 hab.",
+    "total_area": "1378,069km²",
+    "density": "318,4hab./km²",
+    "hdi": "0,785",
+    "url": "https://pt.wikipedia.org/wiki/Piracicaba"
+},
+{
+    "name": "Pinhalzinho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "114",
+    "total_population": "15388 hab.",
+    "total_area": "154,948km²",
+    "density": "99,3hab./km²",
+    "hdi": "0,725",
+    "url": "https://pt.wikipedia.org/wiki/Pinhalzinho_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Pindorama",
+    "state": "São Paulo",
+    "distance_to_the_capital": "370",
+    "total_population": "14,542 hab.",
+    "total_area": "184,8km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,737",
+    "url": "https://pt.wikipedia.org/wiki/Pindorama_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Pindamonhangaba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "146",
+    "total_population": "165428 hab.",
+    "total_area": "731,355km²",
+    "density": "226,2hab./km²",
+    "hdi": "0,773",
+    "url": "https://pt.wikipedia.org/wiki/Pindamonhangaba"
+},
+{
+    "name": "Pilar do Sul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "142",
+    "total_population": "30095 hab.",
+    "total_area": "682,395km²",
+    "density": "44,1hab./km²",
+    "hdi": "0,774",
+    "url": "https://pt.wikipedia.org/wiki/Pilar_do_Sul"
+},
+{
+    "name": "Piedade",
+    "state": "São Paulo",
+    "distance_to_the_capital": "100",
+    "total_population": "55348 hab.",
+    "total_area": "746,868km²",
+    "density": "74,1hab./km²",
+    "hdi": "0,757",
+    "url": "https://pt.wikipedia.org/wiki/Piedade_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Piacatu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "530",
+    "total_population": "5287 hab.",
+    "total_area": "232,543km²",
+    "density": "22,7hab./km²",
+    "hdi": "0,757",
+    "url": "https://pt.wikipedia.org/wiki/Piacatu"
+},
+{
+    "name": "Peruíbe",
+    "state": "São Paulo",
+    "distance_to_the_capital": "141",
+    "total_population": "68352 hab.",
+    "total_area": "326,216km²",
+    "density": "209,5hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Peru%C3%ADbe"
+},
+{
+    "name": "Pereiras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "166",
+    "total_population": "8875 hab.",
+    "total_area": "223,136km²",
+    "density": "39,8hab./km²",
+    "hdi": "0,736",
+    "url": "https://pt.wikipedia.org/wiki/Pereiras"
+},
+{
+    "name": "Pereira Barreto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "635",
+    "total_population": "24095 hab.",
+    "total_area": "978,884km²",
+    "density": "24,6hab./km²",
+    "hdi": "0,766",
+    "url": "https://pt.wikipedia.org/wiki/Pereira_Barreto"
+},
+{
+    "name": "Penápolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "490",
+    "total_population": "61,679 hab.",
+    "total_area": "711,314km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,759",
+    "url": "https://pt.wikipedia.org/wiki/Pen%C3%A1polis"
+},
+{
+    "name": "Pedro de Toledo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "149",
+    "total_population": "11331 hab.",
+    "total_area": "670,440km²",
+    "density": "16,9hab./km²",
+    "hdi": "0,696",
+    "url": "https://pt.wikipedia.org/wiki/Pedro_de_Toledo"
+},
+{
+    "name": "Pedrinhas Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "480",
+    "total_population": "2936 hab.",
+    "total_area": "152,173km²",
+    "density": "19,3hab./km²",
+    "hdi": "0,819",
+    "url": "https://pt.wikipedia.org/wiki/Pedrinhas_Paulista"
+},
+{
+    "name": "Pedregulho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "455",
+    "total_population": "15699 hab.",
+    "total_area": "701,886km²",
+    "density": "22,4hab./km²",
+    "hdi": "0,794",
+    "url": "https://pt.wikipedia.org/wiki/Pedregulho"
+},
+{
+    "name": "Pedranópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "2558 hab.",
+    "total_area": "260,2km²",
+    "density": "9,8hab./km²",
+    "hdi": "0,778",
+    "url": "https://pt.wikipedia.org/wiki/Pedran%C3%B3polis"
+},
+{
+    "name": "Pedra Bela",
+    "state": "São Paulo",
+    "distance_to_the_capital": "117",
+    "total_population": "6110 hab.",
+    "total_area": "157,184km²",
+    "density": "38,9hab./km²",
+    "hdi": "0,677",
+    "url": "https://pt.wikipedia.org/wiki/Pedra_Bela"
+},
+{
+    "name": "Pederneiras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "320",
+    "total_population": "44498 hab.",
+    "total_area": "729km²",
+    "density": "61hab./km²",
+    "hdi": "0,739",
+    "url": "https://pt.wikipedia.org/wiki/Pederneiras"
+},
+{
+    "name": "Paulo de Faria",
+    "state": "São Paulo",
+    "distance_to_the_capital": "540",
+    "total_population": "7400 hab.",
+    "total_area": "738,3km²",
+    "density": "10hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/Paulo_de_Faria"
+},
+{
+    "name": "Paulistânia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "343",
+    "total_population": "1837 hab.",
+    "total_area": "256,553km²",
+    "density": "7,2hab./km²",
+    "hdi": "0,774",
+    "url": "https://pt.wikipedia.org/wiki/Paulist%C3%A2nia"
+},
+{
+    "name": "Pedreira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "135",
+    "total_population": "47361 hab.",
+    "total_area": "109,710km²",
+    "density": "431,7hab./km²",
+    "hdi": "0,810",
+    "url": "https://pt.wikipedia.org/wiki/Pedreira_(munic%C3%ADpio)"
+},
+{
+    "name": "Paulínia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "119",
+    "total_population": "106776 hab.",
+    "total_area": "139,332km²",
+    "density": "766,3hab./km²",
+    "hdi": "0,795",
+    "url": "https://pt.wikipedia.org/wiki/Paul%C3%ADnia"
+},
+{
+    "name": "Paulicéia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "695",
+    "total_population": "7147 hab.",
+    "total_area": "374,091km²",
+    "density": "19,1hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/Paulic%C3%A9ia"
+},
+{
+    "name": "Patrocínio Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "420",
+    "total_population": "14807 hab.",
+    "total_area": "602,848km²",
+    "density": "24,6hab./km²",
+    "hdi": "0,730",
+    "url": "https://pt.wikipedia.org/wiki/Patroc%C3%ADnio_Paulista"
+},
+{
+    "name": "Parisi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "533",
+    "total_population": "2032 hab.",
+    "total_area": "84,5km²",
+    "density": "24hab./km²",
+    "hdi": "0,756",
+    "url": "https://pt.wikipedia.org/wiki/Parisi"
+},
+{
+    "name": "Pariquera-Açu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "220",
+    "total_population": "19316 hab.",
+    "total_area": "359,691km²",
+    "density": "53,7hab./km²",
+    "hdi": "0,73",
+    "url": "https://pt.wikipedia.org/wiki/Pariquera-A%C3%A7u"
+},
+{
+    "name": "Pardinho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "180",
+    "total_population": "5582 hab.",
+    "total_area": "210,036km²",
+    "density": "26,6hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Pardinho"
+},
+{
+    "name": "Parapuã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "560",
+    "total_population": "11085 hab.",
+    "total_area": "365,224km²",
+    "density": "30,4hab./km²",
+    "hdi": "0,792",
+    "url": "https://pt.wikipedia.org/wiki/Parapu%C3%A3"
+},
+{
+    "name": "Paranapuã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "607",
+    "total_population": "4095 hab.",
+    "total_area": "140,354km²",
+    "density": "29,2hab./km²",
+    "hdi": "0,775",
+    "url": "https://pt.wikipedia.org/wiki/Paranapu%C3%A3"
+},
+{
+    "name": "Paranapanema",
+    "state": "São Paulo",
+    "distance_to_the_capital": "256",
+    "total_population": "20588 hab.",
+    "total_area": "1019,841km²",
+    "density": "20,2hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/Paranapanema"
+},
+{
+    "name": "Palestina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "490",
+    "total_population": "11476 hab.",
+    "total_area": "697,701km²",
+    "density": "16,4hab./km²",
+    "hdi": "0,732",
+    "url": "https://pt.wikipedia.org/wiki/Palestina_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Paraíso",
+    "state": "São Paulo",
+    "distance_to_the_capital": "397",
+    "total_population": "6369 hab.",
+    "total_area": "155,186km²",
+    "density": "41hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Para%C3%ADso_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Paraibuna",
+    "state": "São Paulo",
+    "distance_to_the_capital": "125",
+    "total_population": "17667 hab.",
+    "total_area": "809,576km²",
+    "density": "21,8hab./km²",
+    "hdi": "0,719",
+    "url": "https://pt.wikipedia.org/wiki/Paraibuna"
+},
+{
+    "name": "Paraguaçu Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "422",
+    "total_population": "45703 hab.",
+    "total_area": "1001,094km²",
+    "density": "45,7hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Paragua%C3%A7u_Paulista"
+},
+{
+    "name": "Palmares Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "412",
+    "total_population": "13058 hab.",
+    "total_area": "91km²",
+    "density": "143,5hab./km²",
+    "hdi": "0,989",
+    "url": "https://pt.wikipedia.org/wiki/Palmares_Paulista"
+},
+{
+    "name": "Panorama",
+    "state": "São Paulo",
+    "distance_to_the_capital": "670",
+    "total_population": "15539 hab.",
+    "total_area": "353,137km²",
+    "density": "44hab./km²",
+    "hdi": "0,722",
+    "url": "https://pt.wikipedia.org/wiki/Panorama_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Palmeira d'Oeste",
+    "state": "São Paulo",
+    "distance_to_the_capital": "621",
+    "total_population": "9227 hab.",
+    "total_area": "318,740km²",
+    "density": "28,9hab./km²",
+    "hdi": "0,765",
+    "url": "https://pt.wikipedia.org/wiki/Palmeira_d%27Oeste"
+},
+{
+    "name": "Palmital",
+    "state": "São Paulo",
+    "distance_to_the_capital": "415",
+    "total_population": "19594 hab.",
+    "total_area": "549,040km²",
+    "density": "35,7hab./km²",
+    "hdi": "0,746",
+    "url": "https://pt.wikipedia.org/wiki/Palmital_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Ouroeste",
+    "state": "São Paulo",
+    "distance_to_the_capital": "602",
+    "total_population": "9897 hab.",
+    "total_area": "288,8km²",
+    "density": "34,3hab./km²",
+    "hdi": "0,787",
+    "url": "https://pt.wikipedia.org/wiki/Ouroeste"
+},
+{
+    "name": "Ouro Verde",
+    "state": "São Paulo",
+    "distance_to_the_capital": "651",
+    "total_population": "8503 hab.",
+    "total_area": "266,452km²",
+    "density": "31,9hab./km²",
+    "hdi": "0,723",
+    "url": "https://pt.wikipedia.org/wiki/Ouro_Verde_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Ourinhos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "370",
+    "total_population": "106877 hab.",
+    "total_area": "296,203km²",
+    "density": "360,8hab./km²",
+    "hdi": "0,778",
+    "url": "https://pt.wikipedia.org/wiki/Ourinhos"
+},
+{
+    "name": "Osvaldo Cruz",
+    "state": "São Paulo",
+    "distance_to_the_capital": "570",
+    "total_population": "32593 hab.",
+    "total_area": "247,941km²",
+    "density": "131,5hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Osvaldo_Cruz_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Oscar Bressane",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "2539 hab.",
+    "total_area": "221,429km²",
+    "density": "11,5hab./km²",
+    "hdi": "0,752",
+    "url": "https://pt.wikipedia.org/wiki/Oscar_Bressane"
+},
+{
+    "name": "Orlândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "364",
+    "total_population": "44028 hab.",
+    "total_area": "296,431km²",
+    "density": "148,5hab./km²",
+    "hdi": "0,780",
+    "url": "https://pt.wikipedia.org/wiki/Orl%C3%A2ndia"
+},
+{
+    "name": "Pacaembu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "617",
+    "total_population": "14024 hab.",
+    "total_area": "339,722km²",
+    "density": "41,3hab./km²",
+    "hdi": "0,763",
+    "url": "https://pt.wikipedia.org/wiki/Pacaembu_(munic%C3%ADpio)"
+},
+{
+    "name": "Osasco",
+    "state": "São Paulo",
+    "distance_to_the_capital": "15,5",
+    "total_population": "728615 hab.",
+    "total_area": "64,935km²",
+    "density": "11220,7hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Osasco"
+},
+{
+    "name": "Orindiúva",
+    "state": "São Paulo",
+    "distance_to_the_capital": "522",
+    "total_population": "6024 hab.",
+    "total_area": "248,1km²",
+    "density": "24,3hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Orindi%C3%BAva"
+},
+{
+    "name": "Oriente",
+    "state": "São Paulo",
+    "distance_to_the_capital": "456",
+    "total_population": "6542 hab.",
+    "total_area": "218,668km²",
+    "density": "29,9hab./km²",
+    "hdi": "0,791",
+    "url": "https://pt.wikipedia.org/wiki/Oriente_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Onda Verde",
+    "state": "São Paulo",
+    "distance_to_the_capital": "480",
+    "total_population": "4771 hab.",
+    "total_area": "243,1km²",
+    "density": "19,6hab./km²",
+    "hdi": "0,777",
+    "url": "https://pt.wikipedia.org/wiki/Onda_Verde"
+},
+{
+    "name": "Óleo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "300",
+    "total_population": "2832 hab.",
+    "total_area": "197,974km²",
+    "density": "14,3hab./km²",
+    "hdi": "0,737",
+    "url": "https://pt.wikipedia.org/wiki/%C3%93leo_(S%C3%A3o_Paulo)"
+},
+{
+    "name": " Olímpia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "448",
+    "total_population": "55075 hab.",
+    "total_area": "802,555km²",
+    "density": "68,6hab./km²",
+    "hdi": "0,773",
+    "url": "https://pt.wikipedia.org/wiki/Ol%C3%ADmpia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Ocauçu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "425",
+    "total_population": "4305 hab.",
+    "total_area": "301,036km²",
+    "density": "14,3hab./km²",
+    "hdi": "0,717",
+    "url": "https://pt.wikipedia.org/wiki/Ocau%C3%A7u"
+},
+{
+    "name": "Nuporanga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "376",
+    "total_population": "7391 hab.",
+    "total_area": "348,265km²",
+    "density": "21,2hab./km²",
+    "hdi": "0,746",
+    "url": "https://pt.wikipedia.org/wiki/Nuporanga"
+},
+{
+    "name": "Novo Horizonte",
+    "state": "São Paulo",
+    "distance_to_the_capital": "410",
+    "total_population": "38324 hab.",
+    "total_area": "931,743km²",
+    "density": "41,1hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/Novo_Horizonte_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Novais",
+    "state": "São Paulo",
+    "distance_to_the_capital": "409",
+    "total_population": "4592 hab.",
+    "total_area": "117,8km²",
+    "density": "39hab./km²",
+    "hdi": "0,759",
+    "url": "https://pt.wikipedia.org/wiki/Novais_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Nova Luzitânia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "548",
+    "total_population": "2837 hab.",
+    "total_area": "74,1km²",
+    "density": "38,3hab./km²",
+    "hdi": "0,74",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Luzit%C3%A2nia"
+},
+{
+    "name": "Nova Independência",
+    "state": "São Paulo",
+    "distance_to_the_capital": "658",
+    "total_population": "5507 hab.",
+    "total_area": "265,282km²",
+    "density": "20,8hab./km²",
+    "hdi": "0,737",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Independ%C3%AAncia"
+},
+{
+    "name": "Nova Guataporanga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "681",
+    "total_population": "2308 hab.",
+    "total_area": "34,116km²",
+    "density": "67,7hab./km²",
+    "hdi": "0,74",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Guataporanga"
+},
+{
+    "name": "Nova Granada",
+    "state": "São Paulo",
+    "distance_to_the_capital": "472",
+    "total_population": "19419 hab.",
+    "total_area": "531,9km²",
+    "density": "36,5hab./km²",
+    "hdi": "0,79",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Granada_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Nova Europa",
+    "state": "São Paulo",
+    "distance_to_the_capital": "318",
+    "total_population": "11519 hab.",
+    "total_area": "160,250km²",
+    "density": "71,9hab./km²",
+    "hdi": "0,765",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Europa"
+},
+{
+    "name": "Nova Castilho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "570",
+    "total_population": "1303 hab.",
+    "total_area": "183,2km²",
+    "density": "7,1hab./km²",
+    "hdi": "0,761",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Castilho"
+},
+{
+    "name": "Nova Canaã Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "1852 hab.",
+    "total_area": "124,473km²",
+    "density": "14,9hab./km²",
+    "hdi": "0,726",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Cana%C3%A3_Paulista"
+},
+{
+    "name": "Nova Odessa",
+    "state": "São Paulo",
+    "distance_to_the_capital": "124",
+    "total_population": "62019 hab.",
+    "total_area": "73,788km²",
+    "density": "840,5hab./km²",
+    "hdi": "0,791",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Odessa"
+},
+{
+    "name": "Nova Campina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "320",
+    "total_population": "8497 hab.",
+    "total_area": "385,328km²",
+    "density": "22,1hab./km²",
+    "hdi": "0,651",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Campina"
+},
+{
+    "name": "Nova Aliança",
+    "state": "São Paulo",
+    "distance_to_the_capital": "443",
+    "total_population": "6693 hab.",
+    "total_area": "217,3km²",
+    "density": "30,8hab./km²",
+    "hdi": "0,806",
+    "url": "https://pt.wikipedia.org/wiki/Nova_Alian%C3%A7a"
+},
+{
+    "name": "Nipoã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "436",
+    "total_population": "4750 hab.",
+    "total_area": "137,8km²",
+    "density": "34,5hab./km²",
+    "hdi": "0,775",
+    "url": "https://pt.wikipedia.org/wiki/Nipo%C3%A3"
+},
+{
+    "name": "Nhandeara",
+    "state": "São Paulo",
+    "distance_to_the_capital": "508",
+    "total_population": "10725 hab.",
+    "total_area": "435,8km²",
+    "density": "24,6hab./km²",
+    "hdi": "0,806",
+    "url": "https://pt.wikipedia.org/wiki/Nhandeara"
+},
+{
+    "name": "Neves Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "469",
+    "total_population": "9690 hab.",
+    "total_area": "218,3km²",
+    "density": "44,4hab./km²",
+    "hdi": "0,804",
+    "url": "https://pt.wikipedia.org/wiki/Neves_Paulista"
+},
+{
+    "name": "Narandiba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "605",
+    "total_population": "4702 hab.",
+    "total_area": "358,139km²",
+    "density": "13,1hab./km²",
+    "hdi": "0,763",
+    "url": "https://pt.wikipedia.org/wiki/Narandiba"
+},
+{
+    "name": "Nantes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "525",
+    "total_population": "2707 hab.",
+    "total_area": "285,415km²",
+    "density": "9,5hab./km²",
+    "hdi": "0,722",
+    "url": "https://pt.wikipedia.org/wiki/Nantes_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Murutinga do Sul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "629",
+    "total_population": "3737 hab.",
+    "total_area": "248,278km²",
+    "density": "15,1hab./km²",
+    "hdi": "0,78",
+    "url": "https://pt.wikipedia.org/wiki/Murutinga_do_Sul"
+},
+{
+    "name": "Motuca",
+    "state": "São Paulo",
+    "distance_to_the_capital": "327",
+    "total_population": "4642 hab.",
+    "total_area": "228,700km²",
+    "density": "20,3hab./km²",
+    "hdi": "0,761",
+    "url": "https://pt.wikipedia.org/wiki/Motuca"
+},
+{
+    "name": "Morungaba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "108",
+    "total_population": "13622 hab.",
+    "total_area": "146,752km²",
+    "density": "92,8hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Morungaba"
+},
+{
+    "name": "Morro Agudo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "395",
+    "total_population": "32968 hab.",
+    "total_area": "1386,176km²",
+    "density": "23,8hab./km²",
+    "hdi": "0,712",
+    "url": "https://pt.wikipedia.org/wiki/Morro_Agudo"
+},
+{
+    "name": "Natividade da Serra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "185",
+    "total_population": "6999 hab.",
+    "total_area": "833,372km²",
+    "density": "8,4hab./km²",
+    "hdi": "0,655",
+    "url": "https://pt.wikipedia.org/wiki/Natividade_da_Serra"
+},
+{
+    "name": "Nazaré Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "90",
+    "total_population": "18698 hab.",
+    "total_area": "326,542km²",
+    "density": "57,3hab./km²",
+    "hdi": "0,678",
+    "url": "https://pt.wikipedia.org/wiki/Nazar%C3%A9_Paulista"
+},
+{
+    "name": "Monteiro Lobato",
+    "state": "São Paulo",
+    "distance_to_the_capital": "132",
+    "total_population": "4739 hab.",
+    "total_area": "332,742km²",
+    "density": "14,2hab./km²",
+    "hdi": "0,775",
+    "url": "https://pt.wikipedia.org/wiki/Monteiro_Lobato_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Monte Mor",
+    "state": "São Paulo",
+    "distance_to_the_capital": "122",
+    "total_population": "59772 hab.",
+    "total_area": "240,566km²",
+    "density": "248,5hab./km²",
+    "hdi": "0,783",
+    "url": "https://pt.wikipedia.org/wiki/Monte_Mor"
+},
+{
+    "name": "Monte Castelo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "681",
+    "total_population": "4222 hab.",
+    "total_area": "233,547km²",
+    "density": "18,1hab./km²",
+    "hdi": "0,743",
+    "url": "https://pt.wikipedia.org/wiki/Monte_Castelo_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Monte Aprazível",
+    "state": "São Paulo",
+    "distance_to_the_capital": "484",
+    "total_population": "22280 hab.",
+    "total_area": "496,9km²",
+    "density": "44,8hab./km²",
+    "hdi": "0,808",
+    "url": "https://pt.wikipedia.org/wiki/Monte_Apraz%C3%ADvel"
+},
+{
+    "name": "Monte Azul Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "420",
+    "total_population": "19050 hab.",
+    "total_area": "263,492km²",
+    "density": "72,3hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/Monte_Azul_Paulista"
+},
+{
+    "name": "Monte Alto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "350",
+    "total_population": "47574 hab.",
+    "total_area": "347,119km²",
+    "density": "137,1hab./km²",
+    "hdi": "0,813",
+    "url": "https://pt.wikipedia.org/wiki/Monte_Alto"
+},
+{
+    "name": "Monte Alegre do Sul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "130",
+    "total_population": "8627 hab.",
+    "total_area": "110,860km²",
+    "density": "77,8hab./km²",
+    "hdi": "0,759",
+    "url": "https://pt.wikipedia.org/wiki/Monte_Alegre_do_Sul"
+},
+{
+    "name": "Mongaguá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "93",
+    "total_population": "61951 hab.",
+    "total_area": "143,205km²",
+    "density": "432,6hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/Mongagu%C3%A1"
+},
+{
+    "name": "Monções",
+    "state": "São Paulo",
+    "distance_to_the_capital": "531",
+    "total_population": "2132 hab.",
+    "total_area": "104,2km²",
+    "density": "20,5hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/Mon%C3%A7%C3%B5es_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Mombuca",
+    "state": "São Paulo",
+    "distance_to_the_capital": "157",
+    "total_population": "3266 hab.",
+    "total_area": "133,198km²",
+    "density": "24,5hab./km²",
+    "hdi": "0,75",
+    "url": "https://pt.wikipedia.org/wiki/Mombuca"
+},
+{
+    "name": "Mogi Mirim",
+    "state": "São Paulo",
+    "distance_to_the_capital": "155",
+    "total_population": "94098 hab.",
+    "total_area": "499km²",
+    "density": "188,6hab./km²",
+    "hdi": "0,784",
+    "url": "https://pt.wikipedia.org/wiki/Mogi_Mirim"
+},
+{
+    "name": "Mogi Guaçu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "166",
+    "total_population": "153658 hab.",
+    "total_area": "812,75km²",
+    "density": "189,1hab./km²",
+    "hdi": "0,774",
+    "url": "https://pt.wikipedia.org/wiki/Mogi_Gua%C3%A7u"
+},
+{
+    "name": "Mogi das Cruzes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "61",
+    "total_population": "449955 hab.",
+    "total_area": "712,541km²",
+    "density": "631,5hab./km²",
+    "hdi": "0,783",
+    "url": "https://pt.wikipedia.org/wiki/Mogi_das_Cruzes"
+},
+{
+    "name": "Mococa",
+    "state": "São Paulo",
+    "distance_to_the_capital": "266",
+    "total_population": "67,681 hab.",
+    "total_area": "855,16km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Mococa"
+},
+{
+    "name": "Mirassolândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "480",
+    "total_population": "4669 hab.",
+    "total_area": "166,2km²",
+    "density": "28,1hab./km²",
+    "hdi": "0,764",
+    "url": "https://pt.wikipedia.org/wiki/Mirassol%C3%A2ndia"
+},
+{
+    "name": "Mirassol",
+    "state": "São Paulo",
+    "distance_to_the_capital": "453",
+    "total_population": "63337 hab.",
+    "total_area": "243,228km²",
+    "density": "260,4hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Mirassol"
+},
+{
+    "name": "Mirante do Paranapanema",
+    "state": "São Paulo",
+    "distance_to_the_capital": "616",
+    "total_population": "18338 hab.",
+    "total_area": "1237,847km²",
+    "density": "14,8hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Mirante_do_Paranapanema"
+},
+{
+    "name": "Mirandópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "594",
+    "total_population": "27983 hab.",
+    "total_area": "917,694km²",
+    "density": "30,5hab./km²",
+    "hdi": "0,751",
+    "url": "https://pt.wikipedia.org/wiki/Mirand%C3%B3polis"
+},
+{
+    "name": "Miracatu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "129",
+    "total_population": "19919 hab.",
+    "total_area": "1000,736km²",
+    "density": "19,9hab./km²",
+    "hdi": "0,748",
+    "url": "https://pt.wikipedia.org/wiki/Miracatu"
+},
+{
+    "name": "Mira Estrela",
+    "state": "São Paulo",
+    "distance_to_the_capital": "590",
+    "total_population": "2820 hab.",
+    "total_area": "216,8km²",
+    "density": "13hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/Mira_Estrela"
+},
+{
+    "name": "Mineiros do Tietê",
+    "state": "São Paulo",
+    "distance_to_the_capital": "297",
+    "total_population": "12038 hab.",
+    "total_area": "211,892km²",
+    "density": "56,8hab./km²",
+    "hdi": "0,730",
+    "url": "https://pt.wikipedia.org/wiki/Mineiros_do_Tiet%C3%AA"
+},
+{
+    "name": "Miguelópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "410",
+    "total_population": "20442 hab.",
+    "total_area": "826,889km²",
+    "density": "24,7hab./km²",
+    "hdi": "0,791",
+    "url": "https://pt.wikipedia.org/wiki/Miguel%C3%B3polis"
+},
+{
+    "name": "Mesópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "636",
+    "total_population": "1,952 hab.",
+    "total_area": "148,9km²",
+    "density": "0hab./km²",
+    "hdi": "0,732",
+    "url": "https://pt.wikipedia.org/wiki/Mes%C3%B3polis"
+},
+{
+    "name": "Meridiano",
+    "state": "São Paulo",
+    "distance_to_the_capital": "546",
+    "total_population": "3855 hab.",
+    "total_area": "229,2km²",
+    "density": "16,8hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Meridiano_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Mendonça",
+    "state": "São Paulo",
+    "distance_to_the_capital": "454",
+    "total_population": "6159 hab.",
+    "total_area": "195km²",
+    "density": "31,6hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/Mendon%C3%A7a"
+},
+{
+    "name": "Martinópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "539",
+    "total_population": "24260 hab.",
+    "total_area": "1253,158km²",
+    "density": "19,4hab./km²",
+    "hdi": "0,750",
+    "url": "https://pt.wikipedia.org/wiki/Martin%C3%B3polis"
+},
+{
+    "name": "Mauá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "26",
+    "total_population": "472,912 hab.",
+    "total_area": "61,909km²",
+    "density": "7,6hab./km²",
+    "hdi": "0,781",
+    "url": "https://pt.wikipedia.org/wiki/Mau%C3%A1"
+},
+{
+    "name": "Mariápolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "602",
+    "total_population": "4079 hab.",
+    "total_area": "186,098km²",
+    "density": "21,9hab./km²",
+    "hdi": "0,739",
+    "url": "https://pt.wikipedia.org/wiki/Mari%C3%A1polis"
+},
+{
+    "name": "Matão",
+    "state": "São Paulo",
+    "distance_to_the_capital": "305",
+    "total_population": "82307 hab.",
+    "total_area": "524,899km²",
+    "density": "156,8hab./km²",
+    "hdi": "0,806",
+    "url": "https://pt.wikipedia.org/wiki/Mat%C3%A3o"
+},
+{
+    "name": "Marinópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "623",
+    "total_population": "2113 hab.",
+    "total_area": "77,8km²",
+    "density": "27,2hab./km²",
+    "hdi": "0,74",
+    "url": "https://pt.wikipedia.org/wiki/Marin%C3%B3polis"
+},
+{
+    "name": "Marília",
+    "state": "São Paulo",
+    "distance_to_the_capital": "438",
+    "total_population": "237627 hab.",
+    "total_area": "1170,515km²",
+    "density": "203hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Mar%C3%ADlia"
+},
+{
+    "name": "Marapoama",
+    "state": "São Paulo",
+    "distance_to_the_capital": "450",
+    "total_population": "2633 hab.",
+    "total_area": "111,3km²",
+    "density": "23,7hab./km²",
+    "hdi": "0,78",
+    "url": "https://pt.wikipedia.org/wiki/Marapoama"
+},
+{
+    "name": "Maracaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "473",
+    "total_population": "13344 hab.",
+    "total_area": "533,024km²",
+    "density": "25hab./km²",
+    "hdi": "0,773",
+    "url": "https://pt.wikipedia.org/wiki/Maraca%C3%AD"
+},
+{
+    "name": "Marabá Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "635",
+    "total_population": "5345 hab.",
+    "total_area": "917,119km²",
+    "density": "5,8hab./km²",
+    "hdi": "0,677",
+    "url": "https://pt.wikipedia.org/wiki/Marab%C3%A1_Paulista"
+},
+{
+    "name": "Manduri",
+    "state": "São Paulo",
+    "distance_to_the_capital": "300",
+    "total_population": "9529 hab.",
+    "total_area": "228,866km²",
+    "density": "41,6hab./km²",
+    "hdi": "0,772",
+    "url": "https://pt.wikipedia.org/wiki/Manduri_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Mairiporã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "41",
+    "total_population": "97399 hab.",
+    "total_area": "320,697km²",
+    "density": "303,7hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Mairipor%C3%A3"
+},
+{
+    "name": "Mairinque",
+    "state": "São Paulo",
+    "distance_to_the_capital": "65",
+    "total_population": "47150 hab.",
+    "total_area": "209,757km²",
+    "density": "224,8hab./km²",
+    "hdi": "0,801",
+    "url": "https://pt.wikipedia.org/wiki/Mairinque"
+},
+{
+    "name": "Magda",
+    "state": "São Paulo",
+    "distance_to_the_capital": "544",
+    "total_population": "3230 hab.",
+    "total_area": "311,7km²",
+    "density": "10,4hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/Magda"
+},
+{
+    "name": "Macedônia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "581",
+    "total_population": "3664 hab.",
+    "total_area": "327,7km²",
+    "density": "11,2hab./km²",
+    "hdi": "0,757",
+    "url": "https://pt.wikipedia.org/wiki/Maced%C3%B4nia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Macaubal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "500",
+    "total_population": "7481 hab.",
+    "total_area": "510,1km²",
+    "density": "14,7hab./km²",
+    "hdi": "0,781",
+    "url": "https://pt.wikipedia.org/wiki/Macaubal"
+},
+{
+    "name": "Macatuba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "280",
+    "total_population": "16829 hab.",
+    "total_area": "224,514km²",
+    "density": "75hab./km²",
+    "hdi": "0,777",
+    "url": "https://pt.wikipedia.org/wiki/Macatuba"
+},
+{
+    "name": "Lutécia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "492",
+    "total_population": "2703 hab.",
+    "total_area": "474,627km²",
+    "density": "5,7hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/Lut%C3%A9cia"
+},
+{
+    "name": "Lupércio",
+    "state": "São Paulo",
+    "distance_to_the_capital": "426",
+    "total_population": "4549 hab.",
+    "total_area": "155,025km²",
+    "density": "29,3hab./km²",
+    "hdi": "0,736",
+    "url": "https://pt.wikipedia.org/wiki/Lup%C3%A9rcio_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Luiziânia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "515",
+    "total_population": "5790 hab.",
+    "total_area": "166,576km²",
+    "density": "34,8hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Luizi%C3%A2nia"
+},
+{
+    "name": "Luiz Antônio",
+    "state": "São Paulo",
+    "distance_to_the_capital": "276",
+    "total_population": "14947 hab.",
+    "total_area": "598,439km²",
+    "density": "25hab./km²",
+    "hdi": "0,731",
+    "url": "https://pt.wikipedia.org/wiki/Luiz_Ant%C3%B4nio"
+},
+{
+    "name": "Lucianópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "400",
+    "total_population": "2255 hab.",
+    "total_area": "190,908km²",
+    "density": "11,8hab./km²",
+    "hdi": "0,754",
+    "url": "https://pt.wikipedia.org/wiki/Lucian%C3%B3polis"
+},
+{
+    "name": "Lucélia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "589",
+    "total_population": "20061 hab.",
+    "total_area": "314,455km²",
+    "density": "63,8hab./km²",
+    "hdi": "0,782",
+    "url": "https://pt.wikipedia.org/wiki/Luc%C3%A9lia"
+},
+{
+    "name": "Louveira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "72",
+    "total_population": "51883 hab.",
+    "total_area": "55,349km²",
+    "density": "937,4hab./km²",
+    "hdi": "0,8",
+    "url": "https://pt.wikipedia.org/wiki/Louveira_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Lourdes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "Distância em linha reta: 626 km",
+    "total_population": "2140 hab.",
+    "total_area": "113,743km²",
+    "density": "18,8hab./km²",
+    "hdi": "0,742",
+    "url": "https://pt.wikipedia.org/wiki/Lourdes_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Lorena",
+    "state": "São Paulo",
+    "distance_to_the_capital": "180",
+    "total_population": "84855 hab.",
+    "total_area": "414,160km²",
+    "density": "204,9hab./km²",
+    "hdi": "0,766",
+    "url": "https://pt.wikipedia.org/wiki/Lorena_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Lins",
+    "state": "São Paulo",
+    "distance_to_the_capital": "429",
+    "total_population": "74068 hab.",
+    "total_area": "570,2km²",
+    "density": "129,9hab./km²",
+    "hdi": "0,786",
+    "url": "https://pt.wikipedia.org/wiki/Lins"
+},
+{
+    "name": "Lindoia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "156",
+    "total_population": "7014 hab.",
+    "total_area": "48,756km²",
+    "density": "143,9hab./km²",
+    "hdi": "0,742",
+    "url": "https://pt.wikipedia.org/wiki/Lindoia"
+},
+{
+    "name": "Limeira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "143",
+    "total_population": "300728 hab.",
+    "total_area": "580,711km²",
+    "density": "517,9hab./km²",
+    "hdi": "0,775",
+    "url": "https://pt.wikipedia.org/wiki/Limeira"
+},
+{
+    "name": "Lençóis Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "280",
+    "total_population": "66505 hab.",
+    "total_area": "809,541km²",
+    "density": "82,2hab./km²",
+    "hdi": "0,764",
+    "url": "https://pt.wikipedia.org/wiki/Len%C3%A7%C3%B3is_Paulista"
+},
+{
+    "name": "Leme",
+    "state": "São Paulo",
+    "distance_to_the_capital": "190",
+    "total_population": "103391 hab.",
+    "total_area": "403,077km²",
+    "density": "256,5hab./km²",
+    "hdi": "0,796",
+    "url": "https://pt.wikipedia.org/wiki/Leme"
+},
+{
+    "name": "Lavrinhas",
+    "state": "São Paulo",
+    "distance_to_the_capital": "223",
+    "total_population": "7361 hab.",
+    "total_area": "167,067km²",
+    "density": "44,1hab./km²",
+    "hdi": "0,729",
+    "url": "https://pt.wikipedia.org/wiki/Lavrinhas"
+},
+{
+    "name": "Lavínia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "593",
+    "total_population": "8782 hab.",
+    "total_area": "538,523km²",
+    "density": "16,3hab./km²",
+    "hdi": "0,765",
+    "url": "https://pt.wikipedia.org/wiki/Lav%C3%ADnia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Laranjal Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "173",
+    "total_population": "25251 hab.",
+    "total_area": "384,274km²",
+    "density": "65,7hab./km²",
+    "hdi": "0,729",
+    "url": "https://pt.wikipedia.org/wiki/Laranjal_Paulista"
+},
+{
+    "name": "Lagoinha",
+    "state": "São Paulo",
+    "distance_to_the_capital": "190",
+    "total_population": "4896 hab.",
+    "total_area": "255,472km²",
+    "density": "19,2hab./km²",
+    "hdi": "0,693",
+    "url": "https://pt.wikipedia.org/wiki/Lagoinha_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Juquitiba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "70",
+    "total_population": "27404 hab.",
+    "total_area": "521,598km²",
+    "density": "52,5hab./km²",
+    "hdi": "0,709",
+    "url": "https://pt.wikipedia.org/wiki/Juquitiba"
+},
+{
+    "name": "Juquiá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "161",
+    "total_population": "17154 hab.",
+    "total_area": "812,799km²",
+    "density": "21,1hab./km²",
+    "hdi": "0,700",
+    "url": "https://pt.wikipedia.org/wiki/Juqui%C3%A1"
+},
+{
+    "name": "Junqueirópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "641",
+    "total_population": "20353 hab.",
+    "total_area": "582,565km²",
+    "density": "34,9hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/Junqueir%C3%B3polis"
+},
+{
+    "name": "Jumirim",
+    "state": "São Paulo",
+    "distance_to_the_capital": "164",
+    "total_population": "3418 hab.",
+    "total_area": "56,685km²",
+    "density": "60,3hab./km²",
+    "hdi": "0,741",
+    "url": "https://pt.wikipedia.org/wiki/Jumirim"
+},
+{
+    "name": "Júlio Mesquita",
+    "state": "São Paulo",
+    "distance_to_the_capital": "433",
+    "total_population": "4430 hab.",
+    "total_area": "128,209km²",
+    "density": "34,6hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/J%C3%BAlio_Mesquita"
+},
+{
+    "name": "Jundiaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "950",
+    "total_population": "443221 hab.",
+    "total_area": "431,204km²",
+    "density": "1027,9hab./km²",
+    "hdi": "0,822",
+    "url": "https://pt.wikipedia.org/wiki/Jundia%C3%AD"
+},
+{
+    "name": "João Ramalho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "505",
+    "total_population": "4138 hab.",
+    "total_area": "416,035km²",
+    "density": "9,9hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Jo%C3%A3o_Ramalho_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "José Bonifácio",
+    "state": "São Paulo",
+    "distance_to_the_capital": "483",
+    "total_population": "36633 hab.",
+    "total_area": "859,947km²",
+    "density": "42,6hab./km²",
+    "hdi": "0,777",
+    "url": "https://pt.wikipedia.org/wiki/Jos%C3%A9_Bonif%C3%A1cio_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Joanópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "118",
+    "total_population": "12815 hab.",
+    "total_area": "374,293km²",
+    "density": "34,2hab./km²",
+    "hdi": "0,699",
+    "url": "https://pt.wikipedia.org/wiki/Joan%C3%B3polis"
+},
+{
+    "name": "Jeriquara",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "4873 hab.",
+    "total_area": "140,992km²",
+    "density": "34,6hab./km²",
+    "hdi": "0,748",
+    "url": "https://pt.wikipedia.org/wiki/Jeriquara"
+},
+{
+    "name": "Jaú",
+    "state": "São Paulo",
+    "distance_to_the_capital": "296",
+    "total_population": "133497 hab.",
+    "total_area": "687,103km²",
+    "density": "194,3hab./km²",
+    "hdi": "0,778",
+    "url": "https://pt.wikipedia.org/wiki/Ja%C3%BA"
+},
+{
+    "name": "Jarinu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "76",
+    "total_population": "31173 hab.",
+    "total_area": "207,671km²",
+    "density": "150,1hab./km²",
+    "hdi": "0,759",
+    "url": "https://pt.wikipedia.org/wiki/Jarinu"
+},
+{
+    "name": "Jardinópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "330",
+    "total_population": "46868 hab.",
+    "total_area": "501,870km²",
+    "density": "93,4hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Jardin%C3%B3polis_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Jambeiro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "122",
+    "total_population": "6828 hab.",
+    "total_area": "184,413km²",
+    "density": "37hab./km²",
+    "hdi": "0,779",
+    "url": "https://pt.wikipedia.org/wiki/Jambeiro_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Jandira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "32",
+    "total_population": "124937 hab.",
+    "total_area": "17,523km²",
+    "density": "7129,9hab./km²",
+    "hdi": "0,760",
+    "url": "https://pt.wikipedia.org/wiki/Jandira"
+},
+{
+    "name": "Jaguariúna",
+    "state": "São Paulo",
+    "distance_to_the_capital": "125",
+    "total_population": "59347 hab.",
+    "total_area": "141,391km²",
+    "density": "419,7hab./km²",
+    "hdi": "0,829",
+    "url": "https://pt.wikipedia.org/wiki/Jaguari%C3%BAna"
+},
+{
+    "name": "Jacupiranga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "217",
+    "total_population": "16116 hab.",
+    "total_area": "708,382km²",
+    "density": "22,8hab./km²",
+    "hdi": "0,76",
+    "url": "https://pt.wikipedia.org/wiki/Jacupiranga"
+},
+{
+    "name": "Jaci",
+    "state": "São Paulo",
+    "distance_to_the_capital": "471",
+    "total_population": "7613 hab.",
+    "total_area": "145,133km²",
+    "density": "52,5hab./km²",
+    "hdi": "0,723",
+    "url": "https://pt.wikipedia.org/wiki/Jaci_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Jacareí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "82",
+    "total_population": "240275 hab.",
+    "total_area": "464,272km²",
+    "density": "517,5hab./km²",
+    "hdi": "0,777",
+    "url": "https://pt.wikipedia.org/wiki/Jacare%C3%AD"
+},
+{
+    "name": "Jaboticabal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "358",
+    "total_population": "71821 hab.",
+    "total_area": "706,602km²",
+    "density": "101,6hab./km²",
+    "hdi": "0,778",
+    "url": "https://pt.wikipedia.org/wiki/Jaboticabal"
+},
+{
+    "name": "Jaborandi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "417",
+    "total_population": "6917 hab.",
+    "total_area": "274,219km²",
+    "density": "25,2hab./km²",
+    "hdi": "0,711",
+    "url": "https://pt.wikipedia.org/wiki/Jaborandi_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Jales",
+    "state": "São Paulo",
+    "distance_to_the_capital": "586",
+    "total_population": "50017 hab.",
+    "total_area": "368,574km²",
+    "density": "135,7hab./km²",
+    "hdi": "0,804",
+    "url": "https://pt.wikipedia.org/wiki/Jales"
+},
+{
+    "name": "Ituverava",
+    "state": "São Paulo",
+    "distance_to_the_capital": "413",
+    "total_population": "37571 hab.",
+    "total_area": "704,659km²",
+    "density": "53,3hab./km²",
+    "hdi": "0,765",
+    "url": "https://pt.wikipedia.org/wiki/Ituverava"
+},
+{
+    "name": "Itupeva",
+    "state": "São Paulo",
+    "distance_to_the_capital": "60",
+    "total_population": "70616 hab.",
+    "total_area": "200,816km²",
+    "density": "351,6hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Itupeva"
+},
+{
+    "name": "Itu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "102",
+    "total_population": "174561 hab.",
+    "total_area": "640,719km²",
+    "density": "272,4hab./km²",
+    "hdi": "0,773",
+    "url": "https://pt.wikipedia.org/wiki/Itu"
+},
+{
+    "name": "Itobi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "249",
+    "total_population": "7546 hab.",
+    "total_area": "138,610km²",
+    "density": "54,4hab./km²",
+    "hdi": "0,782",
+    "url": "https://pt.wikipedia.org/wiki/Itobi"
+},
+{
+    "name": "Itirapuã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "440",
+    "total_population": "8226 hab.",
+    "total_area": "161,490km²",
+    "density": "50,9hab./km²",
+    "hdi": "0,76",
+    "url": "https://pt.wikipedia.org/wiki/Itirapu%C3%A3"
+},
+{
+    "name": "Itirapina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "214",
+    "total_population": "16938 hab.",
+    "total_area": "564,261km²",
+    "density": "30hab./km²",
+    "hdi": "0,783",
+    "url": "https://pt.wikipedia.org/wiki/Itirapina"
+},
+{
+    "name": "Itatinga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "221",
+    "total_population": "24752 hab.",
+    "total_area": "979,872km²",
+    "density": "25,3hab./km²",
+    "hdi": "0,799",
+    "url": "https://pt.wikipedia.org/wiki/Itatinga"
+},
+{
+    "name": "Itatiba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "85",
+    "total_population": "121,590 hab.",
+    "total_area": "322,230km²",
+    "density": "0,4hab./km²",
+    "hdi": "0,7780",
+    "url": "https://pt.wikipedia.org/wiki/Itatiba"
+},
+{
+    "name": "Itaquaquecetuba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "41",
+    "total_population": "369275 hab.",
+    "total_area": "82,622km²",
+    "density": "4469,5hab./km²",
+    "hdi": "0,714",
+    "url": "https://pt.wikipedia.org/wiki/Itaquaquecetuba"
+},
+{
+    "name": "Itaporanga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "291,1",
+    "total_population": "14085 hab.",
+    "total_area": "507,737km²",
+    "density": "27,7hab./km²",
+    "hdi": "0,719",
+    "url": "https://pt.wikipedia.org/wiki/Itaporanga_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Itariri",
+    "state": "São Paulo",
+    "distance_to_the_capital": "157",
+    "total_population": "16602 hab.",
+    "total_area": "272,777km²",
+    "density": "60,9hab./km²",
+    "hdi": "0,75",
+    "url": "https://pt.wikipedia.org/wiki/Itariri"
+},
+{
+    "name": "Itapirapuã Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "381",
+    "total_population": "3884 hab.",
+    "total_area": "406,306km²",
+    "density": "9,6hab./km²",
+    "hdi": "0,661",
+    "url": "https://pt.wikipedia.org/wiki/Itapirapu%C3%A3_Paulista"
+},
+{
+    "name": "Itararé",
+    "state": "São Paulo",
+    "distance_to_the_capital": "345",
+    "total_population": "44438 hab.",
+    "total_area": "1003,860km²",
+    "density": "44,3hab./km²",
+    "hdi": "0,732",
+    "url": "https://pt.wikipedia.org/wiki/Itarar%C3%A9"
+},
+{
+    "name": "Itapuí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "320",
+    "total_population": "13659 hab.",
+    "total_area": "140,023km²",
+    "density": "97,5hab./km²",
+    "hdi": "0,725",
+    "url": "https://pt.wikipedia.org/wiki/Itapu%C3%AD"
+},
+{
+    "name": "Itapura",
+    "state": "São Paulo",
+    "distance_to_the_capital": "677",
+    "total_population": "4674 hab.",
+    "total_area": "307,265km²",
+    "density": "15,2hab./km²",
+    "hdi": "0,739",
+    "url": "https://pt.wikipedia.org/wiki/Itapura"
+},
+{
+    "name": "Itápolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "360",
+    "total_population": "43536 hab.",
+    "total_area": "996,747km²",
+    "density": "43,7hab./km²",
+    "hdi": "0,785",
+    "url": "https://pt.wikipedia.org/wiki/It%C3%A1polis"
+},
+{
+    "name": "Itapecerica da Serra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "33",
+    "total_population": "158522 hab.",
+    "total_area": "151,458km²",
+    "density": "1046,6hab./km²",
+    "hdi": "0,742",
+    "url": "https://pt.wikipedia.org/wiki/Itapecerica_da_Serra"
+},
+{
+    "name": "Itapira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "173",
+    "total_population": "74299 hab.",
+    "total_area": "518,416km²",
+    "density": "143,3hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/Itapira"
+},
+{
+    "name": "Itapetininga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "171",
+    "total_population": "157790 hab.",
+    "total_area": "1789,350km²",
+    "density": "88,2hab./km²",
+    "hdi": "0,763",
+    "url": "https://pt.wikipedia.org/wiki/Itapetininga"
+},
+{
+    "name": "Itaju",
+    "state": "São Paulo",
+    "distance_to_the_capital": "338",
+    "total_population": "3556 hab.",
+    "total_area": "228,777km²",
+    "density": "15,5hab./km²",
+    "hdi": "0,705",
+    "url": "https://pt.wikipedia.org/wiki/Itaju"
+},
+{
+    "name": "Itanhaém",
+    "state": "São Paulo",
+    "distance_to_the_capital": "109",
+    "total_population": "112476 hab.",
+    "total_area": "601,711km²",
+    "density": "186,9hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/Itanha%C3%A9m"
+},
+{
+    "name": "Itapeva",
+    "state": "São Paulo",
+    "distance_to_the_capital": "292",
+    "total_population": "89728 hab.",
+    "total_area": "1826,26km²",
+    "density": "49,1hab./km²",
+    "hdi": "0,732",
+    "url": "https://pt.wikipedia.org/wiki/Itapeva_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Itapevi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "35",
+    "total_population": "232513 hab.",
+    "total_area": "82,659km²",
+    "density": "2812,95 hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Itapevi"
+},
+{
+    "name": "Itaoca",
+    "state": "São Paulo",
+    "distance_to_the_capital": "343 km",
+    "total_population": "3228 hab.",
+    "total_area": "182,495km²",
+    "density": "17,7hab./km²",
+    "hdi": "0,65",
+    "url": "https://pt.wikipedia.org/wiki/Itaoca"
+},
+{
+    "name": "Itaberá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "318",
+    "total_population": "17983 hab.",
+    "total_area": "1100,247km²",
+    "density": "16,3hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Itaber%C3%A1"
+},
+{
+    "name": "Itajobi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "400",
+    "total_population": "16989 hab.",
+    "total_area": "502,1km²",
+    "density": "33,8hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Itajobi"
+},
+{
+    "name": "Itaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "300",
+    "total_population": "25180 hab.",
+    "total_area": "1092,884km²",
+    "density": "23hab./km²",
+    "hdi": "0,728",
+    "url": "https://pt.wikipedia.org/wiki/Ita%C3%AD"
+},
+{
+    "name": "Iracemápolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "153",
+    "total_population": "20029 hab.",
+    "total_area": "115,118km²",
+    "density": "174hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Iracem%C3%A1polis"
+},
+{
+    "name": "Ipuã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "411",
+    "total_population": "14454 hab.",
+    "total_area": "466,461km²",
+    "density": "31hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Ipu%C3%A3"
+},
+{
+    "name": "Irapuã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "425",
+    "total_population": "6867 hab.",
+    "total_area": "257,612km²",
+    "density": "26,7hab./km²",
+    "hdi": "0,766",
+    "url": "https://pt.wikipedia.org/wiki/Irapu%C3%A3_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Iporanga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "360",
+    "total_population": "4046 hab.",
+    "total_area": "1152,06km²",
+    "density": "3,5hab./km²",
+    "hdi": "0,703",
+    "url": "https://pt.wikipedia.org/wiki/Iporanga"
+},
+{
+    "name": "Irapuru",
+    "state": "São Paulo",
+    "distance_to_the_capital": "648",
+    "total_population": "8217 hab.",
+    "total_area": "213,403km²",
+    "density": "38,5hab./km²",
+    "hdi": "0,76",
+    "url": "https://pt.wikipedia.org/wiki/Irapuru_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Ipiguá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "471",
+    "total_population": "6761 hab.",
+    "total_area": "136,028km²",
+    "density": "49,7hab./km²",
+    "hdi": "0,79",
+    "url": "https://pt.wikipedia.org/wiki/Ipigu%C3%A1"
+},
+{
+    "name": "Ipeúna",
+    "state": "São Paulo",
+    "distance_to_the_capital": "200",
+    "total_population": "6016 hab.",
+    "total_area": "190,534km²",
+    "density": "31,6hab./km²",
+    "hdi": "0,786",
+    "url": "https://pt.wikipedia.org/wiki/Ipe%C3%BAna"
+},
+{
+    "name": "Iperó",
+    "state": "São Paulo",
+    "distance_to_the_capital": "120",
+    "total_population": "37133 hab.",
+    "total_area": "170,940km²",
+    "density": "217,2hab./km²",
+    "hdi": "0,779",
+    "url": "https://pt.wikipedia.org/wiki/Iper%C3%B3"
+},
+{
+    "name": "Ipaussu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "315",
+    "total_population": "13663 hab.",
+    "total_area": "209,141km²",
+    "density": "65,3hab./km²",
+    "hdi": "0,795",
+    "url": "https://pt.wikipedia.org/wiki/Ipaussu"
+},
+{
+    "name": "Inúbia Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "580",
+    "total_population": "3907 hab.",
+    "total_area": "86,710km²",
+    "density": "45,1hab./km²",
+    "hdi": "0,786",
+    "url": "https://pt.wikipedia.org/wiki/In%C3%BAbia_Paulista"
+},
+{
+    "name": "Indiaporã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "600",
+    "total_population": "3903 hab.",
+    "total_area": "279,88km²",
+    "density": "13,9hab./km²",
+    "hdi": "0,751",
+    "url": "https://pt.wikipedia.org/wiki/Indiapor%C3%A3"
+},
+{
+    "name": "Ilha Solteira",
+    "state": "São Paulo",
+    "distance_to_the_capital": "674",
+    "total_population": "25549 hab.",
+    "total_area": "661,3km²",
+    "density": "38,6hab./km²",
+    "hdi": "0,812",
+    "url": "https://pt.wikipedia.org/wiki/Ilha_Solteira"
+},
+{
+    "name": "Indaiatuba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "99",
+    "total_population": "260690 hab.",
+    "total_area": "311,545km²",
+    "density": "836,8hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Indaiatuba"
+},
+{
+    "name": "Indiana",
+    "state": "São Paulo",
+    "distance_to_the_capital": "498 (em linha reta)",
+    "total_population": "4873 hab.",
+    "total_area": "129367km²",
+    "density": "0hab./km²",
+    "hdi": "0,789",
+    "url": "https://pt.wikipedia.org/wiki/Indiana_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Ilha Comprida",
+    "state": "São Paulo",
+    "distance_to_the_capital": "209",
+    "total_population": "13,447 hab.",
+    "total_area": "192,09km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,725",
+    "url": "https://pt.wikipedia.org/wiki/Ilha_Comprida"
+},
+{
+    "name": "Iguape",
+    "state": "São Paulo",
+    "distance_to_the_capital": "202",
+    "total_population": "29115 hab.",
+    "total_area": "1978,795km²",
+    "density": "14,7hab./km²",
+    "hdi": "0,726",
+    "url": "https://pt.wikipedia.org/wiki/Iguape"
+},
+{
+    "name": "Ilhabela",
+    "state": "São Paulo",
+    "distance_to_the_capital": "212",
+    "total_population": "36194 hab.",
+    "total_area": "346,389km²",
+    "density": "104,5hab./km²",
+    "hdi": "0,756",
+    "url": "https://pt.wikipedia.org/wiki/Ilhabela"
+},
+{
+    "name": "Igarapava",
+    "state": "São Paulo",
+    "distance_to_the_capital": "447",
+    "total_population": "26,212 hab.",
+    "total_area": "468,355km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,768",
+    "url": "https://pt.wikipedia.org/wiki/Igarapava"
+},
+{
+    "name": "Igaraçu do Tietê",
+    "state": "São Paulo",
+    "distance_to_the_capital": "294",
+    "total_population": "24376 hab.",
+    "total_area": "96,618km²",
+    "density": "252,3hab./km²",
+    "hdi": "0,77",
+    "url": "https://pt.wikipedia.org/wiki/Igara%C3%A7u_do_Tiet%C3%AA"
+},
+{
+    "name": "Igaratá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "89",
+    "total_population": "9631 hab.",
+    "total_area": "293,953km²",
+    "density": "32,8hab./km²",
+    "hdi": "0,764",
+    "url": "https://pt.wikipedia.org/wiki/Igarat%C3%A1"
+},
+{
+    "name": "Iepê",
+    "state": "São Paulo",
+    "distance_to_the_capital": "525",
+    "total_population": "7,619 hab.",
+    "total_area": "594,974km²",
+    "density": "12,80 hab./km²",
+    "hdi": "0,75",
+    "url": "https://pt.wikipedia.org/wiki/Iep%C3%AA"
+},
+{
+    "name": "Icém",
+    "state": "São Paulo",
+    "distance_to_the_capital": "530",
+    "total_population": "7819 hab.",
+    "total_area": "362,355km²",
+    "density": "21,6hab./km²",
+    "hdi": "0,720",
+    "url": "https://pt.wikipedia.org/wiki/Ic%C3%A9m"
+},
+{
+    "name": "Ibiúna",
+    "state": "São Paulo",
+    "distance_to_the_capital": "70",
+    "total_population": "80062 hab.",
+    "total_area": "1059,689km²",
+    "density": "75,6hab./km²",
+    "hdi": "0,746",
+    "url": "https://pt.wikipedia.org/wiki/Ibi%C3%BAna"
+},
+{
+    "name": "Ibitinga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "360",
+    "total_population": "61150 hab.",
+    "total_area": "689,391km²",
+    "density": "88,7hab./km²",
+    "hdi": "0,747",
+    "url": "https://pt.wikipedia.org/wiki/Ibitinga"
+},
+{
+    "name": "Ibirarema",
+    "state": "São Paulo",
+    "distance_to_the_capital": "407",
+    "total_population": "6725 hab.",
+    "total_area": "228,453km²",
+    "density": "29,4hab./km²",
+    "hdi": "0,775",
+    "url": "https://pt.wikipedia.org/wiki/Ibirarema"
+},
+{
+    "name": "Ibirá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "420",
+    "total_population": "11690 hab.",
+    "total_area": "271,912km²",
+    "density": "43hab./km²",
+    "hdi": "0,801",
+    "url": "https://pt.wikipedia.org/wiki/Ibir%C3%A1"
+},
+{
+    "name": "Ibaté",
+    "state": "São Paulo",
+    "distance_to_the_capital": "247",
+    "total_population": "32810 hab.",
+    "total_area": "289,544km²",
+    "density": "113,3hab./km²",
+    "hdi": "0,79",
+    "url": "https://pt.wikipedia.org/wiki/Ibat%C3%A9"
+},
+{
+    "name": "Iaras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "285",
+    "total_population": "7704 hab.",
+    "total_area": "401,371km²",
+    "density": "19,2hab./km²",
+    "hdi": "0,742",
+    "url": "https://pt.wikipedia.org/wiki/Iaras"
+},
+{
+    "name": "Iacri",
+    "state": "São Paulo",
+    "distance_to_the_capital": "550",
+    "total_population": "6,131 hab.",
+    "total_area": "321,948km²",
+    "density": "0hab./km²",
+    "hdi": "0,733",
+    "url": "https://pt.wikipedia.org/wiki/Iacri"
+},
+{
+    "name": "Iacanga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "376",
+    "total_population": "11858 hab.",
+    "total_area": "548,029km²",
+    "density": "21,6hab./km²",
+    "hdi": "0,779",
+    "url": "https://pt.wikipedia.org/wiki/Iacanga"
+},
+{
+    "name": "Holambra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "120",
+    "total_population": "15605 hab.",
+    "total_area": "64,277km²",
+    "density": "242,8hab./km²",
+    "hdi": "0,793",
+    "url": "https://pt.wikipedia.org/wiki/Holambra"
+},
+{
+    "name": "Herculândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "511",
+    "total_population": "9526 hab.",
+    "total_area": "365,136km²",
+    "density": "26,1hab./km²",
+    "hdi": "0,738",
+    "url": "https://pt.wikipedia.org/wiki/Hercul%C3%A2ndia"
+},
+{
+    "name": "Hortolândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "114",
+    "total_population": "236641 hab.",
+    "total_area": "62,276km²",
+    "density": "3799,9hab./km²",
+    "hdi": "0,756",
+    "url": "https://pt.wikipedia.org/wiki/Hortol%C3%A2ndia"
+},
+{
+    "name": "Guatapará",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "7496 hab.",
+    "total_area": "412,637km²",
+    "density": "18,2hab./km²",
+    "hdi": "0,743",
+    "url": "https://pt.wikipedia.org/wiki/Guatapar%C3%A1"
+},
+{
+    "name": "Guarulhos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "14,35",
+    "total_population": "1291784 hab.",
+    "total_area": "318,675km²",
+    "density": "4053,6hab./km²",
+    "hdi": "0,763",
+    "url": "https://pt.wikipedia.org/wiki/Guarulhos"
+},
+{
+    "name": "Guaratinguetá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "175",
+    "total_population": "121798 hab.",
+    "total_area": "752,636km²",
+    "density": "161,8hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Guaratinguet%C3%A1"
+},
+{
+    "name": "Guararema",
+    "state": "São Paulo",
+    "distance_to_the_capital": "81",
+    "total_population": "30465 hab.",
+    "total_area": "270,816km²",
+    "density": "112,5hab./km²",
+    "hdi": "0,731",
+    "url": "https://pt.wikipedia.org/wiki/Guararema"
+},
+{
+    "name": "Guareí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "186",
+    "total_population": "15013 hab.",
+    "total_area": "566,260km²",
+    "density": "26,5hab./km²",
+    "hdi": "0,746",
+    "url": "https://pt.wikipedia.org/wiki/Guare%C3%AD"
+},
+{
+    "name": "Guarujá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "95",
+    "total_population": "320459 hab.",
+    "total_area": "142,589km²",
+    "density": "2247,4hab./km²",
+    "hdi": "0,751",
+    "url": "https://pt.wikipedia.org/wiki/Guaruj%C3%A1"
+},
+{
+    "name": "Guariba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "342",
+    "total_population": "37,498 hab.",
+    "total_area": "270,289km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,756",
+    "url": "https://pt.wikipedia.org/wiki/Guariba_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Guzolândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "590",
+    "total_population": "5307 hab.",
+    "total_area": "252,47km²",
+    "density": "21hab./km²",
+    "hdi": "0,729",
+    "url": "https://pt.wikipedia.org/wiki/Guzol%C3%A2ndia"
+},
+{
+    "name": "Guararapes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "545",
+    "total_population": "30732 hab.",
+    "total_area": "956,580km²",
+    "density": "32,1hab./km²",
+    "hdi": "0,802",
+    "url": "https://pt.wikipedia.org/wiki/Guararapes_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Guarantã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "405",
+    "total_population": "6,675 hab.",
+    "total_area": "461,795km²",
+    "density": "0hab./km²",
+    "hdi": "0,727",
+    "url": "https://pt.wikipedia.org/wiki/Guarant%C3%A3_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Guará",
+    "state": "São Paulo",
+    "distance_to_the_capital": "405",
+    "total_population": "18,606 hab.",
+    "total_area": "362,183km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,718",
+    "url": "https://pt.wikipedia.org/wiki/Guar%C3%A1_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Guapiara",
+    "state": "São Paulo",
+    "distance_to_the_capital": "230",
+    "total_population": "17071 hab.",
+    "total_area": "408,292km²",
+    "density": "41,8hab./km²",
+    "hdi": "0,675",
+    "url": "https://pt.wikipedia.org/wiki/Guapiara"
+},
+{
+    "name": "Guapiaçu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "450",
+    "total_population": "21711 hab.",
+    "total_area": "325,126km²",
+    "density": "66,8hab./km²",
+    "hdi": "0,725",
+    "url": "https://pt.wikipedia.org/wiki/Guapia%C3%A7u"
+},
+{
+    "name": "Guarani d'Oeste",
+    "state": "São Paulo",
+    "distance_to_the_capital": "595",
+    "total_population": "1970 hab.",
+    "total_area": "85,5km²",
+    "density": "23hab./km²",
+    "hdi": "0,757",
+    "url": "https://pt.wikipedia.org/wiki/Guarani_d%27Oeste"
+},
+{
+    "name": "Guaraci",
+    "state": "São Paulo",
+    "distance_to_the_capital": "465",
+    "total_population": "10350 hab.",
+    "total_area": "641,501km²",
+    "density": "16,1hab./km²",
+    "hdi": "0,737",
+    "url": "https://pt.wikipedia.org/wiki/Guaraci_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Guaraçaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "616",
+    "total_population": "8435 hab.",
+    "total_area": "568,397km²",
+    "density": "14,8hab./km²",
+    "hdi": "0,719",
+    "url": "https://pt.wikipedia.org/wiki/Guara%C3%A7a%C3%AD_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Guaimbê",
+    "state": "São Paulo",
+    "distance_to_the_capital": "467",
+    "total_population": "5425 hab.",
+    "total_area": "217,448km²",
+    "density": "24,9hab./km²",
+    "hdi": "0,728",
+    "url": "https://pt.wikipedia.org/wiki/Guaimb%C3%AA"
+},
+{
+    "name": "Guaiçara",
+    "state": "São Paulo",
+    "distance_to_the_capital": "470",
+    "total_population": "10671 hab.",
+    "total_area": "269,300km²",
+    "density": "39,6hab./km²",
+    "hdi": "0,778",
+    "url": "https://pt.wikipedia.org/wiki/Guai%C3%A7ara"
+},
+{
+    "name": "Glicério",
+    "state": "São Paulo",
+    "distance_to_the_capital": "443",
+    "total_population": "4138 hab.",
+    "total_area": "272,80km²",
+    "density": "15,2hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Glic%C3%A9rio_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Getulina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "466",
+    "total_population": "10777 hab.",
+    "total_area": "675,428km²",
+    "density": "16hab./km²",
+    "hdi": "0,77",
+    "url": "https://pt.wikipedia.org/wiki/Getulina"
+},
+{
+    "name": "General Salgado",
+    "state": "São Paulo",
+    "distance_to_the_capital": "548",
+    "total_population": "10669 hab.",
+    "total_area": "493,3km²",
+    "density": "21,6hab./km²",
+    "hdi": "0,762",
+    "url": "https://pt.wikipedia.org/wiki/General_Salgado"
+},
+{
+    "name": "Gavião Peixoto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "304",
+    "total_population": "4420 hab.",
+    "total_area": "243,711km²",
+    "density": "18,1hab./km²",
+    "hdi": "0,763",
+    "url": "https://pt.wikipedia.org/wiki/Gavi%C3%A3o_Peixoto"
+},
+{
+    "name": "Gastão Vidigal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "4193 hab.",
+    "total_area": "180,9km²",
+    "density": "23,2hab./km²",
+    "hdi": "0,768",
+    "url": "https://pt.wikipedia.org/wiki/Gast%C3%A3o_Vidigal_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Guaíra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "450",
+    "total_population": "42480 hab.",
+    "total_area": "1258,476km²",
+    "density": "33,8hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/Gua%C3%ADra_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Garça",
+    "state": "São Paulo",
+    "distance_to_the_capital": "405",
+    "total_population": "43115 hab.",
+    "total_area": "555,807km²",
+    "density": "77,6hab./km²",
+    "hdi": "0,769",
+    "url": "https://pt.wikipedia.org/wiki/Gar%C3%A7a_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Gália",
+    "state": "São Paulo",
+    "distance_to_the_capital": "401",
+    "total_population": "6380 hab.",
+    "total_area": "355914km²",
+    "density": "0hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/G%C3%A1lia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Gabriel Monteiro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "550",
+    "total_population": "2705 hab.",
+    "total_area": "138,533km²",
+    "density": "19,5hab./km²",
+    "hdi": "0,768",
+    "url": "https://pt.wikipedia.org/wiki/Gabriel_Monteiro"
+},
+{
+    "name": "Franco da Rocha",
+    "state": "São Paulo",
+    "distance_to_the_capital": "27",
+    "total_population": "158438 hab.",
+    "total_area": "132,775km²",
+    "density": "1193,3hab./km²",
+    "hdi": "0,731",
+    "url": "https://pt.wikipedia.org/wiki/Franco_da_Rocha"
+},
+{
+    "name": "Francisco Morato",
+    "state": "São Paulo",
+    "distance_to_the_capital": "32",
+    "total_population": "165139 hab.",
+    "total_area": "49,164km²",
+    "density": "3358,9hab./km²",
+    "hdi": "0,703",
+    "url": "https://pt.wikipedia.org/wiki/Francisco_Morato"
+},
+{
+    "name": "Florínea",
+    "state": "São Paulo",
+    "distance_to_the_capital": "484",
+    "total_population": "2829 hab.",
+    "total_area": "227,359km²",
+    "density": "12,4hab./km²",
+    "hdi": "0,713",
+    "url": "https://pt.wikipedia.org/wiki/Flor%C3%ADnea"
+},
+{
+    "name": "Flórida Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "607",
+    "total_population": "12958 hab.",
+    "total_area": "524,138km²",
+    "density": "24,7hab./km²",
+    "hdi": "0,715",
+    "url": "https://pt.wikipedia.org/wiki/Fl%C3%B3rida_Paulista"
+},
+{
+    "name": "Floreal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "521",
+    "total_population": "3003 hab.",
+    "total_area": "204,3km²",
+    "density": "14,7hab./km²",
+    "hdi": "0,8",
+    "url": "https://pt.wikipedia.org/wiki/Floreal"
+},
+{
+    "name": "Franca",
+    "state": "São Paulo",
+    "distance_to_the_capital": "400",
+    "total_population": "364331 hab.",
+    "total_area": "605,679km²",
+    "density": "601,5hab./km²",
+    "hdi": "0,780",
+    "url": "https://pt.wikipedia.org/wiki/Franca"
+},
+{
+    "name": "Flora Rica",
+    "state": "São Paulo",
+    "distance_to_the_capital": "535",
+    "total_population": "1602 hab.",
+    "total_area": "225,115km²",
+    "density": "7,1hab./km²",
+    "hdi": "0,747",
+    "url": "https://pt.wikipedia.org/wiki/Flora_Rica"
+},
+{
+    "name": "Ferraz de Vasconcelos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "23",
+    "total_population": "196500 hab.",
+    "total_area": "30,071km²",
+    "density": "6534,5hab./km²",
+    "hdi": "0,738",
+    "url": "https://pt.wikipedia.org/wiki/Ferraz_de_Vasconcelos"
+},
+{
+    "name": "Fernão",
+    "state": "São Paulo",
+    "distance_to_the_capital": "189,2 km",
+    "total_population": "1656 hab.",
+    "total_area": "100,297km²",
+    "density": "16,5hab./km²",
+    "hdi": "0,748",
+    "url": "https://pt.wikipedia.org/wiki/Fern%C3%A3o_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Fernandópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "557",
+    "total_population": "71186 hab.",
+    "total_area": "549,797km²",
+    "density": "129,5hab./km²",
+    "hdi": "0,797",
+    "url": "https://pt.wikipedia.org/wiki/Fernand%C3%B3polis"
+},
+{
+    "name": "Fernando Prestes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "365",
+    "total_population": "5534 hab.",
+    "total_area": "170,112km²",
+    "density": "32,5hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Fernando_Prestes"
+},
+{
+    "name": "Fartura",
+    "state": "São Paulo",
+    "distance_to_the_capital": "357",
+    "total_population": "16641 hab.",
+    "total_area": "429,464km²",
+    "density": "38,7hab./km²",
+    "hdi": "0,732",
+    "url": "https://pt.wikipedia.org/wiki/Fartura"
+},
+{
+    "name": "Euclides da Cunha Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "708",
+    "total_population": "9600 hab.",
+    "total_area": "577,122km²",
+    "density": "16,6hab./km²",
+    "hdi": "0,738",
+    "url": "https://pt.wikipedia.org/wiki/Euclides_da_Cunha_Paulista"
+},
+{
+    "name": "Estrela d'Oeste",
+    "state": "São Paulo",
+    "distance_to_the_capital": "572",
+    "total_population": "8208 hab.",
+    "total_area": "296,4km²",
+    "density": "27,7hab./km²",
+    "hdi": "0,792",
+    "url": "https://pt.wikipedia.org/wiki/Estrela_d%27Oeste"
+},
+{
+    "name": "Estrela do Norte",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "2661 hab.",
+    "total_area": "263,273km²",
+    "density": "10,1hab./km²",
+    "hdi": "0,767",
+    "url": "https://pt.wikipedia.org/wiki/Estrela_do_Norte_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Estiva Gerbi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "175",
+    "total_population": "10772 hab.",
+    "total_area": "73,723km²",
+    "density": "146,1hab./km²",
+    "hdi": "0,740",
+    "url": "https://pt.wikipedia.org/wiki/Estiva_Gerbi"
+},
+{
+    "name": "Espírito Santo do Turvo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "320",
+    "total_population": "4246 hab.",
+    "total_area": "191,294km²",
+    "density": "22,2hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/Esp%C3%ADrito_Santo_do_Turvo"
+},
+{
+    "name": "Espírito Santo do Pinhal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "202",
+    "total_population": "44607 hab.",
+    "total_area": "390,413km²",
+    "density": "114,3hab./km²",
+    "hdi": "0,787",
+    "url": "https://pt.wikipedia.org/wiki/Esp%C3%ADrito_Santo_do_Pinhal"
+},
+{
+    "name": "Engenheiro Coelho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "167",
+    "total_population": "19566 hab.",
+    "total_area": "109,798km²",
+    "density": "178,2hab./km²",
+    "hdi": "0,792",
+    "url": "https://pt.wikipedia.org/wiki/Engenheiro_Coelho"
+},
+{
+    "name": "Emilianópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "610",
+    "total_population": "3186 hab.",
+    "total_area": "223,311km²",
+    "density": "14,3hab./km²",
+    "hdi": "0,751",
+    "url": "https://pt.wikipedia.org/wiki/Emilian%C3%B3polis"
+},
+{
+    "name": "Embu-Guaçu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "48",
+    "total_population": "69385 hab.",
+    "total_area": "155,641km²",
+    "density": "445,8hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Embu-Gua%C3%A7u"
+},
+{
+    "name": "Embaúba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "2423 hab.",
+    "total_area": "83,1km²",
+    "density": "29,2hab./km²",
+    "hdi": "0,757",
+    "url": "https://pt.wikipedia.org/wiki/Emba%C3%BAba_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Elisiário",
+    "state": "São Paulo",
+    "distance_to_the_capital": "402",
+    "total_population": "3120 hab.",
+    "total_area": "94km²",
+    "density": "33,2hab./km²",
+    "hdi": "0,764",
+    "url": "https://pt.wikipedia.org/wiki/Elisi%C3%A1rio"
+},
+{
+    "name": "Elias Fausto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "131",
+    "total_population": "15796 hab.",
+    "total_area": "201,471km²",
+    "density": "78,4hab./km²",
+    "hdi": "0,768",
+    "url": "https://pt.wikipedia.org/wiki/Elias_Fausto"
+},
+{
+    "name": "Eldorado",
+    "state": "São Paulo",
+    "distance_to_the_capital": "249",
+    "total_population": "13069 hab.",
+    "total_area": "1,654,256km²",
+    "density": "7901,5hab./km²",
+    "hdi": "0,733",
+    "url": "https://pt.wikipedia.org/wiki/Eldorado_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Echaporã",
+    "state": "São Paulo",
+    "distance_to_the_capital": "464",
+    "total_population": "6205 hab.",
+    "total_area": "515,244km²",
+    "density": "12hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/Echapor%C3%A3"
+},
+{
+    "name": "Dumont",
+    "state": "São Paulo",
+    "distance_to_the_capital": "333",
+    "total_population": "10023 hab.",
+    "total_area": "110,866km²",
+    "density": "90,4hab./km²",
+    "hdi": "0,744",
+    "url": "https://pt.wikipedia.org/wiki/Dumont"
+},
+{
+    "name": "Duartina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "366",
+    "total_population": "12,328 hab.",
+    "total_area": "264,557km²",
+    "density": "0hab./km²",
+    "hdi": "0,748",
+    "url": "https://pt.wikipedia.org/wiki/Duartina"
+},
+{
+    "name": "Embu das Artes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "36",
+    "total_population": "250,691 hab.",
+    "total_area": "70,398km²",
+    "density": "3,6hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Embu_das_Artes"
+},
+{
+    "name": "Dracena",
+    "state": "São Paulo",
+    "distance_to_the_capital": "650",
+    "total_population": "47287 hab.",
+    "total_area": "488,041km²",
+    "density": "96,9hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Dracena"
+},
+{
+    "name": "Dourado",
+    "state": "São Paulo",
+    "distance_to_the_capital": "260",
+    "total_population": "8890 hab.",
+    "total_area": "205,981km²",
+    "density": "43,2hab./km²",
+    "hdi": "0,78",
+    "url": "https://pt.wikipedia.org/wiki/Dourado_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Dolcinópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "620",
+    "total_population": "2096 hab.",
+    "total_area": "78,3km²",
+    "density": "26,8hab./km²",
+    "hdi": "0,76",
+    "url": "https://pt.wikipedia.org/wiki/Dolcin%C3%B3polis"
+},
+{
+    "name": "Dois Córregos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "265",
+    "total_population": "27704 hab.",
+    "total_area": "632,973km²",
+    "density": "43,8hab./km²",
+    "hdi": "0,725",
+    "url": "https://pt.wikipedia.org/wiki/Dois_C%C3%B3rregos"
+},
+{
+    "name": "Dobrada",
+    "state": "São Paulo",
+    "distance_to_the_capital": "320",
+    "total_population": "7939 hab.",
+    "total_area": "150,085km²",
+    "density": "52,9hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/Dobrada"
+},
+{
+    "name": "Divinolândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "285",
+    "total_population": "11209 hab.",
+    "total_area": "222,257km²",
+    "density": "50,4hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Divinol%C3%A2ndia"
+},
+{
+    "name": "Dirce Reis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "700",
+    "total_population": "1799 hab.",
+    "total_area": "88,133km²",
+    "density": "20,4hab./km²",
+    "hdi": "0,737",
+    "url": "https://pt.wikipedia.org/wiki/Dirce_Reis"
+},
+{
+    "name": "Diadema",
+    "state": "São Paulo",
+    "distance_to_the_capital": "17",
+    "total_population": "393237 hab.",
+    "total_area": "30,732km²",
+    "density": "12795,7hab./km²",
+    "hdi": "0,757",
+    "url": "https://pt.wikipedia.org/wiki/Diadema"
+},
+{
+    "name": "Descalvado",
+    "state": "São Paulo",
+    "distance_to_the_capital": "242",
+    "total_population": "31916 hab.",
+    "total_area": "753,706km²",
+    "density": "42,3hab./km²",
+    "hdi": "0,75",
+    "url": "https://pt.wikipedia.org/wiki/Descalvado"
+},
+{
+    "name": "Cunha",
+    "state": "São Paulo",
+    "distance_to_the_capital": "228",
+    "total_population": "21547 hab.",
+    "total_area": "1407,25km²",
+    "density": "15,3hab./km²",
+    "hdi": "0,684",
+    "url": "https://pt.wikipedia.org/wiki/Cunha_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Cubatão",
+    "state": "São Paulo",
+    "distance_to_the_capital": "68",
+    "total_population": "133821 hab.",
+    "total_area": "142,879km²",
+    "density": "936,6hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Cubat%C3%A3o"
+},
+{
+    "name": "Cruzeiro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "220",
+    "total_population": "74961 hab.",
+    "total_area": "305,699km²",
+    "density": "245,2hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Cruzeiro_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Cruzália",
+    "state": "São Paulo",
+    "distance_to_the_capital": "480",
+    "total_population": "2270 hab.",
+    "total_area": "149,173km²",
+    "density": "15,2hab./km²",
+    "hdi": "0,786",
+    "url": "https://pt.wikipedia.org/wiki/Cruz%C3%A1lia"
+},
+{
+    "name": "Cristais Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "405",
+    "total_population": "8631 hab.",
+    "total_area": "385,230km²",
+    "density": "22,4hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/Cristais_Paulista"
+},
+{
+    "name": "Cravinhos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "297",
+    "total_population": "34252 hab.",
+    "total_area": "311,341km²",
+    "density": "110hab./km²",
+    "hdi": "0,756",
+    "url": "https://pt.wikipedia.org/wiki/Cravinhos"
+},
+{
+    "name": "Coroados",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "5986 hab.",
+    "total_area": "246,544km²",
+    "density": "24,3hab./km²",
+    "hdi": "0,802",
+    "url": "https://pt.wikipedia.org/wiki/Coroados_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Cosmorama",
+    "state": "São Paulo",
+    "distance_to_the_capital": "504",
+    "total_population": "7214 hab.",
+    "total_area": "443,8km²",
+    "density": "16,3hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/Cosmorama"
+},
+{
+    "name": "Coronel Macedo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "330",
+    "total_population": "4280 hab.",
+    "total_area": "304,505km²",
+    "density": "14,1hab./km²",
+    "hdi": "0,711",
+    "url": "https://pt.wikipedia.org/wiki/Coronel_Macedo"
+},
+{
+    "name": "Cosmópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "130",
+    "total_population": "59773 hab.",
+    "total_area": "154,730km²",
+    "density": "386,3hab./km²",
+    "hdi": "0,799",
+    "url": "https://pt.wikipedia.org/wiki/Cosm%C3%B3polis"
+},
+{
+    "name": "Corumbataí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "202",
+    "total_population": "4027 hab.",
+    "total_area": "278,143km²",
+    "density": "14,5hab./km²",
+    "hdi": "0,78",
+    "url": "https://pt.wikipedia.org/wiki/Corumbata%C3%AD"
+},
+{
+    "name": "Conchas",
+    "state": "São Paulo",
+    "distance_to_the_capital": "210",
+    "total_population": "16288 hab.",
+    "total_area": "466km²",
+    "density": "35hab./km²",
+    "hdi": "0,736",
+    "url": "https://pt.wikipedia.org/wiki/Conchas"
+},
+{
+    "name": "Cotia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "34",
+    "total_population": "274,413 hab.",
+    "total_area": "323,994km²",
+    "density": "0,8hab./km²",
+    "hdi": "0,780",
+    "url": "https://pt.wikipedia.org/wiki/Cotia"
+},
+{
+    "name": "Cordeirópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "160",
+    "total_population": "25116 hab.",
+    "total_area": "137,579km²",
+    "density": "182,6hab./km²",
+    "hdi": "0,758",
+    "url": "https://pt.wikipedia.org/wiki/Cordeir%C3%B3polis"
+},
+{
+    "name": "Conchal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "176",
+    "total_population": "28105 hab.",
+    "total_area": "183,826km²",
+    "density": "152,9hab./km²",
+    "hdi": "0,77",
+    "url": "https://pt.wikipedia.org/wiki/Conchal"
+},
+{
+    "name": "Colômbia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "482",
+    "total_population": "6203 hab.",
+    "total_area": "729,252km²",
+    "density": "8,5hab./km²",
+    "hdi": "0,710",
+    "url": "https://pt.wikipedia.org/wiki/Col%C3%B4mbia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Colina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "405",
+    "total_population": "18245 hab.",
+    "total_area": "422,303km²",
+    "density": "43,2hab./km²",
+    "hdi": "0,824",
+    "url": "https://pt.wikipedia.org/wiki/Colina_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Chavantes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "370",
+    "total_population": "12482 hab.",
+    "total_area": "188,212km²",
+    "density": "66,3hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Chavantes"
+},
+{
+    "name": "Clementina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "524",
+    "total_population": "7992 hab.",
+    "total_area": "168,739km²",
+    "density": "47,4hab./km²",
+    "hdi": "0,792",
+    "url": "https://pt.wikipedia.org/wiki/Clementina_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Charqueada",
+    "state": "São Paulo",
+    "distance_to_the_capital": "180",
+    "total_population": "15086 hab.",
+    "total_area": "175,998km²",
+    "density": "85,7hab./km²",
+    "hdi": "0,736",
+    "url": "https://pt.wikipedia.org/wiki/Charqueada_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Cerquilho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "143",
+    "total_population": "44695 hab.",
+    "total_area": "127,803km²",
+    "density": "349,7hab./km²",
+    "hdi": "0,782",
+    "url": "https://pt.wikipedia.org/wiki/Cerquilho"
+},
+{
+    "name": "Cesário Lange",
+    "state": "São Paulo",
+    "distance_to_the_capital": "146",
+    "total_population": "17915 hab.",
+    "total_area": "190,189km²",
+    "density": "94,2hab./km²",
+    "hdi": "0,767",
+    "url": "https://pt.wikipedia.org/wiki/Ces%C3%A1rio_Lange"
+},
+{
+    "name": "Cerqueira César",
+    "state": "São Paulo",
+    "distance_to_the_capital": "293",
+    "total_population": "21469 hab.",
+    "total_area": "511,621km²",
+    "density": "42hab./km²",
+    "hdi": "0,729",
+    "url": "https://pt.wikipedia.org/wiki/Cerqueira_C%C3%A9sar"
+},
+{
+    "name": "Cedral",
+    "state": "São Paulo",
+    "distance_to_the_capital": "430",
+    "total_population": "12618 hab.",
+    "total_area": "197,838km²",
+    "density": "63,8hab./km²",
+    "hdi": "0,803",
+    "url": "https://pt.wikipedia.org/wiki/Cedral_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Catiguá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "414",
+    "total_population": "10127 hab.",
+    "total_area": "148,4km²",
+    "density": "68,2hab./km²",
+    "hdi": "0,787",
+    "url": "https://pt.wikipedia.org/wiki/Catigu%C3%A1"
+},
+{
+    "name": "Catanduva",
+    "state": "São Paulo",
+    "distance_to_the_capital": "384",
+    "total_population": "114953 hab.",
+    "total_area": "290,596km²",
+    "density": "395,6hab./km²",
+    "hdi": "0,785",
+    "url": "https://pt.wikipedia.org/wiki/Catanduva"
+},
+{
+    "name": "Castilho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "642",
+    "total_population": "20418 hab.",
+    "total_area": "1065,318km²",
+    "density": "19,2hab./km²",
+    "hdi": "0,76",
+    "url": "https://pt.wikipedia.org/wiki/Castilho_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Cássia dos Coqueiros",
+    "state": "São Paulo",
+    "distance_to_the_capital": "351",
+    "total_population": "2627 hab.",
+    "total_area": "190,916km²",
+    "density": "13,8hab./km²",
+    "hdi": "0,796",
+    "url": "https://pt.wikipedia.org/wiki/C%C3%A1ssia_dos_Coqueiros"
+},
+{
+    "name": "Casa Branca",
+    "state": "São Paulo",
+    "distance_to_the_capital": "230",
+    "total_population": "28312 hab.",
+    "total_area": "865,544km²",
+    "density": "32,7hab./km²",
+    "hdi": "0,730",
+    "url": "https://pt.wikipedia.org/wiki/Casa_Branca_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Cardoso",
+    "state": "São Paulo",
+    "distance_to_the_capital": "560",
+    "total_population": "12305 hab.",
+    "total_area": "639,7km²",
+    "density": "19,2hab./km²",
+    "hdi": "0,756",
+    "url": "https://pt.wikipedia.org/wiki/Cardoso"
+},
+{
+    "name": "Carapicuíba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "21",
+    "total_population": "400,927 hab.",
+    "total_area": "34,967km²",
+    "density": "11,5hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Carapicu%C3%ADba"
+},
+{
+    "name": "Caraguatatuba",
+    "state": "São Paulo",
+    "distance_to_the_capital": "178",
+    "total_population": "134873 hab.",
+    "total_area": "484,947km²",
+    "density": "278,1hab./km²",
+    "hdi": "0,759",
+    "url": "https://pt.wikipedia.org/wiki/Caraguatatuba"
+},
+{
+    "name": "Capivari",
+    "state": "São Paulo",
+    "distance_to_the_capital": "108",
+    "total_population": "56973 hab.",
+    "total_area": "322,878km²",
+    "density": "176,5hab./km²",
+    "hdi": "0,750",
+    "url": "https://pt.wikipedia.org/wiki/Capivari"
+},
+{
+    "name": "Capela do Alto",
+    "state": "São Paulo",
+    "distance_to_the_capital": "112",
+    "total_population": "20706 hab.",
+    "total_area": "169,981km²",
+    "density": "121,8hab./km²",
+    "hdi": "0,748",
+    "url": "https://pt.wikipedia.org/wiki/Capela_do_Alto"
+},
+{
+    "name": "Capão Bonito",
+    "state": "São Paulo",
+    "distance_to_the_capital": "223",
+    "total_population": "46337 hab.",
+    "total_area": "1641,229km²",
+    "density": "28,2hab./km²",
+    "hdi": "0,721",
+    "url": "https://pt.wikipedia.org/wiki/Cap%C3%A3o_Bonito"
+},
+{
+    "name": "Canitar",
+    "state": "São Paulo",
+    "distance_to_the_capital": "368",
+    "total_population": "4369 hab.",
+    "total_area": "57,380km²",
+    "density": "76,1hab./km²",
+    "hdi": "0,738",
+    "url": "https://pt.wikipedia.org/wiki/Canitar"
+},
+{
+    "name": "Canas",
+    "state": "São Paulo",
+    "distance_to_the_capital": "190",
+    "total_population": "5138 hab.",
+    "total_area": "53,261km²",
+    "density": "96,5hab./km²",
+    "hdi": "0,753",
+    "url": "https://pt.wikipedia.org/wiki/Canas_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Cândido Rodrigues",
+    "state": "São Paulo",
+    "distance_to_the_capital": "353",
+    "total_population": "2668 hab.",
+    "total_area": "69,523km²",
+    "density": "38,4hab./km²",
+    "hdi": "0,789",
+    "url": "https://pt.wikipedia.org/wiki/C%C3%A2ndido_Rodrigues"
+},
+{
+    "name": "Campos do Jordão",
+    "state": "São Paulo",
+    "distance_to_the_capital": "173",
+    "total_population": "46974 hab.",
+    "total_area": "290,52km²",
+    "density": "161,7hab./km²",
+    "hdi": "0,749",
+    "url": "https://pt.wikipedia.org/wiki/Campos_do_Jord%C3%A3o"
+},
+{
+    "name": "Campo Limpo Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "45",
+    "total_population": "77632 hab.",
+    "total_area": "80,048km²",
+    "density": "969,8hab./km²",
+    "hdi": "0,805",
+    "url": "https://pt.wikipedia.org/wiki/Campo_Limpo_Paulista"
+},
+{
+    "name": "Campos Novos Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "415",
+    "total_population": "4932 hab.",
+    "total_area": "484,577km²",
+    "density": "10,2hab./km²",
+    "hdi": "0,761",
+    "url": "https://pt.wikipedia.org/wiki/Campos_Novos_Paulista"
+},
+{
+    "name": "Cândido Mota",
+    "state": "São Paulo",
+    "distance_to_the_capital": "428",
+    "total_population": "31410 hab.",
+    "total_area": "595,911km²",
+    "density": "52,7hab./km²",
+    "hdi": "0,79",
+    "url": "https://pt.wikipedia.org/wiki/C%C3%A2ndido_Mota"
+},
+{
+    "name": "Cananéia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "265",
+    "total_population": "12542 hab.",
+    "total_area": "1237,354km²",
+    "density": "10,1hab./km²",
+    "hdi": "0,720",
+    "url": "https://pt.wikipedia.org/wiki/Canan%C3%A9ia"
+},
+{
+    "name": "Campinas",
+    "state": "São Paulo",
+    "distance_to_the_capital": "99",
+    "total_population": "1139047 hab.",
+    "total_area": "794,571km²",
+    "density": "1433,5hab./km²",
+    "hdi": "0,805",
+    "url": "https://pt.wikipedia.org/wiki/Campinas"
+},
+{
+    "name": "Campina do Monte Alegre",
+    "state": "São Paulo",
+    "distance_to_the_capital": "229",
+    "total_population": "6088 hab.",
+    "total_area": "184,077km²",
+    "density": "33,1hab./km²",
+    "hdi": "0,742",
+    "url": "https://pt.wikipedia.org/wiki/Campina_do_Monte_Alegre"
+},
+{
+    "name": "Cajuru",
+    "state": "São Paulo",
+    "distance_to_the_capital": "305",
+    "total_population": "26167 hab.",
+    "total_area": "660,687km²",
+    "density": "39,6hab./km²",
+    "hdi": "0,783",
+    "url": "https://pt.wikipedia.org/wiki/Cajuru"
+},
+{
+    "name": "Cajobi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "430",
+    "total_population": "9768 hab.",
+    "total_area": "176,9km²",
+    "density": "55,2hab./km²",
+    "hdi": "0,775",
+    "url": "https://pt.wikipedia.org/wiki/Cajobi"
+},
+{
+    "name": "Cajamar",
+    "state": "São Paulo",
+    "distance_to_the_capital": "43",
+    "total_population": "92,689 hab.",
+    "total_area": "131,386km²",
+    "density": "0,7hab./km²",
+    "hdi": "0,728",
+    "url": "https://pt.wikipedia.org/wiki/Cajamar"
+},
+{
+    "name": "Caieiras",
+    "state": "São Paulo",
+    "distance_to_the_capital": "35",
+    "total_population": "95,032 hab.",
+    "total_area": "97,642km²",
+    "density": "1hab./km²",
+    "hdi": "0,781",
+    "url": "https://pt.wikipedia.org/wiki/Caieiras"
+},
+{
+    "name": "Caiabu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "559",
+    "total_population": "4072 hab.",
+    "total_area": "251,949km²",
+    "density": "16,2hab./km²",
+    "hdi": "0,779",
+    "url": "https://pt.wikipedia.org/wiki/Caiabu"
+},
+{
+    "name": "Cafelândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "411",
+    "total_population": "16,654 hab.",
+    "total_area": "919,860km²",
+    "density": "0hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Cafel%C3%A2ndia_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Cajati",
+    "state": "São Paulo",
+    "distance_to_the_capital": ": 232",
+    "total_population": "28441 hab.",
+    "total_area": "454,436km²",
+    "density": "62,6hab./km²",
+    "hdi": "0,694",
+    "url": "https://pt.wikipedia.org/wiki/Cajati_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Caiuá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "624",
+    "total_population": "5039 hab.",
+    "total_area": "535,522km²",
+    "density": "9,4hab./km²",
+    "hdi": "0,71",
+    "url": "https://pt.wikipedia.org/wiki/Caiu%C3%A1"
+},
+{
+    "name": "Caconde",
+    "state": "São Paulo",
+    "distance_to_the_capital": "290",
+    "total_population": "18985 hab.",
+    "total_area": "470,487km²",
+    "density": "40,4hab./km²",
+    "hdi": "0,782",
+    "url": "https://pt.wikipedia.org/wiki/Caconde"
+},
+{
+    "name": "Cachoeira Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "193",
+    "total_population": "33327 hab.",
+    "total_area": "287,990km²",
+    "density": "115,7hab./km²",
+    "hdi": "0,794",
+    "url": "https://pt.wikipedia.org/wiki/Cachoeira_Paulista"
+},
+{
+    "name": "Caçapava",
+    "state": "São Paulo",
+    "distance_to_the_capital": "113",
+    "total_population": "95752 hab.",
+    "total_area": "368,99km²",
+    "density": "259,5hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Ca%C3%A7apava"
+},
+{
+    "name": "Cabreúva",
+    "state": "São Paulo",
+    "distance_to_the_capital": "78",
+    "total_population": "47011 hab.",
+    "total_area": "260,234km²",
+    "density": "180,6hab./km²",
+    "hdi": "0,774",
+    "url": "https://pt.wikipedia.org/wiki/Cabre%C3%BAva_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Cabrália Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "363",
+    "total_population": "4410 hab.",
+    "total_area": "239,210km²",
+    "density": "18,4hab./km²",
+    "hdi": "0,743",
+    "url": "https://pt.wikipedia.org/wiki/Cabr%C3%A1lia_Paulista"
+},
+{
+    "name": "Buritizal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "451",
+    "total_population": "4356 hab.",
+    "total_area": "266,420km²",
+    "density": "16,4hab./km²",
+    "hdi": "0,735",
+    "url": "https://pt.wikipedia.org/wiki/Buritizal"
+},
+{
+    "name": "Buritama",
+    "state": "São Paulo",
+    "distance_to_the_capital": "542",
+    "total_population": "17414 hab.",
+    "total_area": "326,921km²",
+    "density": "53,3hab./km²",
+    "hdi": "0,79",
+    "url": "https://pt.wikipedia.org/wiki/Buritama"
+},
+{
+    "name": "Buri",
+    "state": "São Paulo",
+    "distance_to_the_capital": "263",
+    "total_population": "20250 hab.",
+    "total_area": "1194,977km²",
+    "density": "16,9hab./km²",
+    "hdi": "0,701",
+    "url": "https://pt.wikipedia.org/wiki/Buri"
+},
+{
+    "name": "Brotas",
+    "state": "São Paulo",
+    "distance_to_the_capital": "235",
+    "total_population": "24403 hab.",
+    "total_area": "1101,468km²",
+    "density": "22,2hab./km²",
+    "hdi": "0,740",
+    "url": "https://pt.wikipedia.org/wiki/Brotas_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Brodowski",
+    "state": "São Paulo",
+    "distance_to_the_capital": "337",
+    "total_population": "25277 hab.",
+    "total_area": "278,458km²",
+    "density": "90,8hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/Brodowski"
+},
+{
+    "name": "Brejo Alegre",
+    "state": "São Paulo",
+    "distance_to_the_capital": "",
+    "total_population": "2573 hab.",
+    "total_area": "104,832km²",
+    "density": "24,5hab./km²",
+    "hdi": "0,748",
+    "url": "https://pt.wikipedia.org/wiki/Brejo_Alegre"
+},
+{
+    "name": "Braúna",
+    "state": "São Paulo",
+    "distance_to_the_capital": "512",
+    "total_population": "5686 hab.",
+    "total_area": "195,516km²",
+    "density": "29,1hab./km²",
+    "hdi": "0,796",
+    "url": "https://pt.wikipedia.org/wiki/Bra%C3%BAna_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Bragança Paulista",
+    "state": "São Paulo",
+    "distance_to_the_capital": "88",
+    "total_population": "184634 hab.",
+    "total_area": "512,584km²",
+    "density": "360,2hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Bragan%C3%A7a_Paulista"
+},
+{
+    "name": "Botucatu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "235",
+    "total_population": "145155 hab.",
+    "total_area": "1482,874km²",
+    "density": "97,9hab./km²",
+    "hdi": "0,800",
+    "url": "https://pt.wikipedia.org/wiki/Botucatu"
+},
+{
+    "name": "Borebi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "306",
+    "total_population": "2713 hab.",
+    "total_area": "347,989km²",
+    "density": "7,8hab./km²",
+    "hdi": "0,7405",
+    "url": "https://pt.wikipedia.org/wiki/Borebi"
+},
+{
+    "name": "Borborema",
+    "state": "São Paulo",
+    "distance_to_the_capital": "390",
+    "total_population": "16164 hab.",
+    "total_area": "552,604km²",
+    "density": "29,3hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/Borborema_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Boraceia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "330",
+    "total_population": "4268 hab.",
+    "total_area": "120,796km²",
+    "density": "35,3hab./km²",
+    "hdi": "0,783",
+    "url": "https://pt.wikipedia.org/wiki/Boraceia"
+},
+{
+    "name": "Borá",
+    "state": "São Paulo",
+    "distance_to_the_capital": "486",
+    "total_population": "907 hab.",
+    "total_area": "118,951km²",
+    "density": "7,6hab./km²",
+    "hdi": "0,794",
+    "url": "https://pt.wikipedia.org/wiki/Bor%C3%A1"
+},
+{
+    "name": "Bom Sucesso de Itararé",
+    "state": "São Paulo",
+    "distance_to_the_capital": "270",
+    "total_population": "3571 hab.",
+    "total_area": "133,221km²",
+    "density": "26,8hab./km²",
+    "hdi": "0,660",
+    "url": "https://pt.wikipedia.org/wiki/Bom_Sucesso_de_Itarar%C3%A9"
+},
+{
+    "name": "Bom Jesus dos Perdões",
+    "state": "São Paulo",
+    "distance_to_the_capital": "87",
+    "total_population": "21942 hab.",
+    "total_area": "108,513km²",
+    "density": "202,2hab./km²",
+    "hdi": "0,713",
+    "url": "https://pt.wikipedia.org/wiki/Bom_Jesus_dos_Perd%C3%B5es"
+},
+{
+    "name": "Boituva",
+    "state": "São Paulo",
+    "distance_to_the_capital": "116",
+    "total_population": "60997 hab.",
+    "total_area": "248,954km²",
+    "density": "245hab./km²",
+    "hdi": "0,780",
+    "url": "https://pt.wikipedia.org/wiki/Boituva"
+},
+{
+    "name": "Bofete",
+    "state": "São Paulo",
+    "distance_to_the_capital": "192",
+    "total_population": "11921 hab.",
+    "total_area": "653,360km²",
+    "density": "18,2hab./km²",
+    "hdi": "0,791",
+    "url": "https://pt.wikipedia.org/wiki/Bofete"
+},
+{
+    "name": "Bocaina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "300",
+    "total_population": "11810 hab.",
+    "total_area": "364,044km²",
+    "density": "32,4hab./km²",
+    "hdi": "0,807",
+    "url": "https://pt.wikipedia.org/wiki/Bocaina_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Boa Esperança do Sul",
+    "state": "São Paulo",
+    "distance_to_the_capital": "303",
+    "total_population": "14923 hab.",
+    "total_area": "690,748km²",
+    "density": "21,6hab./km²",
+    "hdi": "0,681",
+    "url": "https://pt.wikipedia.org/wiki/Boa_Esperan%C3%A7a_do_Sul"
+},
+{
+    "name": "Biritiba Mirim",
+    "state": "São Paulo",
+    "distance_to_the_capital": "84",
+    "total_population": "29,676 hab.",
+    "total_area": "317,406km²",
+    "density": "0,1hab./km²",
+    "hdi": "0,712",
+    "url": "https://pt.wikipedia.org/wiki/Biritiba_Mirim"
+},
+{
+    "name": "Birigui",
+    "state": "São Paulo",
+    "distance_to_the_capital": "507",
+    "total_population": "126094 hab.",
+    "total_area": "530,031km²",
+    "density": "237,9hab./km²",
+    "hdi": "0,780",
+    "url": "https://pt.wikipedia.org/wiki/Birigui"
+},
+{
+    "name": "Bertioga",
+    "state": "São Paulo",
+    "distance_to_the_capital": "80",
+    "total_population": "66154 hab.",
+    "total_area": "491,546km²",
+    "density": "134,6hab./km²",
+    "hdi": "0,730",
+    "url": "https://pt.wikipedia.org/wiki/Bertioga"
+},
+{
+    "name": "Bernardino de Campos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "327",
+    "total_population": "11158 hab.",
+    "total_area": "244,018km²",
+    "density": "45,7hab./km²",
+    "hdi": "0,734",
+    "url": "https://pt.wikipedia.org/wiki/Bernardino_de_Campos"
+},
+{
+    "name": "Bento de Abreu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "560",
+    "total_population": "2674 hab.",
+    "total_area": "301,395km²",
+    "density": "8,9hab./km²",
+    "hdi": "0,802",
+    "url": "https://pt.wikipedia.org/wiki/Bento_de_Abreu"
+},
+{
+    "name": "Bebedouro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "379",
+    "total_population": "76373 hab.",
+    "total_area": "683,192km²",
+    "density": "111,8hab./km²",
+    "hdi": "0,780",
+    "url": "https://pt.wikipedia.org/wiki/Bebedouro_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Batatais",
+    "state": "São Paulo",
+    "distance_to_the_capital": "355",
+    "total_population": "58402 hab.",
+    "total_area": "850,718km²",
+    "density": "68,7hab./km²",
+    "hdi": "0,761",
+    "url": "https://pt.wikipedia.org/wiki/Batatais"
+},
+{
+    "name": "Bastos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "550",
+    "total_population": "21516 hab.",
+    "total_area": "170,454km²",
+    "density": "126,2hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Bastos"
+},
+{
+    "name": "Bilac",
+    "state": "São Paulo",
+    "distance_to_the_capital": "540",
+    "total_population": "7052 hab.",
+    "total_area": "157,278km²",
+    "density": "44,8hab./km²",
+    "hdi": "0,809",
+    "url": "https://pt.wikipedia.org/wiki/Bilac"
+},
+{
+    "name": "Bauru",
+    "state": "São Paulo",
+    "distance_to_the_capital": "300",
+    "total_population": "379146 hab.",
+    "total_area": "667,684km²",
+    "density": "567,9hab./km²",
+    "hdi": "0,801",
+    "url": "https://pt.wikipedia.org/wiki/Bauru"
+},
+{
+    "name": "Barrinha",
+    "state": "São Paulo",
+    "distance_to_the_capital": "322",
+    "total_population": "32812 hab.",
+    "total_area": "146,025km²",
+    "density": "224,7hab./km²",
+    "hdi": "0,725",
+    "url": "https://pt.wikipedia.org/wiki/Barrinha"
+},
+{
+    "name": "Barra do Chapéu",
+    "state": "São Paulo",
+    "distance_to_the_capital": "360",
+    "total_population": "5550 hab.",
+    "total_area": "407,286km²",
+    "density": "13,6hab./km²",
+    "hdi": "0,660",
+    "url": "https://pt.wikipedia.org/wiki/Barra_do_Chap%C3%A9u"
+},
+{
+    "name": "Bariri",
+    "state": "São Paulo",
+    "distance_to_the_capital": "330",
+    "total_population": "35264 hab.",
+    "total_area": "440,600km²",
+    "density": "80hab./km²",
+    "hdi": "0,83",
+    "url": "https://pt.wikipedia.org/wiki/Bariri"
+},
+{
+    "name": "Barretos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "421",
+    "total_population": "122485 hab.",
+    "total_area": "1566,161km²",
+    "density": "78,2hab./km²",
+    "hdi": "0,789",
+    "url": "https://pt.wikipedia.org/wiki/Barretos"
+},
+{
+    "name": "Barra do Turvo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "335",
+    "total_population": "6875 hab.",
+    "total_area": "1007,285km²",
+    "density": "6,8hab./km²",
+    "hdi": "0,663",
+    "url": "https://pt.wikipedia.org/wiki/Barra_do_Turvo"
+},
+{
+    "name": "Barra Bonita",
+    "state": "São Paulo",
+    "distance_to_the_capital": "288",
+    "total_population": "36321 hab.",
+    "total_area": "150,180km²",
+    "density": "241,8hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Barra_Bonita_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Barueri",
+    "state": "São Paulo",
+    "distance_to_the_capital": "26",
+    "total_population": "316,473 hab.",
+    "total_area": "65,701km²",
+    "density": "4,8hab./km²",
+    "hdi": "0,786",
+    "url": "https://pt.wikipedia.org/wiki/Barueri"
+},
+{
+    "name": "Barbosa",
+    "state": "São Paulo",
+    "distance_to_the_capital": "482",
+    "total_population": "6593 hab.",
+    "total_area": "205,131km²",
+    "density": "32,1hab./km²",
+    "hdi": "0,746",
+    "url": "https://pt.wikipedia.org/wiki/Barbosa_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Barão de Antonina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "380",
+    "total_population": "3116 hab.",
+    "total_area": "154,922km²",
+    "density": "20,1hab./km²",
+    "hdi": "0,706",
+    "url": "https://pt.wikipedia.org/wiki/Bar%C3%A3o_de_Antonina"
+},
+{
+    "name": "Bananal",
+    "state": "São Paulo",
+    "distance_to_the_capital": "316",
+    "total_population": "9969 hab.",
+    "total_area": "616,429km²",
+    "density": "16,2hab./km²",
+    "hdi": "0,733",
+    "url": "https://pt.wikipedia.org/wiki/Bananal"
+},
+{
+    "name": "Bálsamo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "464",
+    "total_population": "9854 hab.",
+    "total_area": "150,6km²",
+    "density": "65,4hab./km²",
+    "hdi": "",
+    "url": "https://pt.wikipedia.org/wiki/B%C3%A1lsamo_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Balbinos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "405",
+    "total_population": "3932 hab.",
+    "total_area": "90,858km²",
+    "density": "43,3hab./km²",
+    "hdi": "0,761",
+    "url": "https://pt.wikipedia.org/wiki/Balbinos"
+},
+{
+    "name": "Bady Bassitt",
+    "state": "São Paulo",
+    "distance_to_the_capital": "465",
+    "total_population": "27260 hab.",
+    "total_area": "110,372km²",
+    "density": "247hab./km²",
+    "hdi": "0,812",
+    "url": "https://pt.wikipedia.org/wiki/Bady_Bassitt"
+},
+{
+    "name": "Avaré",
+    "state": "São Paulo",
+    "distance_to_the_capital": "267",
+    "total_population": "92805 hab.",
+    "total_area": "1213,055km²",
+    "density": "76,5hab./km²",
+    "hdi": "0,767",
+    "url": "https://pt.wikipedia.org/wiki/Avar%C3%A9"
+},
+{
+    "name": "Auriflama",
+    "state": "São Paulo",
+    "distance_to_the_capital": "569",
+    "total_population": "15123 hab.",
+    "total_area": "434km²",
+    "density": "34,8hab./km²",
+    "hdi": "0,787",
+    "url": "https://pt.wikipedia.org/wiki/Auriflama"
+},
+{
+    "name": "Aramina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "439",
+    "total_population": "5152 hab.",
+    "total_area": "202,704km²",
+    "density": "25,4hab./km²",
+    "hdi": "0,794",
+    "url": "https://pt.wikipedia.org/wiki/Aramina"
+},
+{
+    "name": "Araçoiaba da Serra",
+    "state": "São Paulo",
+    "distance_to_the_capital": "123",
+    "total_population": "35389 hab.",
+    "total_area": "255,305km²",
+    "density": "138,6hab./km²",
+    "hdi": "0,776",
+    "url": "https://pt.wikipedia.org/wiki/Ara%C3%A7oiaba_da_Serra"
+},
+{
+    "name": "Araçariguama",
+    "state": "São Paulo",
+    "distance_to_the_capital": "44",
+    "total_population": "32964 hab.",
+    "total_area": "146,331km²",
+    "density": "225,3hab./km²",
+    "hdi": "0,770",
+    "url": "https://pt.wikipedia.org/wiki/Ara%C3%A7ariguama"
+},
+{
+    "name": "Apiaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "320",
+    "total_population": "24374 hab.",
+    "total_area": "968,841km²",
+    "density": "25,2hab./km²",
+    "hdi": "0,710",
+    "url": "https://pt.wikipedia.org/wiki/Apia%C3%AD"
+},
+{
+    "name": "Avanhandava",
+    "state": "São Paulo",
+    "distance_to_the_capital": "467",
+    "total_population": "14063 hab.",
+    "total_area": "340,338km²",
+    "density": "41,3hab./km²",
+    "hdi": "0,768",
+    "url": "https://pt.wikipedia.org/wiki/Avanhandava"
+},
+{
+    "name": "Avaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "368",
+    "total_population": "5403 hab.",
+    "total_area": "540,689km²",
+    "density": "10hab./km²",
+    "hdi": "0,748",
+    "url": "https://pt.wikipedia.org/wiki/Ava%C3%AD_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Araçatuba",
+    "state": "São Paulo",
+    "distance_to_the_capital": ": 873 km",
+    "total_population": "207775 hab.",
+    "total_area": "1167,126km²",
+    "density": "178hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Ara%C3%A7atuba"
+},
+{
+    "name": "Andradina",
+    "state": "São Paulo",
+    "distance_to_the_capital": "630",
+    "total_population": "57157 hab.",
+    "total_area": "960,095km²",
+    "density": "59,5hab./km²",
+    "hdi": "0,798",
+    "url": "https://pt.wikipedia.org/wiki/Andradina"
+},
+{
+    "name": "Aparecida d'Oeste",
+    "state": "São Paulo",
+    "distance_to_the_capital": "645",
+    "total_population": "4086 hab.",
+    "total_area": "179,004km²",
+    "density": "22,8hab./km²",
+    "hdi": "0,759",
+    "url": "https://pt.wikipedia.org/wiki/Aparecida_d%27Oeste"
+},
+{
+    "name": "Aparecida",
+    "state": "São Paulo",
+    "distance_to_the_capital": "168",
+    "total_population": "32569 hab.",
+    "total_area": "120,890km²",
+    "density": "269,4hab./km²",
+    "hdi": "0,755",
+    "url": "https://pt.wikipedia.org/wiki/Aparecida_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Anhumas",
+    "state": "São Paulo",
+    "distance_to_the_capital": "560",
+    "total_population": "3738 hab.",
+    "total_area": "320,926km²",
+    "density": "11,6hab./km²",
+    "hdi": "0,752",
+    "url": "https://pt.wikipedia.org/wiki/Anhumas"
+},
+{
+    "name": "Anhembi",
+    "state": "São Paulo",
+    "distance_to_the_capital": "240",
+    "total_population": "6215 hab.",
+    "total_area": "736,463km²",
+    "density": "8,4hab./km²",
+    "hdi": "0,768",
+    "url": "https://pt.wikipedia.org/wiki/Anhembi"
+},
+{
+    "name": "Angatuba",
+    "state": "São Paulo",
+    "distance_to_the_capital": ": 1 066 km",
+    "total_population": "24022 hab.",
+    "total_area": "1028,702km²",
+    "density": "23,4hab./km²",
+    "hdi": "0,719",
+    "url": "https://pt.wikipedia.org/wiki/Angatuba"
+},
+{
+    "name": "Analândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "221",
+    "total_population": "4995 hab.",
+    "total_area": "326,630km²",
+    "density": "15,3hab./km²",
+    "hdi": "0,804",
+    "url": "https://pt.wikipedia.org/wiki/Anal%C3%A2ndia"
+},
+{
+    "name": "Amparo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "138",
+    "total_population": "73145 hab.",
+    "total_area": "446,009km²",
+    "density": "164hab./km²",
+    "hdi": "0,785",
+    "url": "https://pt.wikipedia.org/wiki/Amparo_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Américo de Campos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "533",
+    "total_population": "5706 hab.",
+    "total_area": "253,1km²",
+    "density": "22,5hab./km²",
+    "hdi": "0,774",
+    "url": "https://pt.wikipedia.org/wiki/Am%C3%A9rico_de_Campos"
+},
+{
+    "name": "Américo Brasiliense",
+    "state": "São Paulo",
+    "distance_to_the_capital": "280",
+    "total_population": "33,019 hab.",
+    "total_area": "123km²",
+    "density": "0,3hab./km²",
+    "hdi": "0,788",
+    "url": "https://pt.wikipedia.org/wiki/Am%C3%A9rico_Brasiliense"
+},
+{
+    "name": "Alvinlândia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "450",
+    "total_population": "3056 hab.",
+    "total_area": "89km²",
+    "density": "34,3hab./km²",
+    "hdi": "0,741",
+    "url": "https://pt.wikipedia.org/wiki/Alvinl%C3%A2ndia"
+},
+{
+    "name": "Álvaro de Carvalho",
+    "state": "São Paulo",
+    "distance_to_the_capital": "433",
+    "total_population": "4896 hab.",
+    "total_area": "152,623km²",
+    "density": "32,1hab./km²",
+    "hdi": "0,73",
+    "url": "https://pt.wikipedia.org/wiki/%C3%81lvaro_de_Carvalho"
+},
+{
+    "name": "Álvares Machado",
+    "state": "São Paulo",
+    "distance_to_the_capital": "576",
+    "total_population": "27255 hab.",
+    "total_area": "347,647km²",
+    "density": "78,4hab./km²",
+    "hdi": "0,772",
+    "url": "https://pt.wikipedia.org/wiki/%C3%81lvares_Machado"
+},
+{
+    "name": "Álvares Florence",
+    "state": "São Paulo",
+    "distance_to_the_capital": "538",
+    "total_population": "3897 hab.",
+    "total_area": "362,9km²",
+    "density": "10,7hab./km²",
+    "hdi": "0,771",
+    "url": "https://pt.wikipedia.org/wiki/%C3%81lvares_Florence"
+},
+{
+    "name": "Alumínio",
+    "state": "São Paulo",
+    "distance_to_the_capital": "74",
+    "total_population": "17301 hab.",
+    "total_area": "83,660km²",
+    "density": "206,8hab./km²",
+    "hdi": "0,787",
+    "url": "https://pt.wikipedia.org/wiki/Alum%C3%ADnio_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Americana",
+    "state": "São Paulo",
+    "distance_to_the_capital": "126",
+    "total_population": "237240 hab.",
+    "total_area": "133,930km²",
+    "density": "1771,4hab./km²",
+    "hdi": "0,811",
+    "url": "https://pt.wikipedia.org/wiki/Americana_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Alto Alegre",
+    "state": "São Paulo",
+    "distance_to_the_capital": "491",
+    "total_population": "4105 hab.",
+    "total_area": "318,216km²",
+    "density": "12,9hab./km²",
+    "hdi": "0,774",
+    "url": "https://pt.wikipedia.org/wiki/Alto_Alegre_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Altinópolis",
+    "state": "São Paulo",
+    "distance_to_the_capital": "346",
+    "total_population": "15609 hab.",
+    "total_area": "929,426km²",
+    "density": "16,8hab./km²",
+    "hdi": "0,730",
+    "url": "https://pt.wikipedia.org/wiki/Altin%C3%B3polis"
+},
+{
+    "name": "Altair",
+    "state": "São Paulo",
+    "distance_to_the_capital": "473",
+    "total_population": "3451 hab.",
+    "total_area": "313,007km²",
+    "density": "11hab./km²",
+    "hdi": "0,687",
+    "url": "https://pt.wikipedia.org/wiki/Altair_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Alfredo Marcondes",
+    "state": "São Paulo",
+    "distance_to_the_capital": "596",
+    "total_population": "4,445 hab.",
+    "total_area": "119,504km²",
+    "density": "0hab./km²",
+    "hdi": "0,741",
+    "url": "https://pt.wikipedia.org/wiki/Alfredo_Marcondes"
+},
+{
+    "name": "Alambari",
+    "state": "São Paulo",
+    "distance_to_the_capital": "156",
+    "total_population": "6141 hab.",
+    "total_area": "159,600km²",
+    "density": "38,5hab./km²",
+    "hdi": "0,748",
+    "url": "https://pt.wikipedia.org/wiki/Alambari"
+},
+{
+    "name": "Agudos",
+    "state": "São Paulo",
+    "distance_to_the_capital": "330",
+    "total_population": "37214 hab.",
+    "total_area": "966,708km²",
+    "density": "38,5hab./km²",
+    "hdi": "0,786",
+    "url": "https://pt.wikipedia.org/wiki/Agudos"
+},
+{
+    "name": "Águas de Santa Bárbara",
+    "state": "São Paulo",
+    "distance_to_the_capital": "287",
+    "total_population": "7177 hab.",
+    "total_area": "408,471km²",
+    "density": "17,6hab./km²",
+    "hdi": "0,757",
+    "url": "https://pt.wikipedia.org/wiki/%C3%81guas_de_Santa_B%C3%A1rbara"
+},
+{
+    "name": "Águas da Prata",
+    "state": "São Paulo",
+    "distance_to_the_capital": "225",
+    "total_population": "8180 hab.",
+    "total_area": "142,588km²",
+    "density": "57,4hab./km²",
+    "hdi": "0,781",
+    "url": "https://pt.wikipedia.org/wiki/%C3%81guas_da_Prata"
+},
+{
+    "name": "Águas de Lindóia",
+    "state": "São Paulo",
+    "distance_to_the_capital": "159 (Via",
+    "total_population": "17930 hab.",
+    "total_area": "60,126km²",
+    "density": "298,2hab./km²",
+    "hdi": "0,745",
+    "url": "https://pt.wikipedia.org/wiki/%C3%81guas_de_Lind%C3%B3ia"
+},
+{
+    "name": "Aguaí",
+    "state": "São Paulo",
+    "distance_to_the_capital": "200",
+    "total_population": "36305 hab.",
+    "total_area": "474,741km²",
+    "density": "76,5hab./km²",
+    "hdi": "0,715",
+    "url": "https://pt.wikipedia.org/wiki/Agua%C3%AD"
+},
+{
+    "name": "Adolfo",
+    "state": "São Paulo",
+    "distance_to_the_capital": "464",
+    "total_population": "4351 hab.",
+    "total_area": "211,1km²",
+    "density": "20,6hab./km²",
+    "hdi": "0,795",
+    "url": "https://pt.wikipedia.org/wiki/Adolfo_(S%C3%A3o_Paulo)"
+},
+{
+    "name": "Águas de São Pedro",
+    "state": "São Paulo",
+    "distance_to_the_capital": "187",
+    "total_population": "3451 hab.",
+    "total_area": "3,612km²",
+    "density": "955,4hab./km²",
+    "hdi": "0,854",
+    "url": "https://pt.wikipedia.org/wiki/%C3%81guas_de_S%C3%A3o_Pedro"
+}
+]
